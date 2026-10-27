@@ -1,0 +1,3 @@
+PearlOreburghNorthwestHouse4f_Text_000 = Hahaha!\nI’m gonna swipe your Flag!
+PearlOreburghNorthwestHouse4f_Text_001 = I set some nasty Traps!\nCatch me if you can!
+PearlOreburghNorthwestHouse4f_Text_002 = Thanks to the Gym Leader, we can\nplay underground.

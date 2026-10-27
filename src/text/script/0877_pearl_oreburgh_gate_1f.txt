@@ -1,0 +1,17 @@
+PearlOreburghGate1f_Text_000 = Oh, lookie there!\nYou’ve got a Pokétch!{be01}\nHmm... You’re still a pretty new\nTrainer, aren’t you?{be01}\nBut it’s all good! You’re a new\nfellow friend of Pokémon!{be01}\nSo, let me make a gift of this\nTechnical Machine to you!{be01}
+PearlOreburghGate1f_Text_001 = That Technical Machine, or TM for short,\ncontains the hidden move Rock Smash.{be01}\nA Pokémon learning Rock Smash can\nsmash small boulders in the field.{be01}\nBut the Trainer has to have \nthe Gym Badge from Oreburgh City.{be01}\nIf you don’t have that Badge, you\ncan’t make a Pokémon use the hidden{be00}\nmove Rock Smash outside of battle.
+PearlOreburghGate1f_Text_002 = Oh! Good golly!\nThat’s Oreburgh City’s Gym Badge!{be01}\nAll right! Now you can use the hidden\nmove Rock Smash on small boulders!
+PearlOreburghGate1f_Text_003 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlOreburghGate1f_Text_004 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlOreburghGate1f_Text_005 = Obtained the {0109:0}!
+PearlOreburghGate1f_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlOreburghGate1f_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlOreburghGate1f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlOreburghGate1f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlOreburghGate1f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlOreburghGate1f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlOreburghGate1f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlOreburghGate1f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlOreburghGate1f_Text_014 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlOreburghGate1f_Text_015 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlOreburghGate1f_Text_016 = {0101:0} used Rock Smash!{be01}

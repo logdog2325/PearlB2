@@ -1,0 +1,4 @@
+PearlJublifePoketchCompany2f_Text_000 = We try to think like a Trainer when\nwe develop new Pokétch apps.{be01}\nThe user’s satisfaction is what\nwe’re after.
+PearlJublifePoketchCompany2f_Text_001 = Pokémon Watch!\nThat’s Pokétch for short.{be01}\nSay it the long way and...\nWhat does Pokémon stand for again?{be01}\nAnyway, I’m the father of the\npresident of the Pokétch Company!
+PearlJublifePoketchCompany2f_Text_002 = Clefairy: Cleffy?
+PearlJublifePoketchCompany2f_Text_003 = Pachirisu: Patchii?

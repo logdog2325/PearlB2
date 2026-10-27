@@ -1,0 +1,1 @@
+PearlSolaceonRuinsB1fMainRoom_Text_000 = There’s something really weird\nabout these ruins...{be01}\nThat’s why I like coming here,\nbut...{be01}\nCome to my house after.\nI’ll give you some neat Seals.{be01}

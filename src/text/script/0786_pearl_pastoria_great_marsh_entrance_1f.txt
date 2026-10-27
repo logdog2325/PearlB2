@@ -1,0 +1,15 @@
+PearlPastoriaGreatMarshEntrance1f_Text_000 = Welcome to the Great Marsh, the home\nof Pastoria’s Safari Game!{be01}\nAll you can catch for just $500!\nWould you like to play a Safari Game?
+PearlPastoriaGreatMarshEntrance1f_Text_001 = That will be $500, please.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_002 = Here are your Safari Balls.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_003 = {0100:0} received\n30 Safari Balls.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_004 = We’ll let you know when your game\nis over.{be01}\nUntil then, enjoy yourself, please!\nOff you go on your wild excursion!{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_005 = OK.\nPlease come again!{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_006 = You don’t have enough money.\nSorry.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_007 = I’m sorry, you don’t have enough\nroom to catch any more Pokémon.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_008 = Welcome to the Great Marsh, the home\nof Pastoria’s Safari Game!{be01}\nRecently, there have been sightings\nof Pokémon that are new to the area.{be01}\nWhich brings us to...{be01}\nAll you can catch for just $500!\nWould you like to play a Safari Game?
+PearlPastoriaGreatMarshEntrance1f_Text_009 = You still have time left. Are you sure\nyou want to exit the Great Marsh?
+PearlPastoriaGreatMarshEntrance1f_Text_010 = OK.{be01}\nI’ll relieve you of your remaining\nSafari Balls.{be01}\nThank you for playing.\nWe hope to see you again.{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_011 = Please enjoy the rest of your wild\nSafari Game adventure!{be01}
+PearlPastoriaGreatMarshEntrance1f_Text_012 = Welcome to the Great Marsh!\nIs this your first Safari Game?
+PearlPastoriaGreatMarshEntrance1f_Text_013 = When you enter the Great Marsh, you\nstart with 30 Safari Balls.{be01}\nThat’s the only kind of Ball you’re\nallowed to use in the Safari Game.{be01}\nThe game is over when you run out of\nSafari Balls, or when you’ve walked{be00}\n500 steps.{be01}\nPlease do enjoy the untamed nature\nof the Great Marsh!
+PearlPastoriaGreatMarshEntrance1f_Text_014 = I see.\nEnjoy your Safari Game!

@@ -1,0 +1,3 @@
+PearlRoute204South_Text_000 = There are boulders blocking the way\ninside the cavern...{be01}\nI think a Pokémon would be able to\nbreak those boulders, though.
+PearlRoute204South_Text_001 = Rt. 204\nJubilife City
+PearlRoute204South_Text_002 = Ravaged Path

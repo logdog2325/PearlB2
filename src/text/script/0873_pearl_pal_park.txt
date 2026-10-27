@@ -1,0 +1,15 @@
+PearlPalPark_Text_000 = You haven’t caught all your\nPokémon yet, but...{be01}\nWould you like to retire from your\nCatching Show?
+PearlPalPark_Text_001 = I see...{be01}\nI’m disappointed that you dropped\nout. Make up for it next time!{be01}
+PearlPalPark_Text_002 = That’s the spirit, {0100:0}!\nI like how you don’t give up!
+PearlPalPark_Text_003 = That’s the spirit, {0100:0}!\nI like how you don’t give up!
+PearlPalPark_Text_004 =                                     
+PearlPalPark_Text_005 = Ding-dong!\nCongratulations!{be01}\n{0100:0} has successfully\ncaught the stocked Pokémon!{be01}
+PearlPalPark_Text_006 =                                     
+PearlPalPark_Text_007 =                                       
+PearlPalPark_Text_008 = Would you like to retire?
+PearlPalPark_Text_009 = Let the countdown begin!
+PearlPalPark_Text_010 = Three...
+PearlPalPark_Text_011 = Two...
+PearlPalPark_Text_012 = One...
+PearlPalPark_Text_013 = Start!
+PearlPalPark_Text_014 = The rooms with the pedestals are\nout in the park. Good luck!

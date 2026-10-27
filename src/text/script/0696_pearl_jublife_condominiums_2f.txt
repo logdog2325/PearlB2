@@ -1,0 +1,2 @@
+PearlJublifeCondominiums2f_Text_000 = I like making my Pokémon use their\nattacks.{be01}\nSometimes, when they get stronger,\nthey learn new moves.{be01}\nThose new moves keep things fresh\nand are a fun distraction for me!
+PearlJublifeCondominiums2f_Text_001 = Did you buy some Heal Balls at the\nPoké Mart?{be01}\nA Heal Ball completely heals the\nPokémon it captures on the spot.{be01}\nThat means you can catch a Pokémon\nand have it battle-ready right away.{be01}\nOf course, if your team has six\nPokémon in it, it won’t do any good.

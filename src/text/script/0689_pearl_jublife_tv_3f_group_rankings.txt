@@ -1,0 +1,3 @@
+PearlJublifeTv3fGroupRankings_Text_000 = You can see the rankings of people\nin your group here.{be01}\nIt makes me try even harder ’cause\nI can’t stand losing to my friends!
+PearlJublifeTv3fGroupRankings_Text_001 = These rankings are nifty!{be01}\nI’m going to make a group and\ncompete with all my best friends!
+PearlJublifeTv3fGroupRankings_Text_002 = Sorry, I’m still fine-tuning this\nthingy here.

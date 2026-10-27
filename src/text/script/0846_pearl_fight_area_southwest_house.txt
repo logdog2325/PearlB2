@@ -1,0 +1,3 @@
+PearlFightAreaSouthwestHouse_Text_000 = The Battle Zone used to attract only\nthe hardiest of the Trainers.{be01}\nThey were considered eccentric for\ngathering at a place like this.{be01}\nIt’s hard to believe how much it’s\nchanged since then.{be01}\nPlaces like the Fight Area and the\nSurvival Area just seemed to spring{be00}\nup overnight.
+PearlFightAreaSouthwestHouse_Text_001 = He was one of those early eccentrics\nwho were around during the early days{be01}\nof the Battle Zone. Well, I was too.
+PearlFightAreaSouthwestHouse_Text_002 = Torchic: Chiic chic!

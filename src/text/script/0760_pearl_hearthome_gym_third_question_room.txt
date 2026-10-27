@@ -1,0 +1,3 @@
+PearlHearthomeGymThirdQuestionRoom_Text_000 = Question: 3 times 13 is?\nAnswer: ←39 ↑93 →33
+PearlHearthomeGymThirdQuestionRoom_Text_001 = Correct!\nCongratulations!
+PearlHearthomeGymThirdQuestionRoom_Text_002 = Please answer the quiz!

@@ -1,0 +1,7 @@
+{
+    "_doc": "Lines of Black 2 system text files by label (pokebw2 res/text/system/<file>.txt), applied by patches/sinnoh_names.py before packing a/0/0/2.",
+    "ability_handlers_4": {
+        "AbilityHandlers4_Text_DnaSplicers": "{ff00:2}Old Rod{ff00:0}",
+        "AbilityHandlers4_Text_DnaSplicers_2": "{ff00:2}Good Rod{ff00:0}"
+    }
+}

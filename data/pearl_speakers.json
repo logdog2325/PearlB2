@@ -1,0 +1,52 @@
+{
+  "_doc": "Who says a line of a talk script when it is not the person the player talked to (b2tools/pearl_story.py speaker(): pl_msg_actor, Black 2's balloon over that person). {zone name: {Pearl line number: object local id, or \"sys\" for a narration line (the plain window)}}. Lines of scenes (triggers, map scripts) use the plain window, as Pearl's one box. MAP_TWINLEAF_RIVAL_HOUSE_1F (the player's house): Barry's mom walks in during Mom's Journal / Parcel talk (object 1, added by the script); her lines came in a balloon over Mom (STORY.md 9, open since 2026-10-18; fixed 2026-10-20). MAP_JUBLIFE_TRAINER_SCHOOL: \"PLAYER delivered the Parcel.\" is narration, not Barry's (it came in his balloon). MAP_ETERNA_GALACTIC_BUILDING_4F: line 4 (the Clefairy's owner, object 2) comes after Jupiter (the talked-to person) has gone (2026-10-25). MAP_FLOAROMA, MAP_ROUTE_205_SOUTH: two Galactic grunts share one talk script and each says one line (Pearl turns each before his line). MAP_VALLEY_WINDWORKS_EXTERIOR line 2 (\"Ker-chunk!\", the door locking) is narration. MAP_VEILSTONE: after the Pokedex tag battle (talking to the counterpart) Grunt 1 (object 7) says lines 9-10 and Grunt 2 (object 20) line 11 (2026-10-25, chapter 4b). MAP_ROUTE_210_SOUTH: the Psyduck's talk script: its lines 0-2 are narration, and Cynthia (object 20, added by the script after the talked-to Psyduck is removed) says lines 3-5. MAP_LAKE_VERITY_GALACTIC (2026-10-26, ch6b): Rowan's line after the Mars battle (17) comes in Mars's talk script after Mars is removed: Rowan (object 5) says it. MAP_SANDGEM_ROWANS_LAB (2026-10-26, chapter 9a): the National Pokédex scene: Oak (object 4, added by the script) says lines 33, 36, 38, 40-42 (they came in Rowan's balloon), line 37 (\"...upgraded with the National Mode!\") is narration.",
+  "MAP_TWINLEAF_RIVAL_HOUSE_1F": {
+    "19": 1,
+    "21": 1,
+    "24": 1,
+    "25": 1,
+    "26": 1
+  },
+  "MAP_JUBLIFE_TRAINER_SCHOOL": {
+    "1": "sys"
+  },
+  "MAP_ETERNA_GALACTIC_BUILDING_4F": {
+    "4": 2
+  },
+  "MAP_FLOAROMA": {
+    "5": 7,
+    "6": 8
+  },
+  "MAP_ROUTE_205_SOUTH": {
+    "3": 13,
+    "5": 12
+  },
+  "MAP_VALLEY_WINDWORKS_EXTERIOR": {
+    "2": "sys"
+  },
+  "MAP_VEILSTONE": {
+    "9": 7,
+    "10": 7,
+    "11": 20
+  },
+  "MAP_ROUTE_210_SOUTH": {
+    "0": "sys",
+    "1": "sys",
+    "2": "sys",
+    "3": 20,
+    "4": 20,
+    "5": 20
+  },
+  "MAP_LAKE_VERITY_GALACTIC": {
+    "17": 5
+  },
+  "MAP_SANDGEM_ROWANS_LAB": {
+    "33": 4,
+    "36": 4,
+    "37": "sys",
+    "38": 4,
+    "40": 4,
+    "41": 4,
+    "42": 4
+  }
+}

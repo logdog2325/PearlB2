@@ -1,0 +1,1714 @@
+{
+ "_doc": "Pearl's Pokédex text (b2tools/patches/sinnoh_pokedex.py --text, from the user's dump through b2tools/gen4_text.py): the list header SINNOH POKÉDEX, the search and HABITAT list lines, and Pearl's entries (bank 616) for species 1-493 where Black 2's differ (315; 178 equal), the alternate forms Pearl has (Unown, Castform, Deoxys, Burmy, Wormadam, Shellos, Gastrodon, Cherrim) the same entry. Categories, heights and weights equal Pearl's for all 493 (checked), so Black 2's lines stay.",
+ "game_start_3": {
+  "GameStart3_Text_UnovaPokedex": "SINNOH POKÉDEX",
+  "GameStart3_Text_Unova": "SINNOH"
+ },
+ "zknsearch_main": {
+  "ZknsearchMain_Text_UnovaPokedexSearchMode": "Sinnoh Pokédex: Search Mode"
+ },
+ "zukan_habitat": {
+  "ZukanHabitat_Text_Unova": "SINNOH",
+  "ZukanHabitat_Text_WhenAllPokemonHabitat": "When all the Pokémon in that Habitat\\nhave been encountered,\\nyou'll receive a stamp.\\nExplore all of the Sinnoh region!{be01}"
+ },
+ "res/pokemon/ivysaur/data.json": {
+  "pokedex": {
+   "entry": "When the bud on its back starts\nswelling, a sweet aroma wafts to\nindicate the flower’s coming bloom."
+  }
+ },
+ "res/pokemon/charizard/data.json": {
+  "pokedex": {
+   "entry": "It is said that Charizard’s fire\nburns hotter if it has\nexperienced harsh battles."
+  }
+ },
+ "res/pokemon/squirtle/data.json": {
+  "pokedex": {
+   "entry": "It shelters itself in its shell,\nthen strikes back with spouts of\nwater at every opportunity."
+  }
+ },
+ "res/pokemon/rattata/data.json": {
+  "pokedex": {
+   "entry": "Cautious in the extreme, its\nhardy vitality lets it live in\nany kind of environment."
+  }
+ },
+ "res/pokemon/raticate/data.json": {
+  "pokedex": {
+   "entry": "It whittles its constantly growing\nfangs by gnawing on hard things.\nIt can chew apart cinder walls."
+  }
+ },
+ "res/pokemon/fearow/data.json": {
+  "pokedex": {
+   "entry": "It has the stamina to keep flying\nall day on its broad wings. It\nfights by using its sharp beak."
+  }
+ },
+ "res/pokemon/pikachu/data.json": {
+  "pokedex": {
+   "entry": "If it looses crackling power from\nthe electric pouches on its\ncheeks, it is being wary."
+  }
+ },
+ "res/pokemon/raichu/data.json": {
+  "pokedex": {
+   "entry": "It can loose 100,000-volt bursts\nof electricity, instantly downing\nfoes several times its size."
+  }
+ },
+ "res/pokemon/sandshrew/data.json": {
+  "pokedex": {
+   "entry": "To protect itself from attackers,\nit curls up into a ball. It lives in\narid regions with minimal rainfall."
+  }
+ },
+ "res/pokemon/sandslash/data.json": {
+  "pokedex": {
+   "entry": "It curls up, then rolls into foes\nwith its back. Its sharp spines\ninflict severe damage."
+  }
+ },
+ "res/pokemon/nidorina/data.json": {
+  "pokedex": {
+   "entry": "When it senses danger, it raises\nall the barbs on its body. These\nbarbs grow slower than Nidorino’s."
+  }
+ },
+ "res/pokemon/clefairy/data.json": {
+  "pokedex": {
+   "entry": "It flies using the wings on its\nback to collect moonlight. This\nPokémon is difficult to find."
+  }
+ },
+ "res/pokemon/clefable/data.json": {
+  "pokedex": {
+   "entry": "Its hearing is so acute it can\nhear a pin drop over half a mile\naway. It lives on quiet mountains."
+  }
+ },
+ "res/pokemon/vulpix/data.json": {
+  "pokedex": {
+   "entry": "It controls balls of fire. As it\ngrows, its six tails split from\ntheir tips to make more tails."
+  }
+ },
+ "res/pokemon/ninetales/data.json": {
+  "pokedex": {
+   "entry": "Its nine tails are said to be\nimbued with a mystic power.\nIt can live for a thousand years."
+  }
+ },
+ "res/pokemon/jigglypuff/data.json": {
+  "pokedex": {
+   "entry": "When it wavers its big, round\neyes, it begins singing a lullaby\nthat makes everyone drowsy."
+  }
+ },
+ "res/pokemon/wigglytuff/data.json": {
+  "pokedex": {
+   "entry": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air."
+  }
+ },
+ "res/pokemon/zubat/data.json": {
+  "pokedex": {
+   "entry": "Disliking sunlight, it sleeps\ndeep in forests and caves\nuntil sundown."
+  }
+ },
+ "res/pokemon/golbat/data.json": {
+  "pokedex": {
+   "entry": "Once it starts sucking blood, it\ndoes not stop until it is full. It\nflies at night in search of prey."
+  }
+ },
+ "res/pokemon/parasect/data.json": {
+  "pokedex": {
+   "entry": "It is controlled by a mushroom\ngrown larger than the bug body.\nIt is said to prefer damp places."
+  }
+ },
+ "res/pokemon/psyduck/data.json": {
+  "pokedex": {
+   "entry": "It never remembers using its\nodd powers, so it always tilts\nits head in puzzlement."
+  }
+ },
+ "res/pokemon/golduck/data.json": {
+  "pokedex": {
+   "entry": "The flippers of its well-developed\nlimbs give it shocking speed. It is\nthe best swimmer among Pokémon."
+  }
+ },
+ "res/pokemon/growlithe/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon with a loyal nature.\nIt will remain motionless until it is\ngiven an order by its Trainer."
+  }
+ },
+ "res/pokemon/arcanine/data.json": {
+  "pokedex": {
+   "entry": "Its proud and regal appearance\nhas captured the hearts of\npeople since long ago."
+  }
+ },
+ "res/pokemon/abra/data.json": {
+  "pokedex": {
+   "entry": "Even while asleep, it maintains a\ntelepathic radar. It teleports\nwhen it is threatened."
+  }
+ },
+ "res/pokemon/kadabra/data.json": {
+  "pokedex": {
+   "entry": "When it uses its psychic power, it\nemits strong alpha waves that can\nruin precision devices."
+  }
+ },
+ "res/pokemon/alakazam/data.json": {
+  "pokedex": {
+   "entry": "Its highly developed brain is on\npar with a supercomputer. It can\nuse all forms of psychic abilities."
+  }
+ },
+ "res/pokemon/machop/data.json": {
+  "pokedex": {
+   "entry": "Its muscles never cramp however\nmuch it trains. It lives in the\nmountains away from humans."
+  }
+ },
+ "res/pokemon/machoke/data.json": {
+  "pokedex": {
+   "entry": "It can lift a dump truck with one\nhand. Using that power, it helps\npeople with heavy jobs."
+  }
+ },
+ "res/pokemon/machamp/data.json": {
+  "pokedex": {
+   "entry": "It can knock a train flying with a\npunch. However, it is terrible at\ndelicate work using its fingers."
+  }
+ },
+ "res/pokemon/victreebel/data.json": {
+  "pokedex": {
+   "entry": "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything."
+  }
+ },
+ "res/pokemon/tentacool/data.json": {
+  "pokedex": {
+   "entry": "It drifts in sea currents.\nCountless fishermen are\nhurt by its poison stingers."
+  }
+ },
+ "res/pokemon/tentacruel/data.json": {
+  "pokedex": {
+   "entry": "It alerts others to danger by\nstridently flashing the red orbs\non its head."
+  }
+ },
+ "res/pokemon/geodude/data.json": {
+  "pokedex": {
+   "entry": "It is impossible to distinguish from\nrocks. It slams against others in\ncontests of hardness."
+  }
+ },
+ "res/pokemon/graveler/data.json": {
+  "pokedex": {
+   "entry": "It tumbles down slopes, heedless\nof any body parts chipping off.\nIt eats a ton of rocks daily."
+  }
+ },
+ "res/pokemon/golem/data.json": {
+  "pokedex": {
+   "entry": "It tumbles down mountains, leaving\ngrooves from peak to base.\nStay clear of these grooves."
+  }
+ },
+ "res/pokemon/ponyta/data.json": {
+  "pokedex": {
+   "entry": "Its legs grow strong while it\nchases after its parent. It runs\nin fields and mountains all day."
+  }
+ },
+ "res/pokemon/rapidash/data.json": {
+  "pokedex": {
+   "entry": "It has astounding acceleration.\nFrom a standstill, it can reach\ntop speed within 10 steps."
+  }
+ },
+ "res/pokemon/magnemite/data.json": {
+  "pokedex": {
+   "entry": "The units at its sides generate\nelectromagnetic waves that keep it\nairborne. It feeds on electricity."
+  }
+ },
+ "res/pokemon/magneton/data.json": {
+  "pokedex": {
+   "entry": "It is actually three Magnemite\nlinked by magnetism. A group can\nset off a magnetic storm."
+  }
+ },
+ "res/pokemon/farfetchd/data.json": {
+  "pokedex": {
+   "entry": "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life."
+  }
+ },
+ "res/pokemon/seel/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon that lives on icebergs.\nIt swims in the sea using the point\non its head to break up ice."
+  }
+ },
+ "res/pokemon/dewgong/data.json": {
+  "pokedex": {
+   "entry": "In snow, the pure white coat\ncovering its body obscures it from\npredators."
+  }
+ },
+ "res/pokemon/grimer/data.json": {
+  "pokedex": {
+   "entry": "It was born when sludge in a dirty\nstream was exposed to the moon’s\nX-rays. It appears among filth."
+  }
+ },
+ "res/pokemon/muk/data.json": {
+  "pokedex": {
+   "entry": "A toxic fluid seeps from its body.\nThe fluid instantly kills plants and\ntrees on contact."
+  }
+ },
+ "res/pokemon/gastly/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon born from poison gases.\nIt defeats even the largest foes\nby enveloping them in gas."
+  }
+ },
+ "res/pokemon/haunter/data.json": {
+  "pokedex": {
+   "entry": "It licks with its gaseous tongue\nto steal the victim’s life force.\nIt lurks in darkness for prey."
+  }
+ },
+ "res/pokemon/gengar/data.json": {
+  "pokedex": {
+   "entry": "Lurking in the shadowy corners\nof rooms, it awaits chances to\nsteal its prey’s life force."
+  }
+ },
+ "res/pokemon/onix/data.json": {
+  "pokedex": {
+   "entry": "It squirms through the ground\nusing its long and rugged body.\nIt always eats while burrowing."
+  }
+ },
+ "res/pokemon/voltorb/data.json": {
+  "pokedex": {
+   "entry": "It looks just like a Poké Ball.\nIt is dangerous because it may\nelectrocute or explode on touch."
+  }
+ },
+ "res/pokemon/exeggutor/data.json": {
+  "pokedex": {
+   "entry": "It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an Exeggcute."
+  }
+ },
+ "res/pokemon/lickitung/data.json": {
+  "pokedex": {
+   "entry": "Instead of hands, it uses its\ntongue, which is twice its height.\nIts sticky saliva grips anything."
+  }
+ },
+ "res/pokemon/koffing/data.json": {
+  "pokedex": {
+   "entry": "Lighter-than-air gases in its body\nkeep it aloft. The gases not only\nsmell, they are also explosive."
+  }
+ },
+ "res/pokemon/weezing/data.json": {
+  "pokedex": {
+   "entry": "It grows by feeding on gases\nreleased by garbage. Though very\nrare, triplets have been found."
+  }
+ },
+ "res/pokemon/rhyhorn/data.json": {
+  "pokedex": {
+   "entry": "Its body is clad in a thick hide,\nand its tackles topple buildings.\nUnfortunately, it is not smart."
+  }
+ },
+ "res/pokemon/rhydon/data.json": {
+  "pokedex": {
+   "entry": "Its brain developed after it stood\nup on its hind legs. Its drill horn\nbores tunnels through solid rock."
+  }
+ },
+ "res/pokemon/chansey/data.json": {
+  "pokedex": {
+   "entry": "It lays several eggs a day and\nwon’t share them with those\nwho have evil in their hearts."
+  }
+ },
+ "res/pokemon/tangela/data.json": {
+  "pokedex": {
+   "entry": "It is shrouded by blue vines.\nNo one has seen the face hidden\nbehind this growth of vines."
+  }
+ },
+ "res/pokemon/seadra/data.json": {
+  "pokedex": {
+   "entry": "Its spines provide protection.\nIts fins and bones are prized as\ntraditional medicine ingredients."
+  }
+ },
+ "res/pokemon/goldeen/data.json": {
+  "pokedex": {
+   "entry": "It swims at a steady 5 knots.\nIf it senses danger, it will strike\nback with its sharp horn."
+  }
+ },
+ "res/pokemon/seaking/data.json": {
+  "pokedex": {
+   "entry": "To protect its family, it will fight\nwith its drill-sharp horn. It lives\nin hollowed rocks in streams."
+  }
+ },
+ "res/pokemon/staryu/data.json": {
+  "pokedex": {
+   "entry": "If its body is torn, it can grow\nback if the red core remains.\nThe core flashes at midnight."
+  }
+ },
+ "res/pokemon/starmie/data.json": {
+  "pokedex": {
+   "entry": "At the center of its body is a red\ncore, which sends mysterious\nradio signals into the night sky."
+  }
+ },
+ "res/pokemon/mr_mime/data.json": {
+  "pokedex": {
+   "entry": "Emanations from its fingertips\nsolidify the air into invisible walls\nthat repel even harsh attacks."
+  }
+ },
+ "res/pokemon/scyther/data.json": {
+  "pokedex": {
+   "entry": "It is nearly impossible to parry\nits attacking scythes. Its\nmovements are like a ninja’s."
+  }
+ },
+ "res/pokemon/electabuzz/data.json": {
+  "pokedex": {
+   "entry": "Half of all blackouts occur when\nthis Pokémon appears at power\nplants and eats electricity."
+  }
+ },
+ "res/pokemon/magmar/data.json": {
+  "pokedex": {
+   "entry": "Born in the spout of a volcano,\nits body is covered by flames\nthat shimmer like the sun."
+  }
+ },
+ "res/pokemon/pinsir/data.json": {
+  "pokedex": {
+   "entry": "It grips prey with its pincers\nuntil the prey is torn in half.\nWhat it can’t tear, it tosses far."
+  }
+ },
+ "res/pokemon/magikarp/data.json": {
+  "pokedex": {
+   "entry": "It is unable to swim against even\nslow-moving currents. It always\nsplashes about for some reason."
+  }
+ },
+ "res/pokemon/gyarados/data.json": {
+  "pokedex": {
+   "entry": "In ancient literature, there is a\nrecord of a Gyarados that razed\na village when violence flared."
+  }
+ },
+ "res/pokemon/lapras/data.json": {
+  "pokedex": {
+   "entry": "It loves crossing the sea with\npeople and Pokémon on its back.\nIt understands human speech."
+  }
+ },
+ "res/pokemon/ditto/data.json": {
+  "pokedex": {
+   "entry": "It has the ability to reconstitute\nits entire cellular structure to\ntransform into whatever it sees."
+  }
+ },
+ "res/pokemon/eevee/data.json": {
+  "pokedex": {
+   "entry": "A rare Pokémon that adapts to\nharsh environments by taking on\ndifferent evolutionary forms."
+  }
+ },
+ "res/pokemon/vaporeon/data.json": {
+  "pokedex": {
+   "entry": "It has evolved to be suitable for\nan aquatic life. It can invisibly\nmelt away into water."
+  }
+ },
+ "res/pokemon/jolteon/data.json": {
+  "pokedex": {
+   "entry": "It controls 10,000-volt power\nand can raise all the fur on its\nbody as if it were sharp needles."
+  }
+ },
+ "res/pokemon/flareon/data.json": {
+  "pokedex": {
+   "entry": "It has a flame sac in its body.\nIts body temperature tops 1,650\ndegrees Fahrenheit before battle."
+  }
+ },
+ "res/pokemon/porygon/data.json": {
+  "pokedex": {
+   "entry": "The world’s first artificially\ncreated Pokémon. It can travel\nthrough electronic space."
+  }
+ },
+ "res/pokemon/snorlax/data.json": {
+  "pokedex": {
+   "entry": "It stops eating only to sleep.\nIt doesn’t feel full unless it\neats nearly 900 pounds a day."
+  }
+ },
+ "res/pokemon/dratini/data.json": {
+  "pokedex": {
+   "entry": "It is called the “Mirage Pokémon”\nbecause so few have seen it.\nIts shed skin has been found."
+  }
+ },
+ "res/pokemon/mewtwo/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon created by recombining\nMew’s genes. It’s said to have the\nmost savage heart among Pokémon."
+  }
+ },
+ "res/pokemon/croconaw/data.json": {
+  "pokedex": {
+   "entry": "Once it bites down, it won’t let go\nuntil it loses its fangs. New fangs\nquickly grow into place."
+  }
+ },
+ "res/pokemon/hoothoot/data.json": {
+  "pokedex": {
+   "entry": "It switches its standing foot so\nquickly, it can’t be seen. It cries\nat the same time every day."
+  }
+ },
+ "res/pokemon/noctowl/data.json": {
+  "pokedex": {
+   "entry": "If it flips its head upside down,\nit’s a sign that it is engaged in\nvery complex thinking."
+  }
+ },
+ "res/pokemon/ledyba/data.json": {
+  "pokedex": {
+   "entry": "It is so timid, it can’t move if it\nisn’t with a swarm of others. It\nconveys its feelings with scent."
+  }
+ },
+ "res/pokemon/crobat/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon that gained vastly\nenhanced flying performance by\nhaving its legs turn into wings."
+  }
+ },
+ "res/pokemon/lanturn/data.json": {
+  "pokedex": {
+   "entry": "Lanturn’s light can shine up from\ngreat depths. It is nicknamed\n“The Deep-Sea Star.”"
+  }
+ },
+ "res/pokemon/pichu/data.json": {
+  "pokedex": {
+   "entry": "It plays with others by touching\ntails and setting off sparks. This\nappears to be a test of courage."
+  }
+ },
+ "res/pokemon/cleffa/data.json": {
+  "pokedex": {
+   "entry": "Many appear when the night skies\nare filled with shooting stars.\nThey disappear with sunrise."
+  }
+ },
+ "res/pokemon/igglybuff/data.json": {
+  "pokedex": {
+   "entry": "It has a soft and bouncy body.\nOnce it starts bouncing, it\nbecomes impossible to stop."
+  }
+ },
+ "res/pokemon/togepi/data.json": {
+  "pokedex": {
+   "entry": "Its shell is said to be stuffed\nwith happiness that it shares with\nkindhearted people."
+  }
+ },
+ "res/pokemon/togetic/data.json": {
+  "pokedex": {
+   "entry": "It is said to appear in front of\nkindly people to scatter a glowing\ndown called “joy dust.”"
+  }
+ },
+ "res/pokemon/xatu/data.json": {
+  "pokedex": {
+   "entry": "This odd Pokémon can see both\nthe past and the future. It eyes\nthe sun’s movement all day."
+  }
+ },
+ "res/pokemon/mareep/data.json": {
+  "pokedex": {
+   "entry": "Its fluffy coat swells to double\nwhen static electricity builds up.\nTouching it can be shocking."
+  }
+ },
+ "res/pokemon/flaaffy/data.json": {
+  "pokedex": {
+   "entry": "If its coat becomes fully charged\nwith electricity, its tail lights up.\nIt fires hair that zaps on impact."
+  }
+ },
+ "res/pokemon/ampharos/data.json": {
+  "pokedex": {
+   "entry": "The tip of its tail shines brightly.\nIn the olden days, people sent\nsignals using the tail’s light."
+  }
+ },
+ "res/pokemon/marill/data.json": {
+  "pokedex": {
+   "entry": "The tip of its tail is filled with oil\nthat is lighter than water, so it\nacts as a float."
+  }
+ },
+ "res/pokemon/azumarill/data.json": {
+  "pokedex": {
+   "entry": "Its long ears are superb sensors.\nIt can distinguish the movements\nof living things on riverbeds."
+  }
+ },
+ "res/pokemon/sudowoodo/data.json": {
+  "pokedex": {
+   "entry": "It stands along paths pretending\nto be a tree. If it starts raining,\nit seems to disappear."
+  }
+ },
+ "res/pokemon/aipom/data.json": {
+  "pokedex": {
+   "entry": "It lives atop giant trees.\nIt wraps its tail around a branch\nso it won’t fall off while asleep."
+  }
+ },
+ "res/pokemon/sunkern/data.json": {
+  "pokedex": {
+   "entry": "It suddenly falls out of the sky in\nthe morning. A year after a cold\nsummer, their population explodes."
+  }
+ },
+ "res/pokemon/sunflora/data.json": {
+  "pokedex": {
+   "entry": "It gets energy from warm sunlight\nand is known for its habit of\nmoving in pursuit of it."
+  }
+ },
+ "res/pokemon/yanma/data.json": {
+  "pokedex": {
+   "entry": "Its eyes can see 360 degrees\nwithout moving its head. It won’t\nmiss prey--even those behind it."
+  }
+ },
+ "res/pokemon/wooper/data.json": {
+  "pokedex": {
+   "entry": "When the temperature cools in the\nevening, they emerge from water\nto seek food along the shore."
+  }
+ },
+ "res/pokemon/quagsire/data.json": {
+  "pokedex": {
+   "entry": "A dim-witted Pokémon. It doesn’t\ncare if it bumps its head into\nboats or rocks while swimming."
+  }
+ },
+ "res/pokemon/espeon/data.json": {
+  "pokedex": {
+   "entry": "Its fur has the look and feel of\nvelvet. The orb on its forehead\nglows when it uses psycho-power."
+  }
+ },
+ "res/pokemon/umbreon/data.json": {
+  "pokedex": {
+   "entry": "The light of the moon changed\nEevee’s genetic structure. It\nlurks in darkness for prey."
+  }
+ },
+ "res/pokemon/murkrow/data.json": {
+  "pokedex": {
+   "entry": "It appears near travelers to lure\nthem into deep forests. It is said\nto carry misfortune."
+  }
+ },
+ "res/pokemon/misdreavus/data.json": {
+  "pokedex": {
+   "entry": "It gets nourishment from fear\nthat it absorbs into its red orbs.\nIn daytime, it sleeps in darkness."
+  }
+ },
+ "res/pokemon/unown/data.json": {
+  "pokedex": {
+   "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls.",
+   "forms": [
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    },
+    {
+     "entry": "They seem to communicate among\neach other telepathically. They\nare always found stuck on walls."
+    }
+   ]
+  }
+ },
+ "res/pokemon/girafarig/data.json": {
+  "pokedex": {
+   "entry": "While it sleeps, the head on its\ntail keeps watch. The tail doesn’t\nneed to sleep."
+  }
+ },
+ "res/pokemon/dunsparce/data.json": {
+  "pokedex": {
+   "entry": "It digs into the ground with its\ntail and makes a mazelike nest.\nIt can fly just a little."
+  }
+ },
+ "res/pokemon/gligar/data.json": {
+  "pokedex": {
+   "entry": "It sails on the winds with its\nlimbs extended to strike from the\nsky. It aims for the prey’s face."
+  }
+ },
+ "res/pokemon/steelix/data.json": {
+  "pokedex": {
+   "entry": "It chews its way through boulders\nwith its sturdy jaws. Its eyes can\nsee in the darkness underground."
+  }
+ },
+ "res/pokemon/scizor/data.json": {
+  "pokedex": {
+   "entry": "It has a steel-hard body. It\nintimidates foes by upraising its\neye-patterned pincers."
+  }
+ },
+ "res/pokemon/shuckle/data.json": {
+  "pokedex": {
+   "entry": "It stores berries in its shell.\nThe berries eventually ferment to\nbecome delicious juices."
+  }
+ },
+ "res/pokemon/heracross/data.json": {
+  "pokedex": {
+   "entry": "With powerful legs and claws,\nit generates enough power to hurl\nfoes over great distances."
+  }
+ },
+ "res/pokemon/sneasel/data.json": {
+  "pokedex": {
+   "entry": "It is extremely vicious and will not\nstop attacking until its foe is\nincapable of moving."
+  }
+ },
+ "res/pokemon/slugma/data.json": {
+  "pokedex": {
+   "entry": "Its body is made of magma.\nIf it doesn’t keep moving, its\nbody will cool and harden."
+  }
+ },
+ "res/pokemon/swinub/data.json": {
+  "pokedex": {
+   "entry": "It loves eating mushrooms that\ngrow under dead grass. It also\nfinds hot springs while foraging."
+  }
+ },
+ "res/pokemon/piloswine/data.json": {
+  "pokedex": {
+   "entry": "Its shaggy coat makes it unable\nto see. It checks surroundings\nwith its sensitive nose instead."
+  }
+ },
+ "res/pokemon/corsola/data.json": {
+  "pokedex": {
+   "entry": "Many live in the clean seas of the\nsouth. They apparently can’t live\nin polluted waters."
+  }
+ },
+ "res/pokemon/remoraid/data.json": {
+  "pokedex": {
+   "entry": "It clings to Mantine to feed on\nthe big Pokémon’s scraps. This is\nan adaptation to avoid foes."
+  }
+ },
+ "res/pokemon/octillery/data.json": {
+  "pokedex": {
+   "entry": "It obscures its foe’s vision by\nspitting a cloud of murky ink.\nIt makes its nest among boulders."
+  }
+ },
+ "res/pokemon/delibird/data.json": {
+  "pokedex": {
+   "entry": "It carries food rolled up in its\ntail. It has the habit of sharing\nfood with people lost in mountains."
+  }
+ },
+ "res/pokemon/mantine/data.json": {
+  "pokedex": {
+   "entry": "It swims elegantly, mindless of\nRemoraid hitching on to its broad\nfins. It has a docile nature."
+  }
+ },
+ "res/pokemon/skarmory/data.json": {
+  "pokedex": {
+   "entry": "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph."
+  }
+ },
+ "res/pokemon/houndour/data.json": {
+  "pokedex": {
+   "entry": "It conveys its feelings using\ndifferent cries. It works in a pack\nto cleverly take down prey."
+  }
+ },
+ "res/pokemon/houndoom/data.json": {
+  "pokedex": {
+   "entry": "Long ago, people imagined\nits eerie howls to be the call\nof the grim reaper."
+  }
+ },
+ "res/pokemon/donphan/data.json": {
+  "pokedex": {
+   "entry": "It attacks by curling up, then\nrolling into its foe. It can blow\napart a house in one hit."
+  }
+ },
+ "res/pokemon/porygon2/data.json": {
+  "pokedex": {
+   "entry": "With planetary development\nsoftware installed, it became\ncapable of working in space."
+  }
+ },
+ "res/pokemon/hitmontop/data.json": {
+  "pokedex": {
+   "entry": "It fights while spinning like a top.\nThe centrifugal force boosts its\ndestructive power by ten."
+  }
+ },
+ "res/pokemon/elekid/data.json": {
+  "pokedex": {
+   "entry": "It generates electricity by\nwhirling its arms. However, it\ncan’t store the energy it makes."
+  }
+ },
+ "res/pokemon/magby/data.json": {
+  "pokedex": {
+   "entry": "Its body temperature is around\n1,100 degrees F. It is healthy if\nit is breathing yellow flames."
+  }
+ },
+ "res/pokemon/miltank/data.json": {
+  "pokedex": {
+   "entry": "It is said that kids who drink\nMiltank’s milk grow up to become\nhearty, healthy adults."
+  }
+ },
+ "res/pokemon/blissey/data.json": {
+  "pokedex": {
+   "entry": "It is a Pokémon that delivers\nhappiness. Eating its egg is said\nto make one kind to everyone."
+  }
+ },
+ "res/pokemon/larvitar/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon that eats soil. Once it\nhas eaten a large mountain, it\ngoes to sleep so it can grow."
+  }
+ },
+ "res/pokemon/pupitar/data.json": {
+  "pokedex": {
+   "entry": "Its body is as hard as bedrock.\nBy venting pressurized gas, it can\nlaunch itself like a rocket."
+  }
+ },
+ "res/pokemon/tyranitar/data.json": {
+  "pokedex": {
+   "entry": "If it rampages, it knocks down\nmountains and buries rivers. Maps\nmust be redrawn afterward."
+  }
+ },
+ "res/pokemon/grovyle/data.json": {
+  "pokedex": {
+   "entry": "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch."
+  }
+ },
+ "res/pokemon/wurmple/data.json": {
+  "pokedex": {
+   "entry": "It spits a white silk that turns\nsticky when it contacts air. It is\nused to immobilize foes."
+  }
+ },
+ "res/pokemon/silcoon/data.json": {
+  "pokedex": {
+   "entry": "It drinks dew that collects on its\nsilk and waits for evolution. Its\nhard cocoon repels attacks."
+  }
+ },
+ "res/pokemon/beautifly/data.json": {
+  "pokedex": {
+   "entry": "When flower fields bloom, it flits\naround, collecting pollen. Despite\nits appearance, it is savage."
+  }
+ },
+ "res/pokemon/cascoon/data.json": {
+  "pokedex": {
+   "entry": "Encased within its tough cocoon, it\nendures attacks. It never forgets\nthe appearance of its foes."
+  }
+ },
+ "res/pokemon/dustox/data.json": {
+  "pokedex": {
+   "entry": "It violently flutters its wings to\nscatter toxic dust when attacked.\nIt becomes active after sunset."
+  }
+ },
+ "res/pokemon/lotad/data.json": {
+  "pokedex": {
+   "entry": "It looks like an aquatic plant and\nserves as a ferry to Pokémon\nthat can’t swim."
+  }
+ },
+ "res/pokemon/ludicolo/data.json": {
+  "pokedex": {
+   "entry": "If it hears festive music, all its\nmuscles fill with energy. It can’t\nhelp breaking out into a dance."
+  }
+ },
+ "res/pokemon/wingull/data.json": {
+  "pokedex": {
+   "entry": "Catching sea winds with its long\nwings, it soars as if it were a\nglider. It folds its wings to rest."
+  }
+ },
+ "res/pokemon/pelipper/data.json": {
+  "pokedex": {
+   "entry": "It acts as a delivery service by\ncarrying small Pokémon in its bill.\nIt bobs on the waves to rest."
+  }
+ },
+ "res/pokemon/ralts/data.json": {
+  "pokedex": {
+   "entry": "It uses the horns on its head to\nsense human emotions. It is said to\nappear in front of cheerful people."
+  }
+ },
+ "res/pokemon/kirlia/data.json": {
+  "pokedex": {
+   "entry": "It is highly perceptive of its\nTrainer’s feelings. It dances when\nit is feeling happy."
+  }
+ },
+ "res/pokemon/gardevoir/data.json": {
+  "pokedex": {
+   "entry": "It will try to guard its trusted\nTrainer with its life. It has the\nability to see the future."
+  }
+ },
+ "res/pokemon/slakoth/data.json": {
+  "pokedex": {
+   "entry": "It spends nearly all its time in a\nday sprawled out. Just seeing it\nmakes one drowsy."
+  }
+ },
+ "res/pokemon/vigoroth/data.json": {
+  "pokedex": {
+   "entry": "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment."
+  }
+ },
+ "res/pokemon/slaking/data.json": {
+  "pokedex": {
+   "entry": "The world’s laziest Pokémon. When\nit is lounging, it is actually saving\nenergy for striking back."
+  }
+ },
+ "res/pokemon/shedinja/data.json": {
+  "pokedex": {
+   "entry": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one’s spirit."
+  }
+ },
+ "res/pokemon/azurill/data.json": {
+  "pokedex": {
+   "entry": "Its tail is filled with nutrients\nnecessary for growth. It plays\nby bouncing on its tail."
+  }
+ },
+ "res/pokemon/nosepass/data.json": {
+  "pokedex": {
+   "entry": "Its nose is a magnet. As a result,\nthis Pokémon always keeps its face\npointing north."
+  }
+ },
+ "res/pokemon/skitty/data.json": {
+  "pokedex": {
+   "entry": "It can’t stop itself from chasing\nmoving things, and it runs in a\ncircle, chasing its own tail."
+  }
+ },
+ "res/pokemon/delcatty/data.json": {
+  "pokedex": {
+   "entry": "It is highly popular among female\nTrainers for its sublime fur.\nIt does not keep a nest."
+  }
+ },
+ "res/pokemon/aron/data.json": {
+  "pokedex": {
+   "entry": "It usually lives deep in mountains.\nHowever, hunger may drive it to\neat railroad tracks and cars."
+  }
+ },
+ "res/pokemon/lairon/data.json": {
+  "pokedex": {
+   "entry": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory."
+  }
+ },
+ "res/pokemon/aggron/data.json": {
+  "pokedex": {
+   "entry": "While seeking iron for food, it\ndigs tunnels by breaking through\nbedrock with its steel horns."
+  }
+ },
+ "res/pokemon/meditite/data.json": {
+  "pokedex": {
+   "entry": "It never misses its daily yoga\nworkouts, and it heightens its\nspiritual power through meditation."
+  }
+ },
+ "res/pokemon/medicham/data.json": {
+  "pokedex": {
+   "entry": "Through daily meditation, it hones\nits spiritual power. It can sense\nwhat others are thinking."
+  }
+ },
+ "res/pokemon/volbeat/data.json": {
+  "pokedex": {
+   "entry": "It communicates with others by\nlighting up its rear at night. It\nloves Illumise’s sweet aroma."
+  }
+ },
+ "res/pokemon/roselia/data.json": {
+  "pokedex": {
+   "entry": "The beautiful flowers on its arms\nhave toxic thorns. Don’t even\nthink about picking those flowers."
+  }
+ },
+ "res/pokemon/sharpedo/data.json": {
+  "pokedex": {
+   "entry": "Its fangs rip through sheet iron.\nIt swims at 75 mph and is known as\n“The Bully of the Sea.”"
+  }
+ },
+ "res/pokemon/wailmer/data.json": {
+  "pokedex": {
+   "entry": "On sunny days, it lands on beaches\nto bounce like a ball and play.\nIt spouts water from its nose."
+  }
+ },
+ "res/pokemon/wailord/data.json": {
+  "pokedex": {
+   "entry": "The biggest of all Pokémon.\nIt can dive to a depth of almost\n10,000 feet on only one breath."
+  }
+ },
+ "res/pokemon/numel/data.json": {
+  "pokedex": {
+   "entry": "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement."
+  }
+ },
+ "res/pokemon/camerupt/data.json": {
+  "pokedex": {
+   "entry": "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently."
+  }
+ },
+ "res/pokemon/spoink/data.json": {
+  "pokedex": {
+   "entry": "It bounces constantly, using its\ntail like a spring. The shock of\nbouncing keeps its heart beating."
+  }
+ },
+ "res/pokemon/grumpig/data.json": {
+  "pokedex": {
+   "entry": "It uses black pearls to amplify its\npsycho-power. It does an odd\ndance to gain control over foes."
+  }
+ },
+ "res/pokemon/trapinch/data.json": {
+  "pokedex": {
+   "entry": "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down."
+  }
+ },
+ "res/pokemon/vibrava/data.json": {
+  "pokedex": {
+   "entry": "It violently shudders its wings,\ngenerating ultrasonic waves to\ninduce headaches in people."
+  }
+ },
+ "res/pokemon/flygon/data.json": {
+  "pokedex": {
+   "entry": "It whips up sandstorms with\npowerful flaps of its wings. It is\nknown as “The Desert Spirit.”"
+  }
+ },
+ "res/pokemon/cacturne/data.json": {
+  "pokedex": {
+   "entry": "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat."
+  }
+ },
+ "res/pokemon/swablu/data.json": {
+  "pokedex": {
+   "entry": "Its wings are like cotton tufts.\nIf it perches on someone’s head,\nit looks like a cotton hat."
+  }
+ },
+ "res/pokemon/altaria/data.json": {
+  "pokedex": {
+   "entry": "It looks like a fluffy cloud when\nit is in flight. It hums with its\nsoprano voice."
+  }
+ },
+ "res/pokemon/zangoose/data.json": {
+  "pokedex": {
+   "entry": "It has feuded with Seviper for\nmany generations. Its sharp claws\nare its biggest weapons."
+  }
+ },
+ "res/pokemon/seviper/data.json": {
+  "pokedex": {
+   "entry": "For many generations, it has\nfeuded with Zangoose. It whets its\nbladed tail on rocks for battle."
+  }
+ },
+ "res/pokemon/lunatone/data.json": {
+  "pokedex": {
+   "entry": "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases."
+  }
+ },
+ "res/pokemon/solrock/data.json": {
+  "pokedex": {
+   "entry": "A new Pokémon species, rumored\nto be from the sun. It gives off\nlight while spinning."
+  }
+ },
+ "res/pokemon/barboach/data.json": {
+  "pokedex": {
+   "entry": "Its whiskers make a superb radar.\nThey are used to locate prey,\neven in the murkiest of water."
+  }
+ },
+ "res/pokemon/whiscash/data.json": {
+  "pokedex": {
+   "entry": "As a result of causing tremors by\nthrashing about, it developed the\nability to foretell real quakes."
+  }
+ },
+ "res/pokemon/corphish/data.json": {
+  "pokedex": {
+   "entry": "Its hardy vitality enables it to\nadapt to any environment. Its\npincers will never release prey."
+  }
+ },
+ "res/pokemon/crawdaunt/data.json": {
+  "pokedex": {
+   "entry": "It is a ruffian that uses its\npincers to pick up and toss out\nother Pokémon from its pond."
+  }
+ },
+ "res/pokemon/baltoy/data.json": {
+  "pokedex": {
+   "entry": "It moves by spinning on its foot.\nIt is a rare Pokémon that was\ndiscovered in ancient ruins."
+  }
+ },
+ "res/pokemon/claydol/data.json": {
+  "pokedex": {
+   "entry": "An ancient clay figurine that came\nto life as a Pokémon from exposure\nto a mysterious ray of light."
+  }
+ },
+ "res/pokemon/feebas/data.json": {
+  "pokedex": {
+   "entry": "It eats anything, so it can even\nlive in polluted streams and lakes.\nNo one pays any attention to it."
+  }
+ },
+ "res/pokemon/milotic/data.json": {
+  "pokedex": {
+   "entry": "It is the world’s most beautiful\nPokémon. There are many works of\nart featuring Milotic."
+  }
+ },
+ "res/pokemon/castform/data.json": {
+  "pokedex": {
+   "entry": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water.",
+   "forms": [
+    {
+     "entry": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+    },
+    {
+     "entry": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+    },
+    {
+     "entry": "Its appearance changes with the\nweather. Recently, its molecules\nwere found to be just like water."
+    }
+   ]
+  }
+ },
+ "res/pokemon/kecleon/data.json": {
+  "pokedex": {
+   "entry": "It can freely change its body’s\ncolor. The zigzag pattern on its\nbelly doesn’t change, however."
+  }
+ },
+ "res/pokemon/shuppet/data.json": {
+  "pokedex": {
+   "entry": "It loves vengeful emotions and\nhangs in rows under the eaves of\nhouses where vengeful people live."
+  }
+ },
+ "res/pokemon/banette/data.json": {
+  "pokedex": {
+   "entry": "A doll that became a Pokémon over\nits grudge from being junked. It\nseeks the child that disowned it."
+  }
+ },
+ "res/pokemon/duskull/data.json": {
+  "pokedex": {
+   "entry": "It doggedly pursues its prey\nwherever it goes. However, the\nchase is abandoned at sunrise."
+  }
+ },
+ "res/pokemon/dusclops/data.json": {
+  "pokedex": {
+   "entry": "Its body is hollow. It is said that\nthose who look into its body are\nsucked into the void."
+  }
+ },
+ "res/pokemon/tropius/data.json": {
+  "pokedex": {
+   "entry": "Because it continually ate only\nits favorite fruit, the fruit\nstarted growing around its neck."
+  }
+ },
+ "res/pokemon/chimecho/data.json": {
+  "pokedex": {
+   "entry": "Emitting ultrasonic cries, it\nfloats on winds to travel great\ndistances."
+  }
+ },
+ "res/pokemon/absol/data.json": {
+  "pokedex": {
+   "entry": "It senses coming disasters and\nappears before people only to\nwarn them of impending danger."
+  }
+ },
+ "res/pokemon/snorunt/data.json": {
+  "pokedex": {
+   "entry": "In the snow country, certain\nfolklore says a house will\nprosper if a Snorunt lives there."
+  }
+ },
+ "res/pokemon/glalie/data.json": {
+  "pokedex": {
+   "entry": "To protect itself, it clads its\nbody in an armor of ice, made\nby freezing moisture in the air."
+  }
+ },
+ "res/pokemon/spheal/data.json": {
+  "pokedex": {
+   "entry": "It rolls across ice floes to reach\nshore because its body is poorly\nshaped for swimming."
+  }
+ },
+ "res/pokemon/sealeo/data.json": {
+  "pokedex": {
+   "entry": "It habitually spins things on its\nnose. By doing so, it learns\ntextures and odors."
+  }
+ },
+ "res/pokemon/walrein/data.json": {
+  "pokedex": {
+   "entry": "It shatters ice with its big tusks.\nIts thick blubber repels not only\nthe cold, but also enemy attacks."
+  }
+ },
+ "res/pokemon/beldum/data.json": {
+  "pokedex": {
+   "entry": "It converses with others by using\nmagnetic pulses. In a swarm, they\nmove in perfect unison."
+  }
+ },
+ "res/pokemon/metang/data.json": {
+  "pokedex": {
+   "entry": "It is formed by two Beldum joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet."
+  }
+ },
+ "res/pokemon/metagross/data.json": {
+  "pokedex": {
+   "entry": "Metang combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer."
+  }
+ },
+ "res/pokemon/turtwig/data.json": {
+  "pokedex": {
+   "entry": "It undertakes photosynthesis with\nits body, making oxygen. The leaf\non its head wilts if it is thirsty."
+  }
+ },
+ "res/pokemon/grotle/data.json": {
+  "pokedex": {
+   "entry": "The shell is hardened soil. Some\nPokémon come to peck the berries\ngrowing on the trees on its back."
+  }
+ },
+ "res/pokemon/torterra/data.json": {
+  "pokedex": {
+   "entry": "Groups of this Pokémon migrating\nin search of water have been\nmistaken for “moving forests.”"
+  }
+ },
+ "res/pokemon/chimchar/data.json": {
+  "pokedex": {
+   "entry": "Its fiery rear end is fueled by\ngas made in its belly. Even rain\ncan’t extinguish the fire."
+  }
+ },
+ "res/pokemon/monferno/data.json": {
+  "pokedex": {
+   "entry": "It uses ceilings and walls to\nlaunch aerial attacks. Its fiery\ntail is but one weapon."
+  }
+ },
+ "res/pokemon/infernape/data.json": {
+  "pokedex": {
+   "entry": "Its crown of fire is indicative of\nits fiery nature. It is beaten by\nnone in terms of quickness."
+  }
+ },
+ "res/pokemon/piplup/data.json": {
+  "pokedex": {
+   "entry": "It lives along shores in northern\ncountries. A skilled swimmer, it\ndives for over 10 minutes to hunt."
+  }
+ },
+ "res/pokemon/prinplup/data.json": {
+  "pokedex": {
+   "entry": "Its wings deliver wicked blows that\nsnap even the thickest of trees.\nIt searches for prey in icy seas."
+  }
+ },
+ "res/pokemon/empoleon/data.json": {
+  "pokedex": {
+   "entry": "It swims as fast as a jet boat.\nThe edges of its wings are sharp\nand can slice apart drifting ice."
+  }
+ },
+ "res/pokemon/starly/data.json": {
+  "pokedex": {
+   "entry": "Usually with a large flock, it is\nbarely noticeable when alone.\nIts cries are very strident."
+  }
+ },
+ "res/pokemon/staravia/data.json": {
+  "pokedex": {
+   "entry": "It lives in forests and fields.\nSquabbles over territory occur\nwhen flocks collide."
+  }
+ },
+ "res/pokemon/staraptor/data.json": {
+  "pokedex": {
+   "entry": "The muscles in its wings and legs\nare strong. It can easily fly while\ngripping a small Pokémon."
+  }
+ },
+ "res/pokemon/bidoof/data.json": {
+  "pokedex": {
+   "entry": "It constantly gnaws on logs and\nrocks to whittle down its front\nteeth. It nests alongside water."
+  }
+ },
+ "res/pokemon/bibarel/data.json": {
+  "pokedex": {
+   "entry": "While its movements out of water\nare sluggish, it can swim as fast\nas any Feebas."
+  }
+ },
+ "res/pokemon/kricketot/data.json": {
+  "pokedex": {
+   "entry": "It chats with others using the\nsounds of its colliding antennae.\nThese sounds are fall hallmarks."
+  }
+ },
+ "res/pokemon/kricketune/data.json": {
+  "pokedex": {
+   "entry": "It signals its emotions with its\nmelodies. Scientists are studying\nthese melodic patterns."
+  }
+ },
+ "res/pokemon/shinx/data.json": {
+  "pokedex": {
+   "entry": "Its forelegs have a muscle-based\nsystem of generating electricity.\nIts body shines if endangered."
+  }
+ },
+ "res/pokemon/luxio/data.json": {
+  "pokedex": {
+   "entry": "It rests its forelegs on others to\ncommunicate with rhythmic electric\npulses from its claws."
+  }
+ },
+ "res/pokemon/luxray/data.json": {
+  "pokedex": {
+   "entry": "When its eyes gleam gold, it can\nspot hiding prey--even those\ntaking shelter behind a wall."
+  }
+ },
+ "res/pokemon/budew/data.json": {
+  "pokedex": {
+   "entry": "It lives alongside clear ponds.\nIt scatters pollen that induces\nharsh sneezing and runny noses."
+  }
+ },
+ "res/pokemon/roserade/data.json": {
+  "pokedex": {
+   "entry": "With the movements of a dancer,\nit strikes with whips that are\ndensely lined with poison thorns."
+  }
+ },
+ "res/pokemon/cranidos/data.json": {
+  "pokedex": {
+   "entry": "It was resurrected from an iron\nball-like fossil. It downs prey with\nits head butts."
+  }
+ },
+ "res/pokemon/rampardos/data.json": {
+  "pokedex": {
+   "entry": "Its skull is as hard as iron. It is\na brute that tears down jungle\ntrees while catching prey."
+  }
+ },
+ "res/pokemon/shieldon/data.json": {
+  "pokedex": {
+   "entry": "It habitually polishes its face by\nrubbing it against tree trunks. It\nis weak to attacks from behind."
+  }
+ },
+ "res/pokemon/bastiodon/data.json": {
+  "pokedex": {
+   "entry": "When attacked, they form a wall\nwith their shieldlike faces to\nprotect their young."
+  }
+ },
+ "res/pokemon/burmy/data.json": {
+  "pokedex": {
+   "entry": "If its cloak is broken in battle,\nit quickly remakes the cloak with\nmaterials nearby.",
+   "forms": [
+    {
+     "entry": "If its cloak is broken in battle,\nit quickly remakes the cloak with\nmaterials nearby."
+    },
+    {
+     "entry": "If its cloak is broken in battle,\nit quickly remakes the cloak with\nmaterials nearby."
+    }
+   ]
+  }
+ },
+ "res/pokemon/wormadam/data.json": {
+  "pokedex": {
+   "entry": "Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body.",
+   "forms": [
+    {
+     "entry": "Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body."
+    },
+    {
+     "entry": "Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body."
+    }
+   ]
+  }
+ },
+ "res/pokemon/mothim/data.json": {
+  "pokedex": {
+   "entry": "It does not keep a nest. It flies\nover fields and mountains in\nconstant search of floral honey."
+  }
+ },
+ "res/pokemon/combee/data.json": {
+  "pokedex": {
+   "entry": "It collects and delivers honey to\nits colony. At night, they cluster\nto form a beehive and sleep."
+  }
+ },
+ "res/pokemon/vespiquen/data.json": {
+  "pokedex": {
+   "entry": "When endangered, grubs from its\nsix-cell honeycomb strike back.\nThere is only one in a colony. "
+  }
+ },
+ "res/pokemon/pachirisu/data.json": {
+  "pokedex": {
+   "entry": "It makes electricity with pouches\nin its cheeks and shoots charges\nfrom its tail. It lives atop trees."
+  }
+ },
+ "res/pokemon/buizel/data.json": {
+  "pokedex": {
+   "entry": "It swims by rotating its two tails\nlike a screw. When it dives, its\nflotation sac collapses."
+  }
+ },
+ "res/pokemon/floatzel/data.json": {
+  "pokedex": {
+   "entry": "Its flotation sac developed as a\nresult of pursuing aquatic prey.\nIt can double as a rubber raft."
+  }
+ },
+ "res/pokemon/cherubi/data.json": {
+  "pokedex": {
+   "entry": "Sunlight colors it red. When the\nsmall ball is drained of nutrients,\nit shrivels to herald evolution."
+  }
+ },
+ "res/pokemon/cherrim/data.json": {
+  "pokedex": {
+   "entry": "It is docile as a bud, but turns\ncheerful when it blooms. It folds\nback into a bud if sunlight wanes.",
+   "forms": [
+    {
+     "entry": "It is docile as a bud, but turns\ncheerful when it blooms. It folds\nback into a bud if sunlight wanes."
+    }
+   ]
+  }
+ },
+ "res/pokemon/shellos/data.json": {
+  "pokedex": {
+   "entry": "It lives along bodies of water.\nIts body shape has changed to\nsuit its habitat.",
+   "forms": [
+    {
+     "entry": "It lives along bodies of water.\nIts body shape has changed to\nsuit its habitat."
+    }
+   ]
+  }
+ },
+ "res/pokemon/gastrodon/data.json": {
+  "pokedex": {
+   "entry": "It apparently had a huge shell for\nprotection in ancient times.\nIt lives in shallow tidal pools.",
+   "forms": [
+    {
+     "entry": "It apparently had a huge shell for\nprotection in ancient times.\nIt lives in shallow tidal pools."
+    }
+   ]
+  }
+ },
+ "res/pokemon/ambipom/data.json": {
+  "pokedex": {
+   "entry": "They work in large colonies and\nmake rings by linking their\ntails, apparently in friendship."
+  }
+ },
+ "res/pokemon/drifloon/data.json": {
+  "pokedex": {
+   "entry": "It tugs on the hands of children\nto steal them away. However, it\ngets pulled around instead."
+  }
+ },
+ "res/pokemon/drifblim/data.json": {
+  "pokedex": {
+   "entry": "It carries people and Pokémon\nwhen it flies. But since it only\ndrifts, it can end up anywhere."
+  }
+ },
+ "res/pokemon/buneary/data.json": {
+  "pokedex": {
+   "entry": "When it senses danger, it perks up\nits ears. On cold nights, it sleeps\nwith its head tucked into its fur."
+  }
+ },
+ "res/pokemon/lopunny/data.json": {
+  "pokedex": {
+   "entry": "It is very conscious of its looks\nand never fails to groom its ears.\nIt runs with sprightly jumps."
+  }
+ },
+ "res/pokemon/mismagius/data.json": {
+  "pokedex": {
+   "entry": "It chants incantations. While they\nusually torment targets, some\nchants bring happiness."
+  }
+ },
+ "res/pokemon/honchkrow/data.json": {
+  "pokedex": {
+   "entry": "It makes its Murkrow cronies\nbring it food. It idles its time\naway, grooming itself in its nest."
+  }
+ },
+ "res/pokemon/glameow/data.json": {
+  "pokedex": {
+   "entry": "With its sharp glare, it puts\nfoes in a mild hypnotic state.\nIt is a very fickle Pokémon."
+  }
+ },
+ "res/pokemon/purugly/data.json": {
+  "pokedex": {
+   "entry": "To make itself appear intimidatingly\nbeefy, it tightly cinches its waist\nwith its twin tails."
+  }
+ },
+ "res/pokemon/chingling/data.json": {
+  "pokedex": {
+   "entry": "Each time it hops, it makes a\nringing sound. It deafens foes by\nemitting high-frequency cries."
+  }
+ },
+ "res/pokemon/stunky/data.json": {
+  "pokedex": {
+   "entry": "It sprays a nose-curling,\nstinky fluid from its rear to\nrepel attackers."
+  }
+ },
+ "res/pokemon/skuntank/data.json": {
+  "pokedex": {
+   "entry": "It sprays a stinky fluid from its\ntail. The fluid smells worse the\nlonger it is allowed to fester."
+  }
+ },
+ "res/pokemon/bronzor/data.json": {
+  "pokedex": {
+   "entry": "X-ray photos were taken to check\nits body structure. Nothing\nappeared, however."
+  }
+ },
+ "res/pokemon/bronzong/data.json": {
+  "pokedex": {
+   "entry": "It can summon rain clouds.\nPeople long ago revered it as the\nbringer of plentiful harvests."
+  }
+ },
+ "res/pokemon/bonsly/data.json": {
+  "pokedex": {
+   "entry": "It prefers arid environments. It\nleaks water from its eyes to\nadjust its body’s fluid levels."
+  }
+ },
+ "res/pokemon/mime_jr/data.json": {
+  "pokedex": {
+   "entry": "It likes places where people\ngather. It mimics foes to confuse\nthem, then makes its getaway."
+  }
+ },
+ "res/pokemon/happiny/data.json": {
+  "pokedex": {
+   "entry": "It carries a round, egg-shaped\nrock in its belly pouch and gives\nthe rock to its friends."
+  }
+ },
+ "res/pokemon/chatot/data.json": {
+  "pokedex": {
+   "entry": "It keeps rhythm by flicking its\ntail feathers like a metronome.\nIt imitates human speech."
+  }
+ },
+ "res/pokemon/spiritomb/data.json": {
+  "pokedex": {
+   "entry": "It was bound to a fissure in an\nodd keystone as punishment for\nmisdeeds 500 years ago."
+  }
+ },
+ "res/pokemon/gible/data.json": {
+  "pokedex": {
+   "entry": "It once lived in the tropics. To\navoid the cold, it lives in caves\nwarmed by geothermal heat."
+  }
+ },
+ "res/pokemon/gabite/data.json": {
+  "pokedex": {
+   "entry": "It habitually digs up and hoards\ngems in its nest. Its loot is\nconstantly targeted by thieves."
+  }
+ },
+ "res/pokemon/garchomp/data.json": {
+  "pokedex": {
+   "entry": "It flies at speeds equal to a jet\nfighter plane. It never allows its\nprey to escape."
+  }
+ },
+ "res/pokemon/munchlax/data.json": {
+  "pokedex": {
+   "entry": "It hides food under its long body\nhair. However, it forgets it has\nhidden the food."
+  }
+ },
+ "res/pokemon/riolu/data.json": {
+  "pokedex": {
+   "entry": "Its body is lithe yet powerful.\nIt can crest three mountains and\ncross two canyons in one night."
+  }
+ },
+ "res/pokemon/lucario/data.json": {
+  "pokedex": {
+   "entry": "By catching the aura emanating\nfrom others, it can read their\nthoughts and movements.    "
+  }
+ },
+ "res/pokemon/hippopotas/data.json": {
+  "pokedex": {
+   "entry": "It enshrouds itself with sand to\nprotect itself from germs.\nIt does not enjoy getting wet."
+  }
+ },
+ "res/pokemon/hippowdon/data.json": {
+  "pokedex": {
+   "entry": "Its huge mouth is almost seven\nfeet across. It has enough power\nto completely crush a car."
+  }
+ },
+ "res/pokemon/skorupi/data.json": {
+  "pokedex": {
+   "entry": "It lives in arid lands. It buries\nitself in sand and lies in wait for\nunsuspecting prey."
+  }
+ },
+ "res/pokemon/drapion/data.json": {
+  "pokedex": {
+   "entry": "Its body is encased in a sturdy\nshell. Its head rotates 180\ndegrees, eliminating blind spots."
+  }
+ },
+ "res/pokemon/croagunk/data.json": {
+  "pokedex": {
+   "entry": "Inflating its poison sacs, it\nmakes an eerie blubbering sound\nfor intimidation."
+  }
+ },
+ "res/pokemon/toxicroak/data.json": {
+  "pokedex": {
+   "entry": "The toxin made in its poison sacs\nis pumped to the knuckle claws\nthrough tubes down its arms."
+  }
+ },
+ "res/pokemon/carnivine/data.json": {
+  "pokedex": {
+   "entry": "Hanging from branches using its\ntentacles, it looks like a plant.\nIt awaits prey, mouth wide open."
+  }
+ },
+ "res/pokemon/finneon/data.json": {
+  "pokedex": {
+   "entry": "The way its two tail fins flutter\nwhile it swims has earned it the\nnickname “Beautifly of the Sea.”"
+  }
+ },
+ "res/pokemon/lumineon/data.json": {
+  "pokedex": {
+   "entry": "To avoid detection by predators,\nit crawls along the seafloor using\nthe two fins on its chest."
+  }
+ },
+ "res/pokemon/mantyke/data.json": {
+  "pokedex": {
+   "entry": "Scientists discovered that the\ndistinctive patterns on its back\ndiffer by region."
+  }
+ },
+ "res/pokemon/snover/data.json": {
+  "pokedex": {
+   "entry": "In the spring, it grows berries\nwith the texture of frozen treats\naround its belly."
+  }
+ },
+ "res/pokemon/abomasnow/data.json": {
+  "pokedex": {
+   "entry": "It blankets wide areas in snow by\nwhipping up blizzards. It is also\nknown as “The Ice Monster.”"
+  }
+ },
+ "res/pokemon/weavile/data.json": {
+  "pokedex": {
+   "entry": "It sends signals to others by\ncarving odd patterns in frost-\ncovered trees and ice."
+  }
+ },
+ "res/pokemon/magnezone/data.json": {
+  "pokedex": {
+   "entry": "It evolved from exposure to a\nspecial magnetic field.\nThree units generate magnetism."
+  }
+ },
+ "res/pokemon/lickilicky/data.json": {
+  "pokedex": {
+   "entry": "It wraps things with its extensible\ntongue. Getting too close to it\nwill leave you soaked with drool."
+  }
+ },
+ "res/pokemon/rhyperior/data.json": {
+  "pokedex": {
+   "entry": "It puts rocks in holes in its palms\nand uses its muscles to shoot them.\nGeodude are shot at rare times."
+  }
+ },
+ "res/pokemon/tangrowth/data.json": {
+  "pokedex": {
+   "entry": "It ensnares prey by extending\narms made of vines. Losing arms to\npredators does not trouble it."
+  }
+ },
+ "res/pokemon/electivire/data.json": {
+  "pokedex": {
+   "entry": "It pushes the tips of its two tails\nagainst the foe, then lets loose\nwith over 20,000 volts of power."
+  }
+ },
+ "res/pokemon/magmortar/data.json": {
+  "pokedex": {
+   "entry": "It blasts fireballs of over 3,600\ndegrees F from the ends of its\narms. It lives in volcanic craters."
+  }
+ },
+ "res/pokemon/togekiss/data.json": {
+  "pokedex": {
+   "entry": "It will never appear where there\nis strife. Its sightings have\nbecome rare recently."
+  }
+ },
+ "res/pokemon/yanmega/data.json": {
+  "pokedex": {
+   "entry": "By churning its wings, it creates\nshock waves that inflict critical\ninternal injuries to foes."
+  }
+ },
+ "res/pokemon/leafeon/data.json": {
+  "pokedex": {
+   "entry": "Just like a plant, it uses\nphotosynthesis. As a result, it is\nalways enveloped in clear air."
+  }
+ },
+ "res/pokemon/glaceon/data.json": {
+  "pokedex": {
+   "entry": "As a protective technique, it can\ncompletely freeze its fur to make\nits hairs stand like needles."
+  }
+ },
+ "res/pokemon/gliscor/data.json": {
+  "pokedex": {
+   "entry": "It observes prey while hanging\ninverted from branches. When the\nchance presents itself, it swoops!"
+  }
+ },
+ "res/pokemon/mamoswine/data.json": {
+  "pokedex": {
+   "entry": "Its impressive tusks are made of\nice. The population thinned when it\nturned warm after the ice age."
+  }
+ },
+ "res/pokemon/porygon_z/data.json": {
+  "pokedex": {
+   "entry": "Additional software was installed\nto make it a better Pokémon.\nIt began acting oddly, however."
+  }
+ },
+ "res/pokemon/gallade/data.json": {
+  "pokedex": {
+   "entry": "A master of courtesy and\nswordsmanship, it fights using\nextending swords on its elbows."
+  }
+ },
+ "res/pokemon/probopass/data.json": {
+  "pokedex": {
+   "entry": "It exudes strong magnetism from\nall over. It controls three small\nunits called Mini-Noses."
+  }
+ },
+ "res/pokemon/dusknoir/data.json": {
+  "pokedex": {
+   "entry": "The antenna on its head captures\nradio waves from the world of spirits\nthat command it to take people there."
+  }
+ },
+ "res/pokemon/froslass/data.json": {
+  "pokedex": {
+   "entry": "It freezes foes with an icy breath\nnearly -60 degrees F. What seems\nto be its body is actually hollow."
+  }
+ },
+ "res/pokemon/rotom/data.json": {
+  "pokedex": {
+   "entry": "Its body is composed of plasma. It\nis known to infiltrate electronic\ndevices and wreak havoc."
+  }
+ },
+ "res/pokemon/uxie/data.json": {
+  "pokedex": {
+   "entry": "It is said that its emergence\ngave humans the intelligence to\nimprove their quality of life."
+  }
+ },
+ "res/pokemon/mesprit/data.json": {
+  "pokedex": {
+   "entry": "It sleeps at the bottom of a lake.\nIts spirit is said to leave its body\nto fly on the lake’s surface."
+  }
+ },
+ "res/pokemon/azelf/data.json": {
+  "pokedex": {
+   "entry": "It is thought that Uxie, Mesprit\nand Azelf all came from the same\negg."
+  }
+ },
+ "res/pokemon/dialga/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon spoken of in legend.\nIt is said that time began moving\nwhen Dialga was born."
+  }
+ },
+ "res/pokemon/palkia/data.json": {
+  "pokedex": {
+   "entry": "It is said to live in a gap in the\nspatial dimension parallel to ours.\nIt appears in mythology."
+  }
+ },
+ "res/pokemon/heatran/data.json": {
+  "pokedex": {
+   "entry": "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls."
+  }
+ },
+ "res/pokemon/regigigas/data.json": {
+  "pokedex": {
+   "entry": "There is an enduring legend that\nstates this Pokémon towed\ncontinents with ropes."
+  }
+ },
+ "res/pokemon/giratina/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon that is said to live in a\nworld on the reverse side of ours.\nIt appears in an ancient cemetery."
+  }
+ },
+ "res/pokemon/cresselia/data.json": {
+  "pokedex": {
+   "entry": "Shiny particles are released from\nits wings like a veil. It is said\nto represent the crescent moon."
+  }
+ },
+ "res/pokemon/phione/data.json": {
+  "pokedex": {
+   "entry": "A Pokémon that lives in warm seas.\nIt inflates the flotation sac on its\nhead to drift and search for food."
+  }
+ },
+ "res/pokemon/manaphy/data.json": {
+  "pokedex": {
+   "entry": "Water makes up 80% of its body.\nThis Pokémon is easily affected by\nits environment."
+  }
+ },
+ "res/pokemon/darkrai/data.json": {
+  "pokedex": {
+   "entry": "Folklore has it that on moonless\nnights, this Pokémon will make\npeople see horrific nightmares."
+  }
+ },
+ "res/pokemon/shaymin/data.json": {
+  "pokedex": {
+   "entry": "It can dissolve toxins in the air\nto instantly transform ruined land\ninto a lush field of flowers."
+  }
+ },
+ "res/pokemon/arceus/data.json": {
+  "pokedex": {
+   "entry": "It is told in mythology that this\nPokémon was born before the\nuniverse even existed."
+  }
+ }
+}

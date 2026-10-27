@@ -1,0 +1,17 @@
+PearlSunyshorePokecenter1f_Text_000 = I once dreamed of becoming a Gym\nLeader...{be01}\nThough that dream never came true,\nI got to live with Pokémon all{be00}\nthis time.{be01}\nIt’s been a blessed life.
+PearlSunyshorePokecenter1f_Text_001 = Wow, you’re really cool!\nYou have seven Gym Badges!
+PearlSunyshorePokecenter1f_Text_002 = Wow! You’re awesomely cool!\nYou have all eight Gym Badges!{be01}\nNow, you have to challenge the\nPokémon League!
+PearlSunyshorePokecenter1f_Text_003 = Sunyshore is situated on a narrow\nspit of land bordered by the sea and{be00}\nmountains.{be01}\nTo make up for the lack of space,\nthe city built solar panels to use for{be00}\npower as well as for roads.{be01}\nIt’s a place where nature, Pokémon,\nand people are as one!
+PearlSunyshorePokecenter1f_Text_004 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSunyshorePokecenter1f_Text_005 = Good morning!\nWelcome to the Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSunyshorePokecenter1f_Text_006 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSunyshorePokecenter1f_Text_007 = We hope to see you again!
+PearlSunyshorePokecenter1f_Text_008 = OK, I’ll take your Pokémon for a few\nseconds.
+PearlSunyshorePokecenter1f_Text_009 = I will be pleased to take your\nPokémon for a few seconds.
+PearlSunyshorePokecenter1f_Text_010 = Thank you for waiting.{be01}\nWe’ve restored your Pokémon to full\nhealth.{be01}
+PearlSunyshorePokecenter1f_Text_011 = Thank you for waiting.
+PearlSunyshorePokecenter1f_Text_012 = We hope to see you again!
+PearlSunyshorePokecenter1f_Text_013 = Your Pokémon may be infected with\nthe Pokérus.{be01}\nLittle is known about the Pokérus\nexcept that they are microscopic{be00}\nlife-forms that attach to Pokémon.{be01}\nWhile infected, Pokémon are said to\ngrow exceptionally well.
+PearlSunyshorePokecenter1f_Text_014 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to...{be01}
+PearlSunyshorePokecenter1f_Text_015 = Th-that Trainer Card!{be01}\nThat sparkling color!\nAnd all those stars!{be01}\nI’ve seen several Trainers with Silver\nTrainer Cards up to now...{be01}\nBut you’re the first to top them\nwith that Trainer Card.{be01}\nPlease, {0100:0}, may I have\nthe honor of healing your Pokémon?
+PearlSunyshorePokecenter1f_Text_016 = It’s great to see you, {0100:0}!\nYou want the usual, am I right?

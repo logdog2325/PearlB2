@@ -1,0 +1,31 @@
+{
+ "_doc": "Places Pearl has that this game does not build yet (b2tools/pearl_story.py CLOSED: schema there). Keyed by Pearl map name. A row is a step trigger {x, z, w, h, dir, text}: walking onto it shows text in the plain window, then the player steps once in dir (Pearl's 0 up, 1 down, 2 left, 3 right); or {talk: true, obj: <Pearl object id> | bg: <Pearl bg event index>, text}: that person or sign shows text instead of its script. Text: plain words, \\n breaks the line (Black 2's window is 224 px wide). A talk row with \"musical\": true is a Pokémon Musical receptionist instead (src/include/pearl_musical.inc): its text is the greeting, in Pearl spelling (\\n, \\r a new page), then Black 2's Musical (data/pearl_musical.json).",
+ "MAP_HEARTHOME_SUPER_CONTEST_HALL_LOBBY": [
+  {"talk": true, "obj": 1, "musical": true, "text": "Welcome to the Contest Hall.\\r"},
+  {"talk": true, "obj": 0, "musical": true, "text": "Welcome to the Contest Hall.\\r"},
+  {"talk": true, "obj": 2, "musical": true, "text": "Welcome to the Contest Hall.\\r"}
+ ],
+ "MAP_VEILSTONE_GAME_CORNER": [
+  {"x": 2, "z": 10, "w": 13, "h": 1, "dir": 1, "text": "The Game Corner is being prepared.\nPlease come again!"}
+ ],
+ "MAP_VEILSTONE_PRIZE_EXCHANGE": [
+  {"talk": true, "obj": 0, "text": "The Prize Exchange is being prepared.\nPlease come again!"} ],
+ "MAP_PASTORIA_GREAT_MARSH_ENTRANCE_2F": [
+  {"talk": true, "bg": 0, "text": "The binoculars aren’t working\nright now."},
+  {"talk": true, "bg": 1, "text": "The binoculars aren’t working\nright now."},
+  {"talk": true, "bg": 2, "text": "The binoculars aren’t working\nright now."}
+ ],
+ "MAP_GREAT_MARSH_AREA_1": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"} ],
+ "MAP_GREAT_MARSH_AREA_2": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"} ],
+ "MAP_GREAT_MARSH_AREA_3": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"} ],
+ "MAP_GREAT_MARSH_AREA_4": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"} ],
+ "MAP_GREAT_MARSH_AREA_5": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"} ],
+ "MAP_GREAT_MARSH_AREA_6": [
+  {"talk": true, "bg": 0, "text": "The Quick Tram is being prepared.\nPlease come again!"}
+ ]
+}

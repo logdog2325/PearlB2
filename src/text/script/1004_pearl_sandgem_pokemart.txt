@@ -1,0 +1,13 @@
+PearlSandgemPokemart_Text_000 = If a Pokémon loses all its HP,\nit can’t battle anymore.{be01}\nI’m buying lots of Potions to avoid\nhaving that happen!
+PearlSandgemPokemart_Text_001 = If you come across a Pokémon you’ve\njust gotta have, toss a Poké Ball!{be01}\nNever leave home without one!
+PearlSandgemPokemart_Text_002 = Welcome!\nWhat do you need?
+PearlSandgemPokemart_Text_003 = Good morning. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlSandgemPokemart_Text_004 = Good day. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlSandgemPokemart_Text_005 = Good evening. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlSandgemPokemart_Text_006 = {0100:0} received\na {ff00:1}Member’s Card{ff00:0}.{be01}
+PearlSandgemPokemart_Text_007 = {0100:0} received\n{ff00:1}Oak’s Letter{ff00:0}!{be01}
+PearlSandgemPokemart_Text_008 = {0100:0} received\nan {ff00:1}Azure Flute{ff00:0}!{be01}
+PearlSandgemPokemart_Text_009 = {0100:0} received\nthe {ff00:1}Manaphy Egg{ff00:0}!{be01}
+PearlSandgemPokemart_Text_010 = We look forward to your next visit.
+PearlSandgemPokemart_Text_011 = Your party is full, I’m afraid.\nI can’t give this to you yet.
+PearlSandgemPokemart_Text_012 = I haven’t received any other gifts\nfor you.{be01}\nWe look forward to your next visit.

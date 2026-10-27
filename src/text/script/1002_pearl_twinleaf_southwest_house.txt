@@ -1,0 +1,4 @@
+PearlTwinleafSouthwestHouse_Text_000 = Did you hear?{be01}\nThe Pokémon Professor returned\nto the next town over.{be01}\nThey say he was gone for four long\nyears.{be01}\nI wonder if he found some amazing\nPokémon while he was gone?
+PearlTwinleafSouthwestHouse_Text_001 = Well! Professor Rowan gave you a\nPokédex, did he?
+PearlTwinleafSouthwestHouse_Text_002 = Listen, listen, {0100:0}.\nI want a cute Pokémon!
+PearlTwinleafSouthwestHouse_Text_003 = Listen, listen, {0100:0}.{be01}\nDo you think I can be friends with\nPokémon like you are?

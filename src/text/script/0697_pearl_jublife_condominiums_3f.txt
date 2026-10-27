@@ -1,0 +1,2 @@
+PearlJublifeCondominiums3f_Text_000 = I can trade Pokémon around the world\nusing Nintendo WFC...{be01}\nJust hearing that name gets my heart\nracing!
+PearlJublifeCondominiums3f_Text_001 = The world you can reach with\nNintendo WFC...{be00}\nI can’t tell if it’s huge or small.

@@ -1,0 +1,13 @@
+PearlVeilstonePrizeExchange_Text_000 = Welcome!{be01}\nYou may exchange your Coins for\nfabulous prizes here!{be01}
+PearlVeilstonePrizeExchange_Text_001 = Which prize would you like?
+PearlVeilstonePrizeExchange_Text_002 = So your choice is\nthe {0109:0}?
+PearlVeilstonePrizeExchange_Text_003 = So your choice is {0109:0}:\n{0107:1}?
+PearlVeilstonePrizeExchange_Text_004 = Here you go!
+PearlVeilstonePrizeExchange_Text_005 = You don’t have enough Coins.{be01}
+PearlVeilstonePrizeExchange_Text_006 = There isn’t any room available for\nthat {0109:0}.{be01}
+PearlVeilstonePrizeExchange_Text_007 = Oh, is that so? \nPlease come back with some Coins!
+PearlVeilstonePrizeExchange_Text_008 = I love words like “walk-off,\ngrand-slam home run.”
+PearlVeilstonePrizeExchange_Text_009 = They have prizes I really want, but\nit’d be tough saving up the Coins.
+PearlVeilstonePrizeExchange_Text_010 = {0109:0}{bd05:96}{0204:1}
+PearlVeilstonePrizeExchange_Text_011 = NO THANKS
+PearlVeilstonePrizeExchange_Text_012 = The Prize Exchange is being prepared.\nPlease come again!

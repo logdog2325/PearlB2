@@ -1,0 +1,2 @@
+PearlVeilstoneNortheastHouse_Text_000 = Team Galactic’s building bugs me...\nI can’t sleep with it looming over me.
+PearlVeilstoneNortheastHouse_Text_001 = Those thorny things on the\nbuilding... Are they fashionable?

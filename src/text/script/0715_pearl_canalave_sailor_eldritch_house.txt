@@ -1,0 +1,11 @@
+PearlCanalaveSailorEldritchHouse_Text_000 = I’m going to be a Sailor like my\ndaddy!{be01}\nHe’s a real man among men!\nEven the sea doesn’t scare him!{be01}\nOh, but a Gym Leader’d be cool, too!\nByron is so awesome!
+PearlCanalaveSailorEldritchHouse_Text_001 = The little boy is thrashing about\nin his sleep.{be01}\nHe appears to be in torment...\nHe is muttering something...{be01}\n“DAR...\nDARK...is watching...me...”
+PearlCanalaveSailorEldritchHouse_Text_002 = The little boy is thrashing about\nin his sleep.{be01}\n{0100:0}’s Lunar Wing began\nto glow...{be01}\nThe boy’s sleeping face became\nuntroubled and serene!{be01}
+PearlCanalaveSailorEldritchHouse_Text_003 = The little boy woke up!
+PearlCanalaveSailorEldritchHouse_Text_004 = I couldn’t wake up...\nI saw it...{be01}\nIt was a scary dream...\nIt was a dark place...{be00}\nAnd there was a dark Pokémon...{be01}\nBut, Daddy, Mommy...\nI could always hear your voices...
+PearlCanalaveSailorEldritchHouse_Text_005 = Oh, my gosh!\nYou’re awake!{be01}\nOh, my son...\nI... I don’t know what to say...{be01}
+PearlCanalaveSailorEldritchHouse_Text_006 = Thank you!\nWe’ll never forget you!{be01}
+PearlCanalaveSailorEldritchHouse_Text_007 = Seeing you back to normal makes\nme feel great!{be01}\nI’ve regained my spirit as a Sailor!\nCome sail with me later!{be01}
+PearlCanalaveSailorEldritchHouse_Text_008 = Our boy has too much energy!\nI wish he’d be a little quieter.
+PearlCanalaveSailorEldritchHouse_Text_009 = I never thought our boy would fall\ninto this endless nightmare...{be01}\nIt’s happened in the past in\nCanalave...{be01}\nThere were people who never woke\nup from their nightmares...
+PearlCanalaveSailorEldritchHouse_Text_010 = Thank you! We can’t thank you\nenough, but thank you!

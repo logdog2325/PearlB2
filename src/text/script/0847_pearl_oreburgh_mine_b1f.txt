@@ -1,0 +1,2 @@
+PearlOreburghMineB1f_Text_000 = Everyone that works in the coal mine\nkeeps their own Pokémon with them.{be01}\nYou may be challenged to battles!\nHahaha!
+PearlOreburghMineB1f_Text_001 = There were Pokémon that looked just\nlike rocks! They sure surprised me!

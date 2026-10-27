@@ -1,0 +1,5 @@
+PearlCanalaveLibrary2f_Text_000 = The books on the third floor are\neasy to read.{be01}\nThe ones down here are all too tough\nfor me to understand...
+PearlCanalaveLibrary2f_Text_001 = I looked up a book called\n“Surviving Disasters” right away!
+PearlCanalaveLibrary2f_Text_002 = The ceiling-high bookshelves are\ncrammed with books.
+PearlCanalaveLibrary2f_Text_003 = The shelves are lined with books\nworn from being read by many.
+PearlCanalaveLibrary2f_Text_004 = Please refrain from bringing food\nor beverages into the library.

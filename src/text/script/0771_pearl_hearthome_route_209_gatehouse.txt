@@ -1,0 +1,1 @@
+PearlHearthomeRoute209Gatehouse_Text_000 = There’s a wrecked stone pillar up\nahead.{be01}\nI wonder what it is?\nIt’s got me very curious.

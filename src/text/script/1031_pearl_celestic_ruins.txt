@@ -1,0 +1,16 @@
+PearlCelesticRuins_Text_000 = {0100:0} examined the ancient\ncave painting.{be01}\nMysterious designs cover a whole\nsection of the wall.{be01}\nThere are three strange things\nforming a triangle.{be01}\nIn the middle of them, a shining\nsphere?{be01}\nWhat is this all about?{be01}
+PearlCelesticRuins_Text_001 = The cave painting’s meaning seems\nto be this...{be01}\nThere existed a being...{be01}\nA being so powerful, it was\nconsidered a deity at the time.{be01}\nOpposing this powerful being\nwere three Pokémon.{be01}\nThe three kept balance with the\nbeing, as if they formed a triangle.{be01}\nIt’s an ancient legend of Sinnoh\nthat is still told in Celestic Town.{be01}
+PearlCelesticRuins_Text_002 = Oh, yes. I found something useful.\nYou should take this.{be01}\nIt belonged to my granddaughter,\nbut she doesn’t use it anymore.{be01}
+PearlCelesticRuins_Text_003 = If a Pokémon learns Surf, it can\ncarry you across water and the sea.{be01}\nBut my granddaughter said something\nabout this hidden move...{be01}\nOh, yes! To use Surf outside of\nbattle, the Hearthome Gym Badge{be00}\nmust first be obtained.{be01}\nOn that matter, you will have to\nhandle it yourself, I’m afraid.{be01}
+PearlCelesticRuins_Text_004 = {0100:0} examined the ancient\ncave painting.{be01}\nMysterious designs cover a whole\nsection of the wall.{be01}\nThere are three strange things\nforming a triangle.{be01}\nIn the middle of them, a shining\nsphere?{be01}\nWhat is this all about?
+PearlCelesticRuins_Text_005 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlCelesticRuins_Text_006 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlCelesticRuins_Text_007 = Obtained the {0109:0}!
+PearlCelesticRuins_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlCelesticRuins_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlCelesticRuins_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlCelesticRuins_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlCelesticRuins_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlCelesticRuins_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlCelesticRuins_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlCelesticRuins_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}

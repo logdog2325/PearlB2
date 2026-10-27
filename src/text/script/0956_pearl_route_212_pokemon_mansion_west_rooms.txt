@@ -1,0 +1,15 @@
+PearlRoute212PokemonMansionWestRooms_Text_000 = You know how you can catch Pokémon\nin the trophy garden?{be01}\nIf you put this on a caught Pokémon,\nit warms up to you faster.{be01}\nI’ll share one with you, so give it\na try.{be01}
+PearlRoute212PokemonMansionWestRooms_Text_001 = I hope you become a Trainer that\nPokémon can love and trust.
+PearlRoute212PokemonMansionWestRooms_Text_002 = I’m not loafing off.\nI’m just taking a personal break.
+PearlRoute212PokemonMansionWestRooms_Text_003 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlRoute212PokemonMansionWestRooms_Text_004 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlRoute212PokemonMansionWestRooms_Text_005 = Obtained the {0109:0}!
+PearlRoute212PokemonMansionWestRooms_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlRoute212PokemonMansionWestRooms_Text_014 = Too bad!\nThe Bag is full...

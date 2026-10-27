@@ -1,0 +1,9 @@
+PearlOreburghGateB1f_Text_000 = Do you see those bumps on the\nground?{be01}\nIt feels awesome taking those fast\non a Bicycle.
+PearlOreburghGateB1f_Text_001 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlOreburghGateB1f_Text_002 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlOreburghGateB1f_Text_003 = {0101:0} used Rock Smash!{be01}
+PearlOreburghGateB1f_Text_004 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.{be01}\nWould you like to use Strength?
+PearlOreburghGateB1f_Text_005 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.
+PearlOreburghGateB1f_Text_006 = {0101:0} used Strength!{be01}
+PearlOreburghGateB1f_Text_007 = {0101:0}’s Strength made it\npossible to move boulders around!
+PearlOreburghGateB1f_Text_008 = Strength made it possible to move\nboulders around.

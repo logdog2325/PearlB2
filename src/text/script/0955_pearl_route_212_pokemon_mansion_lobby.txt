@@ -1,0 +1,4 @@
+PearlRoute212PokemonMansionLobby_Text_000 = Mr. Backlot is the master of this\nhouse. This is his office.
+PearlRoute212PokemonMansionLobby_Text_001 = This is the way out to the trophy\ngarden.{be01}\nThe garden is open for all visitors\nto enjoy.{be01}\nHowever, please beware--wild Pokémon\nmay appear in the garden.
+PearlRoute212PokemonMansionLobby_Text_002 = I’m so sorry... Everything beyond\nthis point is secret and off-limits.
+PearlRoute212PokemonMansionLobby_Text_003 = I’m so sorry. Everything beyond this\npoint is strictly off-limits.

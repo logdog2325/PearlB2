@@ -1,0 +1,14 @@
+PearlPastoriaPokemart_Text_000 = The Pokémon Croagunk is the city’s\nofficial mascot.{be01}\nCroagunk sure is purdy--we’re hopin’\nit’ll get popular ’round the world.
+PearlPastoriaPokemart_Text_001 = Put Seals on the Capsule, then put\nit on a Poké Ball...{be01}\nAnd done! Another Poké Ball made by\nme! It’s one of a kind!
+PearlPastoriaPokemart_Text_002 = It’s a wood carving of the Pokémon\nCroagunk.{be01}\nEven though it’s made of wood, it\nlooks like it’s seeping poison...
+PearlPastoriaPokemart_Text_003 = Welcome!\nWhat do you need?
+PearlPastoriaPokemart_Text_004 = Good morning. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlPastoriaPokemart_Text_005 = Good day. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlPastoriaPokemart_Text_006 = Good evening. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlPastoriaPokemart_Text_007 = {0100:0} received\na {ff00:1}Member’s Card{ff00:0}.{be01}
+PearlPastoriaPokemart_Text_008 = {0100:0} received\n{ff00:1}Oak’s Letter{ff00:0}!{be01}
+PearlPastoriaPokemart_Text_009 = {0100:0} received\nan {ff00:1}Azure Flute{ff00:0}!{be01}
+PearlPastoriaPokemart_Text_010 = {0100:0} received\nthe {ff00:1}Manaphy Egg{ff00:0}!{be01}
+PearlPastoriaPokemart_Text_011 = We look forward to your next visit.
+PearlPastoriaPokemart_Text_012 = Your party is full, I’m afraid.\nI can’t give this to you yet.
+PearlPastoriaPokemart_Text_013 = I haven’t received any other gifts\nfor you.{be01}\nWe look forward to your next visit.

@@ -1,0 +1,11 @@
+PearlJublifeTvElevator_Text_000 = Hello, thank you for taking the time\nout of your busy day to visit us.{be01}\nTo which floor may I take you?
+PearlJublifeTvElevator_Text_001 = I look forward to serving you again.
+PearlJublifeTvElevator_Text_002 = Certainly.\nElevator going up.{be01}
+PearlJublifeTvElevator_Text_003 = Certainly.\nElevator going down.{be01}
+PearlJublifeTvElevator_Text_004 = Sorry, we are already on that floor.
+PearlJublifeTvElevator_Text_005 = Here we are!
+PearlJublifeTvElevator_Text_006 = 4F
+PearlJublifeTvElevator_Text_007 = 3F
+PearlJublifeTvElevator_Text_008 = 2F
+PearlJublifeTvElevator_Text_009 = 1F
+PearlJublifeTvElevator_Text_010 = EXIT

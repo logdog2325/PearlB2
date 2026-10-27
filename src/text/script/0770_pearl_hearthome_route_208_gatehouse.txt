@@ -1,0 +1,3 @@
+PearlHearthomeRoute208Gatehouse_Text_000 = Hearthome City is a great place.{be01}\nEvery year, it gets voted the most\ndesirable place to live in Sinnoh.
+PearlHearthomeRoute208Gatehouse_Text_001 = If you say Hearthome City, I only\nsay this: Pokémon Contests!{be01}\nI’m going to enter my darling\nPokémon in them!
+PearlHearthomeRoute208Gatehouse_Text_002 = Clefairy: Pippii?!

@@ -1,0 +1,17 @@
+PearlOreburghNorthHouse2f_Text_000 = All Pokémon have a special power\ncalled an ability.
+PearlOreburghNorthHouse2f_Text_001 = How my Pokémon and I are alike...{be01}\nIt’s not anything I can explain\neasily.
+PearlOreburghNorthHouse2f_Text_002 = The view is good from up here, but\nit’s a pain going out.{be01}\nIf you don’t mind, how about showing\nme a Pokémon called Zubat?
+PearlOreburghNorthHouse2f_Text_003 = The view is good from up here, but\nit’s a pain going out.{be01}\nIf you don’t mind, how about showing\nme a Pokémon called Zubat?{be01}\nOh! That Pokémon!\nThat’s a Zubat!{be01}\nWow, that’s cool...\nIt’s so cute...{be01}\nThat does it!\nI’ll go out and catch Pokémon, too!{be01}\nThank you, my friend!\nThis is a token of my thanks!{be01}
+PearlOreburghNorthHouse2f_Text_004 = Yeah, there are so many kinds of\nPokémon out in the world.{be01}\nI want to see them all now!
+PearlOreburghNorthHouse2f_Text_005 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlOreburghNorthHouse2f_Text_006 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlOreburghNorthHouse2f_Text_007 = Obtained the {0109:0}!
+PearlOreburghNorthHouse2f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlOreburghNorthHouse2f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlOreburghNorthHouse2f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlOreburghNorthHouse2f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlOreburghNorthHouse2f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlOreburghNorthHouse2f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlOreburghNorthHouse2f_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlOreburghNorthHouse2f_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlOreburghNorthHouse2f_Text_016 = Too bad!\nThe Bag is full...

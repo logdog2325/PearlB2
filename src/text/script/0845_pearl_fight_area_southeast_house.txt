@@ -1,0 +1,2 @@
+PearlFightAreaSoutheastHouse_Text_000 = Even from here, we could see the\npeak of Mt. Coronet.{be01}\nMost people didn’t notice what\nhappened up there, but I did.{be01}\nBut I don’t know what took place\nexactly, or anything like that.
+PearlFightAreaSoutheastHouse_Text_001 = Everyone’s fanatical about\nbattling.

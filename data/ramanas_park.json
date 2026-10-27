@@ -1,0 +1,693 @@
+{
+ "_doc": "Ramanas Park (BDSP) in Pearl's Pal Park: the source of b2tools/ramanas.py (the rooms' script and text, the gate's and the park's extra entries) and b2tools/patches/ramanas_park.py (zones, events, items, the ITCM table). notes/RAMANAS_PARK.md has the plan and the sources (Serebii, checked against Gamer Guides and RankedBoost; no BDSP dump). 'version' picks the rooms: 'sp' = Pearl NDS (Shining Pearl's exclusives), 'bd' = a later Diamond NDS (Brilliant Diamond's); a room with version 'both' is in both. Species, moves and items are the decomp's names (generated/*.txt), resolved to numbers by the tools. Text: plain words, \\n a new line, \\r a new page (a Black 2 window shows 2 lines); {slate} {pokemon} {count} are filled by the tools.",
+ "version": "sp",
+ "pal_park": "MAP_PAL_PARK",
+ "gate": "MAP_ROUTE_221_PAL_PARK_ENTRANCE",
+ "files": {
+  "script": 1901,
+  "text": 1301
+ },
+ "open_flag": "PFLAG_0964",
+ "show_var": "PVAR_40F3",
+ "show_values": {
+  "none": 0,
+  "running": 1,
+  "retired": 2,
+  "ramanas": 3
+ },
+ "level": 70,
+ "cost": {
+  "small": 3,
+  "large": 1
+ },
+ "shards": {
+  "small": {
+   "item": 129,
+   "name": "Myst. Shard S",
+   "plural": "Myst. Shards S",
+   "article": "a",
+   "description": "A small shard that emanates an enigmatic power. Inside the shard, you can see a pattern that looks like Ramanas roses.",
+   "icon": [
+    "ITEM_ICON_RED_SHARD",
+    "ITEM_ICON_PALETTE_BLUE_SHARD"
+   ]
+  },
+  "large": {
+   "item": 130,
+   "name": "Myst. Shard L",
+   "plural": "Myst. Shards L",
+   "article": "a",
+   "description": "A large shard that emanates an enigmatic power. Inside the shard, you can see a pattern that looks like Ramanas roses.",
+   "icon": [
+    "ITEM_ICON_COMET_SHARD",
+    "ITEM_ICON_PALETTE_COMET_SHARD"
+   ]
+  }
+ },
+ "looks": {
+  "pure": {
+   "pearl_map": "MAP_FULLMOON_ISLAND_INTERIOR",
+   "arrive_warp": 0,
+   "pedestal": [
+    16,
+    15
+   ],
+   "sprite": [
+    16,
+    15
+   ],
+   "stand": [
+    16,
+    16
+   ],
+   "sign": null,
+   "note": "not used: the clearing's legendary spot is walkable floor (the player walks onto the pedestal); a pedestal object would be needed (option for later)"
+  },
+  "pure_newmoon": {
+   "pearl_map": "MAP_NEWMOON_ISLAND_INTERIOR",
+   "arrive_warp": 0,
+   "pedestal": [
+    16,
+    13
+   ],
+   "sprite": [
+    16,
+    13
+   ],
+   "stand": [
+    16,
+    14
+   ],
+   "sign": null,
+   "note": "not used: the legendary spot is in the pond the player wades into"
+  },
+  "strange": {
+   "pearl_map": "MAP_TURNBACK_CAVE_GIRATINA_ROOM",
+   "arrive_warp": 2,
+   "pedestal": [
+    11,
+    12
+   ],
+   "sprite": [
+    11,
+    13
+   ],
+   "stand": [
+    11,
+    13
+   ],
+   "sign": null,
+   "pedestal_more": [
+    [
+     10,
+     12
+    ],
+    [
+     12,
+     12
+    ]
+   ],
+   "note": "every room (first build's pick): Turnback Cave's Giratina room on zone 624, the player in by its south door (Pearl's warp 2; the other doorways lead out too), the dais and its carved tablet as the pedestal (Pearl's three sign tiles); the summoned Pokémon appears on the dais tile in front of the tablet (11, 13), the player first stepping back to (11, 14): Black 2 puts a person on its tile's ground, and the tablet's own tile has none (found in the test: the sprite stood inside the dais)",
+   "step_back": true
+  }
+ },
+ "entrance_model": {
+  "pearl_build_model": 515,
+  "note": "picked from the first build's comparison (shots/comparison_doorways_rooms.png): Pearl's carved panel of the Celestic Ruins (3 x 2 tiles) at the 9 cliff spots whose front tile is in the door's own chunk (ramanas.check_entrances); 516 (dark panel) barely shows, 514 (Spear Pillar's gate) fits few spots, 195 (Amity Square's rock house) reads as a boulder"
+ },
+ "clerk": {
+  "pearl_gfx": 40,
+  "x": 10,
+  "z": 10,
+  "dir": 1,
+  "note": "behind the gate's right-hand desk, talked to across it from (10, 12)"
+ },
+ "rooms": [
+  {
+   "id": "discovery",
+   "name": "Discovery Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 652,
+   "pick": "random",
+   "slate": {
+    "item": 120,
+    "name": "Discovery Slate",
+    "icon": "ITEM_ICON_PALETTE_STONE_PLATE"
+   },
+   "requires": [],
+   "requires_flags": [],
+   "entrance": {
+    "x": 30,
+    "z": 37
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_REGIROCK",
+     "flag": "PFLAG_RP_CAUGHT_REGIROCK",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_350",
+     "moves": [
+      "MOVE_STONE_EDGE",
+      "MOVE_SUPERPOWER",
+      "MOVE_LOCK_ON",
+      "MOVE_ZAP_CANNON"
+     ]
+    },
+    {
+     "species": "SPECIES_REGICE",
+     "flag": "PFLAG_RP_CAUGHT_REGICE",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_351",
+     "moves": [
+      "MOVE_BLIZZARD",
+      "MOVE_SUPERPOWER",
+      "MOVE_LOCK_ON",
+      "MOVE_ZAP_CANNON"
+     ]
+    },
+    {
+     "species": "SPECIES_REGISTEEL",
+     "flag": "PFLAG_RP_CAUGHT_REGISTEEL",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_352",
+     "moves": [
+      "MOVE_HEAVY_SLAM",
+      "MOVE_SUPERPOWER",
+      "MOVE_LOCK_ON",
+      "MOVE_ZAP_CANNON"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kanto",
+   "name": "Kanto Room",
+   "version": "sp",
+   "look": "strange",
+   "zone": 653,
+   "pick": "random",
+   "slate": {
+    "item": 121,
+    "name": "Kanto Slate",
+    "icon": "ITEM_ICON_PALETTE_SKY_PLATE"
+   },
+   "requires": [
+    "discovery"
+   ],
+   "requires_flags": [],
+   "entrance": {
+    "x": 34,
+    "z": 37
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_ARTICUNO",
+     "flag": "PFLAG_RP_CAUGHT_ARTICUNO",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_ARTICUNO",
+     "moves": [
+      "MOVE_HURRICANE",
+      "MOVE_MIND_READER",
+      "MOVE_BLIZZARD",
+      "MOVE_SHEER_COLD"
+     ]
+    },
+    {
+     "species": "SPECIES_ZAPDOS",
+     "flag": "PFLAG_RP_CAUGHT_ZAPDOS",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_ZAPDOS",
+     "moves": [
+      "MOVE_THUNDER",
+      "MOVE_DETECT",
+      "MOVE_CHARGE",
+      "MOVE_ZAP_CANNON"
+     ],
+     "note": "BDSP: Magnetic Flux (Gen 6) -> Charge; BDSP's ability Static, Black 2's hidden ability Lightning Rod"
+    },
+    {
+     "species": "SPECIES_MOLTRES",
+     "flag": "PFLAG_RP_CAUGHT_MOLTRES",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_MOLTRES",
+     "moves": [
+      "MOVE_HURRICANE",
+      "MOVE_ENDURE",
+      "MOVE_OVERHEAT",
+      "MOVE_SKY_ATTACK"
+     ],
+     "note": "BDSP: Burn Up (Gen 7) -> Overheat"
+    }
+   ]
+  },
+  {
+   "id": "johto",
+   "name": "Johto Room",
+   "version": "bd",
+   "look": "strange",
+   "zone": 661,
+   "pick": "random",
+   "slate": {
+    "item": 131,
+    "name": "Johto Slate",
+    "icon": "ITEM_ICON_PALETTE_FLAME_PLATE"
+   },
+   "requires": [
+    "discovery"
+   ],
+   "requires_flags": [],
+   "entrance": {
+    "x": 34,
+    "z": 37
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_RAIKOU",
+     "flag": "PFLAG_RP_CAUGHT_RAIKOU",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_RAIKOU",
+     "moves": [
+      "MOVE_EXTRASENSORY",
+      "MOVE_DISCHARGE",
+      "MOVE_REFLECT",
+      "MOVE_RAIN_DANCE"
+     ]
+    },
+    {
+     "species": "SPECIES_ENTEI",
+     "flag": "PFLAG_RP_CAUGHT_ENTEI",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_ENTEI",
+     "moves": [
+      "MOVE_EXTRASENSORY",
+      "MOVE_LAVA_PLUME",
+      "MOVE_SWAGGER",
+      "MOVE_SUNNY_DAY"
+     ]
+    },
+    {
+     "species": "SPECIES_SUICUNE",
+     "flag": "PFLAG_RP_CAUGHT_SUICUNE",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_SUICUNE",
+     "moves": [
+      "MOVE_EXTRASENSORY",
+      "MOVE_SURF",
+      "MOVE_MIRROR_COAT",
+      "MOVE_RAIN_DANCE"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soul",
+   "name": "Soul Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 654,
+   "pick": "choose",
+   "slate": {
+    "item": 122,
+    "name": "Soul Slate",
+    "icon": "ITEM_ICON_PALETTE_MIND_PLATE"
+   },
+   "requires": [
+    "discovery"
+   ],
+   "requires_flags": [],
+   "entrance": {
+    "x": 27,
+    "z": 35
+   },
+   "complete_items": [
+    "ITEM_SOUL_DEW"
+   ],
+   "pokemon": [
+    {
+     "species": "SPECIES_LATIAS",
+     "flag": "PFLAG_RP_CAUGHT_LATIAS",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_LATIAS",
+     "moves": [
+      "MOVE_REFLECT_TYPE",
+      "MOVE_PSYCHIC",
+      "MOVE_GUARD_SPLIT",
+      "MOVE_HEALING_WISH"
+     ],
+     "items": [
+      "ITEM_PETAYA_BERRY"
+     ]
+    },
+    {
+     "species": "SPECIES_LATIOS",
+     "flag": "PFLAG_RP_CAUGHT_LATIOS",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_LATIOS",
+     "moves": [
+      "MOVE_DRAGON_DANCE",
+      "MOVE_DRAGON_PULSE",
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_LUSTER_PURGE"
+     ],
+     "items": [
+      "ITEM_APICOT_BERRY"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "distortion",
+   "name": "Distortion Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 655,
+   "pick": "one",
+   "slate": {
+    "item": 123,
+    "name": "Distortion Slate",
+    "icon": "ITEM_ICON_PALETTE_SPOOKY_PLATE"
+   },
+   "requires": [
+    "discovery"
+   ],
+   "requires_flags": [
+    "PFLAG_0121"
+   ],
+   "entrance": {
+    "x": 30,
+    "z": 12
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_GIRATINA",
+     "form": 1,
+     "level": 100,
+     "no_capture": true,
+     "flag": "PFLAG_RP_DISTORTION_WON",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_GIRATINA",
+     "moves": [
+      "MOVE_DRAGON_CLAW",
+      "MOVE_EARTH_POWER",
+      "MOVE_SHADOW_FORCE",
+      "MOVE_AURA_SPHERE"
+     ],
+     "win_items": [
+      "ITEM_GRISEOUS_ORB"
+     ],
+     "sprite_note": "Black 2's Altered Forme walker (4636, Pearl's Turnback Cave Giratina too): the Origin Forme walker 4637 is Mt. Coronet's cave-painting wall since Chapter 7 (patches/pearl_npc_sprites WALL); seen in the test as a brick block"
+    }
+   ]
+  },
+  {
+   "id": "rainbow",
+   "name": "Rainbow Room",
+   "version": "bd",
+   "look": "strange",
+   "zone": 662,
+   "pick": "one",
+   "slate": {
+    "item": 132,
+    "name": "Rainbow Slate",
+    "icon": "ITEM_ICON_PALETTE_FLAME_PLATE"
+   },
+   "requires": [
+    "johto",
+    "soul"
+   ],
+   "requires_flags": [],
+   "entrance": {
+    "x": 23,
+    "z": 24
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_HO_OH",
+     "flag": "PFLAG_RP_CAUGHT_HO_OH",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_HO_OH",
+     "moves": [
+      "MOVE_EXTRASENSORY",
+      "MOVE_RECOVER",
+      "MOVE_SACRED_FIRE",
+      "MOVE_SUNNY_DAY"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "squall",
+   "name": "Squall Room",
+   "version": "sp",
+   "look": "strange",
+   "zone": 656,
+   "pick": "one",
+   "slate": {
+    "item": 124,
+    "name": "Squall Slate",
+    "icon": "ITEM_ICON_PALETTE_ICICLE_PLATE"
+   },
+   "requires": [
+    "kanto",
+    "soul"
+   ],
+   "requires_flags": [],
+   "entrance": {
+    "x": 23,
+    "z": 24
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_LUGIA",
+     "flag": "PFLAG_RP_CAUGHT_LUGIA",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_LUGIA",
+     "moves": [
+      "MOVE_EXTRASENSORY",
+      "MOVE_RECOVER",
+      "MOVE_AEROBLAST",
+      "MOVE_RAIN_DANCE"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oceanic",
+   "name": "Oceanic Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 657,
+   "pick": "one",
+   "slate": {
+    "item": 125,
+    "name": "Oceanic Slate",
+    "icon": "ITEM_ICON_PALETTE_SPLASH_PLATE"
+   },
+   "requires": {
+    "sp": [
+     "kanto",
+     "soul"
+    ],
+    "bd": [
+     "johto",
+     "soul"
+    ]
+   },
+   "requires_flags": [],
+   "entrance": {
+    "x": 27,
+    "z": 24
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_KYOGRE",
+     "flag": "PFLAG_RP_CAUGHT_KYOGRE",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_KYOGRE",
+     "moves": [
+      "MOVE_ICE_BEAM",
+      "MOVE_SHEER_COLD",
+      "MOVE_AQUA_RING",
+      "MOVE_HYDRO_PUMP"
+     ],
+     "note": "BDSP: Origin Pulse (Gen 6) -> Hydro Pump",
+     "items": [
+      "ITEM_ENIGMA_BERRY",
+      "ITEM_MICLE_BERRY",
+      "ITEM_CUSTAP_BERRY"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tectonic",
+   "name": "Tectonic Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 658,
+   "pick": "one",
+   "slate": {
+    "item": 126,
+    "name": "Tectonic Slate",
+    "icon": "ITEM_ICON_PALETTE_EARTH_PLATE"
+   },
+   "requires": {
+    "sp": [
+     "kanto",
+     "soul"
+    ],
+    "bd": [
+     "johto",
+     "soul"
+    ]
+   },
+   "requires_flags": [],
+   "entrance": {
+    "x": 33,
+    "z": 11
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_GROUDON",
+     "flag": "PFLAG_RP_CAUGHT_GROUDON",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_GROUDON",
+     "moves": [
+      "MOVE_HAMMER_ARM",
+      "MOVE_FISSURE",
+      "MOVE_REST",
+      "MOVE_EARTHQUAKE"
+     ],
+     "note": "BDSP: Precipice Blades (Gen 6) -> Earthquake",
+     "items": [
+      "ITEM_LIECHI_BERRY",
+      "ITEM_SALAC_BERRY",
+      "ITEM_GANLON_BERRY"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stratospheric",
+   "name": "Stratospheric Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 659,
+   "pick": "one",
+   "slate": {
+    "item": 127,
+    "name": "Stratosph. Slate",
+    "icon": "ITEM_ICON_PALETTE_MEADOW_PLATE",
+    "note": "BDSP's Stratospheric Slate: the Bag's list shows 96 px of a name"
+   },
+   "requires": {
+    "sp": [
+     "kanto",
+     "soul"
+    ],
+    "bd": [
+     "johto",
+     "soul"
+    ]
+   },
+   "requires_flags": [],
+   "entrance": {
+    "x": 37,
+    "z": 11
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_RAYQUAZA",
+     "flag": "PFLAG_RP_CAUGHT_RAYQUAZA",
+     "hidden_ability": false,
+     "sprite": "OBJ_CODE_POKEMON_RAYQUAZA",
+     "moves": [
+      "MOVE_DRAGON_PULSE",
+      "MOVE_HYPER_VOICE",
+      "MOVE_REST",
+      "MOVE_FLY"
+     ],
+     "items": [
+      "ITEM_ROWAP_BERRY",
+      "ITEM_JABOCA_BERRY"
+     ],
+     "note": "BDSP's third Berry, the Roseli Berry, is not in Black 2"
+    }
+   ]
+  },
+  {
+   "id": "genome",
+   "name": "Genome Room",
+   "version": "both",
+   "look": "strange",
+   "zone": 660,
+   "pick": "one",
+   "slate": {
+    "item": 128,
+    "name": "Genome Slate",
+    "icon": "ITEM_ICON_PALETTE_TOXIC_PLATE"
+   },
+   "requires": {
+    "sp": [
+     "kanto",
+     "soul"
+    ],
+    "bd": [
+     "johto",
+     "soul"
+    ]
+   },
+   "requires_flags": [],
+   "entrance": {
+    "x": 41,
+    "z": 11
+   },
+   "pokemon": [
+    {
+     "species": "SPECIES_MEWTWO",
+     "flag": "PFLAG_RP_CAUGHT_MEWTWO",
+     "hidden_ability": true,
+     "sprite": "OBJ_CODE_POKEMON_MEWTWO",
+     "moves": [
+      "MOVE_PSYCHIC",
+      "MOVE_POWER_SWAP",
+      "MOVE_GUARD_SWAP",
+      "MOVE_MIST"
+     ]
+    }
+   ]
+  }
+ ],
+ "slate_description": "A slate overflowing with enigmatic energy. You can feel a strong connection between it and the {room} at Pal Park.",
+ "text": {
+  "clerk_closed": "Welcome to Pal Park!\\rThe rooms beyond the park are open\\nonly to the Pokémon League Champion.",
+  "clerk_first": "Welcome to Pal Park!\\rThe rooms out in the park hold\\npedestals of ancient stone.\\rPlace the right slate on a\\npedestal, and a Pokémon from a\\ffaraway land is said to appear.\\rI trade slates for Mysterious\\nShards from the Underground.",
+  "clerk_menu": "How may I help you?",
+  "menu_exchange": "Trade for a slate",
+  "menu_enter": "Go to the park",
+  "menu_cancel": "Cancel",
+  "clerk_which": "Which slate would you like?",
+  "clerk_cost": "A slate costs three Mysterious\\nShards S or one Mysterious Shard L.",
+  "clerk_pay_which": "How would you like to pay?",
+  "pay_small": "3 Myst. Shards S",
+  "pay_large": "1 Myst. Shard L",
+  "clerk_no_shards": "Oh... You don’t have enough\\nMysterious Shards for a slate.",
+  "clerk_have_it": "You already have the {slate}.\\nPlease place it on its pedestal first.",
+  "clerk_none_left": "I’m sorry, I have no slates for\\nyou right now.",
+  "clerk_here_you_go": "Here you are!",
+  "clerk_bye": "Please come again!",
+  "clerk_enter": "Please enjoy the park!",
+  "attendant": "The rooms with the pedestals are\\nout in the park. Good luck!",
+  "room_sign": "{room}",
+  "show_closed": "The rooms are closed during\\nthe Catching Show.",
+  "pedestal_done": "The {slate} rests in\\nthe pedestal.",
+  "pedestal_empty": "It’s a pedestal of ancient stone.\\nA slate looks as if it would fit.",
+  "pedestal_ask": "Will you place the {slate}\\non the pedestal?",
+  "pedestal_choose": "Which Pokémon will you call?",
+  "pedestal_glow": "The {slate} began to shine!",
+  "berries_left": "Something was left behind on\\nthe pedestal!",
+  "after_win": "Giratina faded into the\\ndistortion..."
+ },
+ "_looks": "Lake caverns (Verity, Valor, Acuity) are never a room's look: they are places the player goes to in the game (the user, 2026-10-26)."
+}

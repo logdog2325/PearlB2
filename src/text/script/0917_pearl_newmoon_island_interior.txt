@@ -1,0 +1,2 @@
+PearlNewmoonIslandInterior_Text_000 = ...\n...{be01}
+PearlNewmoonIslandInterior_Text_001 = Darkrai disappeared into the murky\ndarkness...{be01}

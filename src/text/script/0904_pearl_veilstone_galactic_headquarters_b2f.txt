@@ -1,0 +1,17 @@
+PearlVeilstoneGalacticHeadquartersB2f_Text_000 = Team Galactic will set free all\nPokémon, all of nature!{be01}\nUwahahaha! Team Galactic will then\nown it all!
+PearlVeilstoneGalacticHeadquartersB2f_Text_001 = I’ve been with Team Galactic for five\nyears.{be01}\nI haven’t gotten a promotion yet...
+PearlVeilstoneGalacticHeadquartersB2f_Text_002 = The door is locked.\nA special key is needed.
+PearlVeilstoneGalacticHeadquartersB2f_Text_003 = The door is locked.\nA special key is needed.{be01}\nUse the Galactic Key?
+PearlVeilstoneGalacticHeadquartersB2f_Text_004 = The door opened.
+PearlVeilstoneGalacticHeadquartersB2f_Text_005 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.
+PearlVeilstoneGalacticHeadquartersB2f_Text_006 = {0100:0} found\n{0109:1} {0107:2}!
+PearlVeilstoneGalacticHeadquartersB2f_Text_007 = {0100:0} found\n{0109:1}!
+PearlVeilstoneGalacticHeadquartersB2f_Text_008 = Obtained the {0109:0}!{be01}\nToo bad!\nThe Bag is full...
+PearlVeilstoneGalacticHeadquartersB2f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlVeilstoneGalacticHeadquartersB2f_Text_016 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}

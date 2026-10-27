@@ -1,0 +1,2 @@
+PearlSandgemSouthwestHouse_Text_000 = Pokémon grow steadily stronger from\nbattling against other Pokémon.{be01}\nAt first, you should heal your\nPokémon regularly at Poké Centers{be00}\nwhile you’re leveling them up.
+PearlSandgemSouthwestHouse_Text_001 = A good Trainer is one that takes care\nnot to let their Pokémon faint from{be00}\nlosing HP.

@@ -1,0 +1,9 @@
+PearlPokemonLeagueHallOfFameCorridor_Text_000 = Cynthia: The room ahead is the Hall\nof Fame...{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_001 = Rowan: {0100:0}!\nYour last battle was splendid!{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_002 = Cynthia: Oh, hello, Professor Rowan.{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_003 = Rowan: Hm!{be01}\nA child I enlisted for my Pokédex\nproject has come this far...{be01}\nIt’s only natural that I come and\nwitness the child’s crowning glory.{be01}\n{0100:0}!\nI shouldn’t call you a child anymore.{be00}\nYou’ve grown into a real Champion!{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_004 = Cynthia: Professor, you still enjoy\nthe enthusiasm kids bring to{be00}\nyour research, don’t you?{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_005 = {0100:0}, step this way,\nplease.{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_006 = {0100:0}, step this way,\nplease.{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_007 = Professor Rowan, I need you over\nhere, as well.{be01}
+PearlPokemonLeagueHallOfFameCorridor_Text_008 =                                        

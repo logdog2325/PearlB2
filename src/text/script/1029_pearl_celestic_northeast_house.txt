@@ -1,0 +1,2 @@
+PearlCelesticNortheastHouse_Text_000 = Mt. Coronet towers at the center\nof Sinnoh.{be01}\nIn a way, it’s the closest place to\nthe sky in this region.
+PearlCelesticNortheastHouse_Text_001 = If I climb on top of Mt. Coronet,\nwill I be able to see all of Sinnoh?

@@ -1,0 +1,20 @@
+{
+ "_doc": "The Pokémon Musical's lines at the Contest Hall counters (b2tools/pearl_story.py MUSICAL; the reception is src/include/pearl_musical.inc, whose MUSL_* order these ids follow). A zone with a data/pearl_closed_facilities.json row {talk, obj, musical: true, text} gets these lines once, after its own; the row's text is the receptionist's greeting (Pearl's). Spelling: Pearl's (.gmm): \\n a new line, \\r wait + new page, \\f wait + scroll, ’ for the apostrophe (Pearl's font has no straight one). Sources: Black 2's text 442 (Nimbasa's reception) and 87 (its theatre owner), line numbers 0-based.",
+ "lines": [
+  {"id": "ABOUT", "from": "Black 2 442:61", "text": "The Pokémon Musical is a show where\\nPokémon wearing Props perform on stage.\\fAnyone can participate!\\rWe encourage all Trainers to show the\\nworld how charming their Pokémon are!\\rThe audience is looking forward to seeing\\nhow you Dress Up your Pokémon, and how\\fyour Pokémon perform!\\r"},
+  {"id": "CASE", "from": "Black 2 87:1 (last page)", "text": "Do you want to join in and play Dress Up?\\nTo get you started, here’s a Prop Case!\\r"},
+  {"id": "CASE2", "from": "Black 2 87:2 (first page)", "text": "This Prop Case lets you store Props for\\ndecorating your Pokémon!\\r"},
+  {"id": "FANS", "from": "the project's (in Black 2 the fans wait in Nimbasa's lobby and give their Props themselves)", "text": "Oh! Fans from your last show left\\nyou some presents!\\r"},
+  {"id": "ASK", "from": "Black 2 442:54", "text": "Participate in the musical?"},
+  {"id": "NONE", "from": "Black 2 442:44", "text": "I’m sorry, but you don’t have an\\neligible Pokémon in your party.\\rPlease come back again with\\ndifferent Pokémon!\\r"},
+  {"id": "CHOOSE", "from": "Black 2 442:4", "text": "Please choose the Pokémon that\\nwill participate.\\r"},
+  {"id": "WHICH", "from": "Black 2 442:3", "text": "Which show would you like\\nto participate in?"},
+  {"id": "SHOW1", "from": "Black 2 442:29", "text": "Stardom"},
+  {"id": "SHOW2", "from": "Black 2 442:30", "text": "Forest Stroll"},
+  {"id": "SHOW3", "from": "Black 2 442:31", "text": "A Sweet Soirée"},
+  {"id": "SHOW4", "from": "Black 2 442:32", "text": "Exciting Nimbasa"},
+  {"id": "CANCEL", "from": "Black 2 442:34", "text": "Cancel"},
+  {"id": "GO", "from": "Black 2 442:1", "text": "Great! Please walk this way!\\r"},
+  {"id": "BYE", "from": "Black 2 442:2", "text": "Please visit us again."}
+ ]
+}

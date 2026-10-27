@@ -1,0 +1,5 @@
+PearlRoute216SnowboundLodge_Text_000 = Feel free to take a power nap in\nthat bed.{be01}\nAs you can see, this lodge is beat\nup. Do what you like here.
+PearlRoute216SnowboundLodge_Text_001 = I don’t have Thick Fat like some\nPokémon, so I have to bundle up{be00}\nin clothes to keep warm.
+PearlRoute216SnowboundLodge_Text_002 = It’s a bed...\nWant to take a rest?
+PearlRoute216SnowboundLodge_Text_003 = {0100:0} quickly fell asleep\nin the bed...{be01}
+PearlRoute216SnowboundLodge_Text_004 = {0100:0} and the Pokémon\nbecame fully healed from the rest!

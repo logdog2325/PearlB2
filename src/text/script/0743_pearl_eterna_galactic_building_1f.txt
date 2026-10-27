@@ -1,0 +1,2 @@
+PearlEternaGalacticBuilding1f_Text_000 = Welcome to Team Galactic. Are you\nhere to donate your Pokémon?{be01}\nWhat? You’re not?\nThen kindly get off our property!{be01}\nDo we have to bring the pain like we\ndid with the Cycle Shop manager?
+PearlEternaGalacticBuilding1f_Text_001 = Team Galactic isn’t interested in the\nworld. Our gaze is beyond the stars!

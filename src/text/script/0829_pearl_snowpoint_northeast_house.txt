@@ -1,0 +1,7 @@
+PearlSnowpointNortheastHouse_Text_000 = Hello, hello. Would you like to hear\na trendy saying?
+PearlSnowpointNortheastHouse_Text_001 = Very well...{be01}\nThe trendy thing to say for you\nwould be...{be01}\n{0100:0}!{be01}\nThat’s a trendy sort of thing\nto say.
+PearlSnowpointNortheastHouse_Text_002 = Oh, come on now. With an attitude like\nthat, you’ll fall behind the times!
+PearlSnowpointNortheastHouse_Text_003 = I hope you’ll use trendy sayings\nin a trendy way.
+PearlSnowpointNortheastHouse_Text_004 = Hello, hello. Are you using trendy\nsayings?
+PearlSnowpointNortheastHouse_Text_005 =            
+PearlSnowpointNortheastHouse_Text_006 =            

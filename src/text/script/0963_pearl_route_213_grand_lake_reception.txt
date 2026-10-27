@@ -1,0 +1,3 @@
+PearlRoute213GrandLakeReception_Text_000 = Ah, hello. You wish to stay a night?\nAh, but you’ve no reservations.{be01}\nI’m afraid we are totally booked.\nYou may rest a while, if you wish.{be01}
+PearlRoute213GrandLakeReception_Text_001 = We’ve restored your Pokémon\nto full health.{be01}\nWe hope to see you again!
+PearlRoute213GrandLakeReception_Text_002 = This hotel is so romantic...{be01}\nI hope a knight on a Pokémon will\nsweep me away for a honeymoon here!

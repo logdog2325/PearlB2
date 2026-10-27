@@ -1,0 +1,17 @@
+PearlRoute209LostTower5f_Text_000 = The Lost Tower is where the spirits\nof departed Pokémon are put to rest.{be01}\nThose that enjoyed long lives...\nThose whose times were short...{be01}\nAll the departed Pokémon shall\nfind solace here...{be01}\nIt is good of you to have visited.\nHere, take this Hidden Machine.{be01}
+PearlRoute209LostTower5f_Text_001 = To use that hidden move Strength...{be01}\n...I’ve forgotten where exactly, but\nyou must visit a Pokémon Gym.
+PearlRoute209LostTower5f_Text_002 = That Fantina...\nShe’s a hard one to get a read on...{be01}\nBut she is the compassionate sort.\nYou know, she’s a regular visitor.
+PearlRoute209LostTower5f_Text_003 = Let me make your journey out of this\nplace less frightening. Take this.{be01}
+PearlRoute209LostTower5f_Text_004 = The Cleanse Tag... Let the first\nPokémon in your team hold it.{be01}\nIt will help keep wild Pokémon away\nso you can leave unhindered.
+PearlRoute209LostTower5f_Text_005 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlRoute209LostTower5f_Text_006 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlRoute209LostTower5f_Text_007 = Obtained the {0109:0}!
+PearlRoute209LostTower5f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute209LostTower5f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute209LostTower5f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute209LostTower5f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute209LostTower5f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute209LostTower5f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute209LostTower5f_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute209LostTower5f_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlRoute209LostTower5f_Text_016 = Too bad!\nThe Bag is full...

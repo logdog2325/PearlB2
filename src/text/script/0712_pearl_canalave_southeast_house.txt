@@ -1,0 +1,16 @@
+PearlCanalaveSoutheastHouse_Text_000 =           
+PearlCanalaveSoutheastHouse_Text_001 = Hello, Trainer!\nThis is something I found.{be01}\nIt was mixed in with a load of cargo\nfrom another country.{be01}\nIt’s not anything that I can use,\nso I think you should take it.{be01}
+PearlCanalaveSoutheastHouse_Text_002 = You know how Pokémon have their\nown abilities?{be01}\nWell, the move Skill Swap exchanges\nthe user’s ability with that of its{be00}\ntarget Pokémon.{be01}\nHow you use Skill Swap is a measure\nof your expertise as a Trainer.
+PearlCanalaveSoutheastHouse_Text_003 = Somewhere beyond the sea...{be01}\nThere are other lands populated by\nPokémon and Trainers.
+PearlCanalaveSoutheastHouse_Text_004 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlCanalaveSoutheastHouse_Text_005 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlCanalaveSoutheastHouse_Text_006 = Obtained the {0109:0}!
+PearlCanalaveSoutheastHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlCanalaveSoutheastHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlCanalaveSoutheastHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlCanalaveSoutheastHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlCanalaveSoutheastHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlCanalaveSoutheastHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlCanalaveSoutheastHouse_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlCanalaveSoutheastHouse_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlCanalaveSoutheastHouse_Text_015 = Too bad!\nThe Bag is full...

@@ -1,0 +1,17 @@
+PearlJublifeCondominiums1f_Text_000 = Isn’t my Pokétch quite fetching?{be01}\nA Trainer would be simply lost without\na Pokétch, after all.
+PearlJublifeCondominiums1f_Text_001 = Pikachu: Piika pi!
+PearlJublifeCondominiums1f_Text_002 = Pachirisu: Pachipachii?
+PearlJublifeCondominiums1f_Text_003 = Oh, your Pokémon is quite adorable!{be01}\nHere, try making it hold this\n{0109:0}.{be01}
+PearlJublifeCondominiums1f_Text_004 = A Pokémon holding that Quick Claw can\nsometimes attack first, even if it{be00}\nis normally a little bit slow.{be01}\nThere are other items that are only\nuseful when given to a Pokémon.{be01}\nTry finding other items that you can\nmake your Pokémon hold.{be01}\n...I sound like I’m a teacher or\nsomething.
+PearlJublifeCondominiums1f_Text_005 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlJublifeCondominiums1f_Text_006 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlJublifeCondominiums1f_Text_007 = Obtained the {0109:0}!
+PearlJublifeCondominiums1f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlJublifeCondominiums1f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlJublifeCondominiums1f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlJublifeCondominiums1f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlJublifeCondominiums1f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlJublifeCondominiums1f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlJublifeCondominiums1f_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlJublifeCondominiums1f_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlJublifeCondominiums1f_Text_016 = Too bad!\nThe Bag is full...

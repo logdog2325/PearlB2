@@ -1,0 +1,2 @@
+PearlSunyshoreNorthHouse_Text_000 = I’d heard that Team Galactic was\nup to no good.{be01}\nBut here in Sunyshore, we’ve never\neven seen any of them around.
+PearlSunyshoreNorthHouse_Text_001 = A long time ago, there was a boy\nnamed Cyrus who lived here.{be01}\nHe seemed to shun others, and he\npreferred the company of machines.{be01}\nHe was a brilliant student, I recall.\nI often wonder what became of him.

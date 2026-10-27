@@ -1,0 +1,71 @@
+{
+ "_doc": "Pearl's battle music (user 2026-10-25, notes/DECISIONS.md: every unique Gen 4 battle track is Pearl's; with Black 2's music at Rowan's question, a track with a real Black 2 counterpart plays it). patches/battle_music.py installs the Pearl songs named here (sinnoh_music's way: pearl_music.trim) and gives the decomp's src/pearlb2/battle_music_itcm.c its tables. Pearl's rules, from pokediamond: 'eye' = the trainer-class encounter music table (arm9/asm/unk_0204AB0C.s UNK_020F4718, 78 classes; any other class: eye_default, sub_0204AD0C); 'battle' = the class -> encounter table (arm9/asm/unk_02047500.s sub_020475C0 + UNK_020F457E; any other class: battle_default); 'victory' = the battle's victory music by the first opponent's class (overlay 11 ov11_0223D1DC.s, the jump table before SEQ_WINTGYM..; any other class: victory_default; a wild battle: victory_wild); 'wild' = species -> battle music (sub_02047668 + the same table; any other species: wild_default). Pearl also plays trainer music for a double battle against any class but Team Galactic's (not built: no Pearl double battle has a leader, the Elite Four, the Champion or Barry as the opponent). 'unova': what each Pearl track becomes with Black 2's music: a Black 2 song (its real counterpart: the PWT remixes of the Sinnoh Gym Leader and Champion themes; Black 2's own versions of Pearl's lake trio and legendary battles, VS_UMA and VS_DPLEGEND, have the same notes (b2tools/patches/battle_music.py melody(): 1.00), and E_SHIRONA is Pearl's Champion encounter theme (0.97)), 'black2' (Black 2's own choice for that class or Pokemon: its eye-contact theme per class, its trainer, wild and victory songs) or 'pearl' (no counterpart: Pearl's track plays). Pearl's Elite Four battle (SEQ_BA_TENNO) is the Gym Leader theme note for note, so its counterpart is the PWT remix of that theme.",
+ "eye": {
+  "AROMA_LADY": "SEQ_EYE_LADY", "RUIN_MANIAC": "SEQ_EYE_MOUNT", "INTERVIEWERS": "SEQ_EYE_FUN", "TUBER_F": "SEQ_EYE_KID",
+  "TUBER_M": "SEQ_EYE_KID", "SIS_AND_BRO": "SEQ_EYE_SPORT", "ACE_TRAINER_F": "SEQ_EYE_ELITE",
+  "ACE_TRAINER_M": "SEQ_EYE_ELITE", "LADY": "SEQ_EYE_RICH", "BEAUTY": "SEQ_EYE_LADY", "RICH_BOY": "SEQ_EYE_RICH",
+  "SWIMMER_M": "SEQ_EYE_SPORT", "BLACK_BELT": "SEQ_EYE_FIGHT", "GUITARIST": "SEQ_EYE_FIGHT", "CAMPER": "SEQ_EYE_BOY",
+  "PSYCHIC_F": "SEQ_EYE_FIGHT", "PSYCHIC_M": "SEQ_EYE_FIGHT", "GENTLEMAN": "SEQ_EYE_RICH",
+  "SCHOOL_KID_F": "SEQ_EYE_GIRL", "SCHOOL_KID_M": "SEQ_EYE_BOY", "POKEFAN_F": "SEQ_EYE_FUN", "POKEFAN_M": "SEQ_EYE_FUN",
+  "YOUNGSTER": "SEQ_EYE_BOY", "FISHERMAN": "SEQ_EYE_ENKA", "DRAGON_TAMER": "SEQ_EYE_ELITE",
+  "BIRD_KEEPER": "SEQ_EYE_SPORT", "NINJA_BOY": "SEQ_EYE_KID", "BATTLE_GIRL": "SEQ_EYE_FIGHT",
+  "PARASOL_LADY": "SEQ_EYE_LADY", "SWIMMER_F": "SEQ_EYE_LADY", "PICNICKER": "SEQ_EYE_GIRL", "TWINS": "SEQ_EYE_KID",
+  "SAILOR": "SEQ_EYE_ENKA", "COLLECTOR": "SEQ_EYE_MYS", "PKMN_BREEDER_F": "SEQ_EYE_LADY",
+  "PKMN_BREEDER_M": "SEQ_EYE_BOY", "PKMN_RANGER_F": "SEQ_EYE_ELITE", "PKMN_RANGER_M": "SEQ_EYE_ELITE",
+  "LASS": "SEQ_EYE_GIRL", "BUG_CATCHER": "SEQ_EYE_BOY", "HIKER": "SEQ_EYE_MOUNT", "YOUNG_COUPLE": "SEQ_EYE_FUN",
+  "CYCLIST_M": "SEQ_EYE_SPORT", "CYCLIST_F": "SEQ_EYE_SPORT", "GALACTIC": "SEQ_EYE_GINGA",
+  "GALACTIC_F": "SEQ_EYE_GINGA", "COMMANDER_MARS": "SEQ_EYE_GINGA", "COMMANDER_JUPITER": "SEQ_EYE_GINGA",
+  "COMMANDER_SATURN": "SEQ_EYE_GINGA", "SOCIALITE": "SEQ_EYE_RICH", "WAITER": "SEQ_EYE_FUN", "WAITRESS": "SEQ_EYE_FUN",
+  "WORKER": "SEQ_EYE_FUN", "RANCHER": "SEQ_EYE_MOUNT", "COWGIRL": "SEQ_EYE_MOUNT", "BELLE__PA": "SEQ_EYE_MOUNT",
+  "CLOWN": "SEQ_EYE_FUN", "IDOL": "SEQ_EYE_GIRL", "ARTIST": "SEQ_EYE_FUN", "POKE_KID": "SEQ_EYE_KID",
+  "POLICEMAN": "SEQ_EYE_FIGHT", "DOUBLE_TEAM": "SEQ_EYE_ELITE", "SKIER_M": "SEQ_EYE_SPORT",
+  "SKIER_F": "SEQ_EYE_SPORT", "ROUGHNECK": "SEQ_EYE_FIGHT", "SCIENTIST": "SEQ_EYE_MYS", "JOGGER": "SEQ_EYE_SPORT",
+  "VETERAN": "SEQ_EYE_ELITE", "CAMERAMAN": "SEQ_EYE_FUN", "REPORTER": "SEQ_EYE_FUN", "PI": "SEQ_EYE_RICH",
+  "ACE_TRAINER_SNOW_F": "SEQ_EYE_ELITE", "ACE_TRAINER_SNOW_M": "SEQ_EYE_ELITE", "ELITE_FOUR_AARON": "SEQ_EYE_TENNO",
+  "ELITE_FOUR_BERTHA": "SEQ_EYE_TENNO", "ELITE_FOUR_FLINT": "SEQ_EYE_TENNO", "ELITE_FOUR_LUCIEN": "SEQ_EYE_TENNO",
+  "CHAMPION": "SEQ_EYE_CHAMP"
+ },
+ "eye_default": "SEQ_EYE_KID",
+ "battle": {
+  "LEADER_ROARK": "SEQ_BA_GYM", "LEADER_GARDENIA": "SEQ_BA_GYM", "LEADER_WAKE": "SEQ_BA_GYM",
+  "LEADER_MAYLENE": "SEQ_BA_GYM", "LEADER_FANTINA": "SEQ_BA_GYM", "LEADER_CANDICE": "SEQ_BA_GYM",
+  "LEADER_BYRON": "SEQ_BA_GYM", "LEADER_VOLKNER": "SEQ_BA_GYM",
+  "ELITE_FOUR_AARON": "SEQ_BA_TENNO", "ELITE_FOUR_BERTHA": "SEQ_BA_TENNO", "ELITE_FOUR_FLINT": "SEQ_BA_TENNO",
+  "ELITE_FOUR_LUCIEN": "SEQ_BA_TENNO", "CHAMPION": "SEQ_BA_CHANP", "PKMN_TRAINER_BARRY": "SEQ_BA_RIVAL",
+  "GALACTIC": "SEQ_BA_GINGA", "GALACTIC_F": "SEQ_BA_GINGA", "COMMANDER_MARS": "SEQ_BA_GINGA3",
+  "COMMANDER_JUPITER": "SEQ_BA_GINGA3", "COMMANDER_SATURN": "SEQ_BA_GINGA3", "GALACTIC_BOSS": "SEQ_BA_AKAGI",
+  "TOWER_TYCOON": "SEQ_BA_CHANP"
+ },
+ "battle_default": "SEQ_BA_TRAIN",
+ "victory": {
+  "LEADER_ROARK": "SEQ_WINTGYM", "LEADER_GARDENIA": "SEQ_WINTGYM", "LEADER_WAKE": "SEQ_WINTGYM",
+  "LEADER_MAYLENE": "SEQ_WINTGYM", "LEADER_FANTINA": "SEQ_WINTGYM", "LEADER_CANDICE": "SEQ_WINTGYM",
+  "LEADER_BYRON": "SEQ_WINTGYM", "LEADER_VOLKNER": "SEQ_WINTGYM",
+  "ELITE_FOUR_AARON": "SEQ_WINTENNO", "ELITE_FOUR_BERTHA": "SEQ_WINTENNO", "ELITE_FOUR_FLINT": "SEQ_WINTENNO",
+  "ELITE_FOUR_LUCIEN": "SEQ_WINTENNO", "CHAMPION": "SEQ_WINCHAMP",
+  "GALACTIC": "SEQ_WINGINGA", "GALACTIC_F": "SEQ_WINGINGA", "COMMANDER_MARS": "SEQ_WINGINGA",
+  "COMMANDER_JUPITER": "SEQ_WINGINGA", "COMMANDER_SATURN": "SEQ_WINGINGA", "GALACTIC_BOSS": "SEQ_WINAKAGI",
+  "TOWER_TYCOON": "SEQ_WINTGYM"
+ },
+ "victory_default": "SEQ_WINTRAIN",
+ "victory_wild": "SEQ_WINPOKE",
+ "wild": {
+  "479": "SEQ_BA_SECRET2", "480": "SEQ_BA_DPOKE1", "481": "SEQ_BA_DPOKE1", "482": "SEQ_BA_DPOKE1",
+  "483": "SEQ_BA_DPOKE2", "484": "SEQ_BA_DPOKE2", "485": "SEQ_BA_SECRET2", "486": "SEQ_BA_SECRET2",
+  "487": "SEQ_BA_SECRET2", "491": "SEQ_BA_SECRET2", "493": "SEQ_BA_SECRET1"
+ },
+ "_wild_doc": "479 Rotom, 480-482 Uxie, Mesprit, Azelf, 483-484 Dialga, Palkia, 485 Heatran, 486 Regigigas, 487 Giratina, 491 Darkrai, 493 Arceus; Cresselia (488), Shaymin (492) and every other species: wild_default",
+ "wild_default": "SEQ_BA_POKE",
+ "unova": {
+  "SEQ_EYE_BOY": "black2", "SEQ_EYE_KID": "black2", "SEQ_EYE_FIGHT": "black2", "SEQ_EYE_LADY": "black2",
+  "SEQ_EYE_MOUNT": "black2", "SEQ_EYE_RICH": "black2", "SEQ_EYE_ENKA": "black2", "SEQ_EYE_MYS": "black2",
+  "SEQ_EYE_ELITE": "black2", "SEQ_EYE_GIRL": "black2", "SEQ_EYE_SPORT": "black2", "SEQ_EYE_FUN": "black2",
+  "SEQ_EYE_GINGA": "pearl", "SEQ_EYE_TENNO": "pearl", "SEQ_EYE_CHAMP": "SEQ_BGM_E_SHIRONA",
+  "SEQ_BA_POKE": "black2", "SEQ_BA_TRAIN": "black2", "SEQ_BA_GYM": "SEQ_BGM_VS_DP_LEADER",
+  "SEQ_BA_TENNO": "SEQ_BGM_VS_DP_LEADER", "SEQ_BA_CHANP": "SEQ_BGM_VS_DP_CHAMP", "SEQ_BA_RIVAL": "pearl",
+  "SEQ_BA_GINGA": "pearl", "SEQ_BA_GINGA3": "pearl", "SEQ_BA_AKAGI": "pearl", "SEQ_BA_DPOKE1": "SEQ_BGM_VS_UMA",
+  "SEQ_BA_DPOKE2": "pearl", "SEQ_BA_SECRET1": "pearl", "SEQ_BA_SECRET2": "SEQ_BGM_VS_DPLEGEND",
+  "SEQ_WINPOKE": "black2", "SEQ_WINTRAIN": "black2", "SEQ_WINTGYM": "SEQ_BGM_WIN3", "SEQ_WINTENNO": "SEQ_BGM_WIN3",
+  "SEQ_WINCHAMP": "SEQ_BGM_WIN5", "SEQ_WINGINGA": "pearl", "SEQ_WINAKAGI": "pearl"
+ }
+}

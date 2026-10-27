@@ -1,0 +1,3 @@
+PearlEternaHerbShop_Text_000 = Welcome to the Herb Shop, home of\neffective yet inexpensive medicine.
+PearlEternaHerbShop_Text_001 = Herbal meds work most impressively.\nBut your Pokémon won’t like them.{be00}\nThey’re horribly bitter and smelly!
+PearlEternaHerbShop_Text_002 = Someone ought to invent herbal\nmedicine that isn’t bitter.{be01}\nThat would be a medical breakthrough!

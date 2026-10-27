@@ -1,0 +1,7 @@
+PearlPokemonLeagueHallOfFame_Text_000 = Rowan: It’s been a long while since\nI last entered this room...{be01}
+PearlPokemonLeagueHallOfFame_Text_001 = Rowan: No matter how many times\nI come here, I always find myself{be00}\nstanding up straighter than usual.{be01}
+PearlPokemonLeagueHallOfFame_Text_002 = Cynthia: If your last time here was\nwhen I became Champion, then yes,{be00}\nthat would be quite a long time ago.{be01}
+PearlPokemonLeagueHallOfFame_Text_003 = Cynthia: It’s a natural reaction,\nProfessor.{be01}\nThis room is a legacy to the hopes,\ndreams, and struggles of Pokémon{be00}\nand their Trainers to excel.{be01}
+PearlPokemonLeagueHallOfFame_Text_004 = Cynthia: {0100:0}, welcome\nto the Hall of Fame.{be01}
+PearlPokemonLeagueHallOfFame_Text_005 = Cynthia: {0100:0}, welcome\nto the Hall of Fame.{be01}
+PearlPokemonLeagueHallOfFame_Text_006 = Your names will be recorded for\nposterity here.{be01}\nWhat you are leaving are the memories\nof your adventure so far.{be01}\nIt’s time to record your names.\nYou and your Pokémon.{be01}\nRemember, your Pokémon are partners\nthat grew with you through{be00}\nmany challenging battles.{be01}\nThis machine will make a permanent\nrecord of your achievement.{be01}

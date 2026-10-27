@@ -1,0 +1,3 @@
+PearlOreburghWestHouse_Text_000 = Have you ever seen or heard about\ndifferently colored Pokémon?{be01}\nFor instance, a regular Pikachu has\na yellow body, correct?{be01}\nWell, the different-colored Pikachu\nhas a sort of orange body.
+PearlOreburghWestHouse_Text_001 = You know how Pokémon have different\nnatures like we have personalities?{be01}\nI don’t think it’s surprising to see\nPokémon in different colors.
+PearlOreburghWestHouse_Text_002 = Pikachu: Pikaaah!

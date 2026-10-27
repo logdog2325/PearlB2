@@ -1,0 +1,8 @@
+PearlResortAreaRibbonSyndicateElevator_Text_000 = Hello, thank you for visiting us\ntoday.{be01}\nTo which floor may I take you?
+PearlResortAreaRibbonSyndicateElevator_Text_001 = Certainly.\nElevator going up.{be01}
+PearlResortAreaRibbonSyndicateElevator_Text_002 = Certainly.\nElevator going down.{be01}
+PearlResortAreaRibbonSyndicateElevator_Text_003 = Uh... We are already on that floor?
+PearlResortAreaRibbonSyndicateElevator_Text_004 = Here we are!
+PearlResortAreaRibbonSyndicateElevator_Text_005 = 2F
+PearlResortAreaRibbonSyndicateElevator_Text_006 = 1F
+PearlResortAreaRibbonSyndicateElevator_Text_007 = EXIT

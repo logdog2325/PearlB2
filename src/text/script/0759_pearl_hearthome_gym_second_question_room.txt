@@ -1,0 +1,3 @@
+PearlHearthomeGymSecondQuestionRoom_Text_000 = Question: 12 plus 28 is?\nAnswer: ←30 ↑40 →50
+PearlHearthomeGymSecondQuestionRoom_Text_001 = Correct!\nCongratulations!
+PearlHearthomeGymSecondQuestionRoom_Text_002 = Please answer the quiz!

@@ -1,0 +1,7 @@
+PearlLakeValor_Text_000 = The mission is proceeding without\na hitch. The boss should be pleased.{be01}\nEverything is for everyone, and\nfor the good of Team Galactic!{be01}
+PearlLakeValor_Text_001 = I recognize your face!{be01}\nYou’re the child who raided the Team\nGalactic building in Eterna!{be01}\nHumph! Mars should be ashamed of\nherself, being beaten by a child.{be01}\nBut anything and anyone that opposes\nTeam Galactic must be crushed!{be01}\nEven the very thought of opposition\nwill not be tolerated!{be01}
+PearlLakeValor_Text_002 = Gah! Even I, a Commander, only\nmanaged to buy us time?{be01}\nBut that’s fine.{be01}\nA child like you will never be able to\nstem the flow of time!{be01}\nTeam Galactic will get the three\nlegendary Pokémon of the lakes!{be01}\nWith their power, we will create an\nentirely new universe!{be01}\nYou will bear witness, as you are\nhelpless to stop us!{be01}
+PearlLakeValor_Text_003 =                                               
+PearlLakeValor_Text_004 =                            
+PearlLakeValor_Text_005 =                                             
+PearlLakeValor_Text_006 = A Magikarp is weakly flopping about...

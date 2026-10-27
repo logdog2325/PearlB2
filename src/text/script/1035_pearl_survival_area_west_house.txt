@@ -1,0 +1,5 @@
+PearlSurvivalAreaWestHouse_Text_000 = Let me tell you about the volcano\nnamed Stark Mountain.{be01}\nThat volcano dates to when Sinnoh\nwas made by the melding of time{be00}\nand space.{be01}\nFiery lava spilled out and pooled,\nand then it turned into a Pokémon.{be01}\nIt’s said the Magma Stone was used\nto keep the Pokémon under control.{be01}\nOver time, the Pokémon turned into\nthe volcano, according to legend.
+PearlSurvivalAreaWestHouse_Text_001 = You say the Magma Stone was found?\nThe legend was true, then?{be01}\nIf so, the volcano’s Pokémon may\nawaken and cause an eruption!
+PearlSurvivalAreaWestHouse_Text_002 = Heatran...\nSo there was such a Pokémon?{be01}\nDid it come to be when Sinnoh was\ncreated?
+PearlSurvivalAreaWestHouse_Text_003 = Buck: Gotcha, gramps!\nI’ll put the Magma Stone back.{be01}\nThat Magma Stone was keeping the\nvolcano Pokémon under control.{be01}\nIt’s all right, though.\nI can go put it back myself.{be01}
+PearlSurvivalAreaWestHouse_Text_004 =                                                                                                                                

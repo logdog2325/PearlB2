@@ -1,0 +1,1 @@
+PearlTurnbackCavePillarRoom_Text_000 = {0201:0}\n{0201:1}

@@ -1,0 +1,17 @@
+PearlBattlePark_Text_000 = Thud!!{be01}
+PearlBattlePark_Text_001 = What the...{be01}
+PearlBattlePark_Text_002 = Whoops, sorry about that!\nI was in a rush.{be01}
+PearlBattlePark_Text_003 = Oh, wait a second...\nAren’t you...{be01}\nYou’re {0100:1} from Twinleaf!\nWow, that brings back memories!{be01}\nSo, if you’re here, he can’t be far\nbehind...{be01}\nThis should be fun.\nSee you!{be01}
+PearlBattlePark_Text_004 = Thud!!{be01}
+PearlBattlePark_Text_005 = {0100:0}: What the...{be01}\nOh, hey, {0100:1}!{be01}\nYou came to the Battle Tower too,\nhuh?{be01}\nI decided I’ll see how I measure up\nbefore going to Stark Mountain.{be01}\nBut that guy you were just talking\nto...{be01}\n...Nah, it’s all right!\nI got here on my own power.{be00}\nIt won’t take long before I see him.{be01}\nSee ya, {0100:1}!\nI’m going to toughen up here!{be01}
+PearlBattlePark_Text_006 = {0100:0}: What the...{be01}\nOh, hey, {0100:1}!{be01}\nYou came to the Battle Tower too,\nhuh?{be01}\nI decided I’ll see how I measure up\nfor my quest to be the greatest!{be01}\nBut that guy you were just talking\nto...{be01}\n...Nah, it’s all right!\nI got here on my own power.{be00}\nIt won’t take long before I see him.{be01}\nSee ya, {0100:1}!\nI’m going to toughen up here!{be01}
+PearlBattlePark_Text_007 = Exchange Service Corner\nA Cornucopia of Fabulous Prizes!
+PearlBattlePark_Text_008 = Battle Tower\nGather, All Ye Greatest!
+PearlBattlePark_Text_009 = In the Battle Rooms, the seventh\nTrainer you face is the room’s boss.{be01}\nYou’ll need to stay focused if you\nwant to win!
+PearlBattlePark_Text_010 = If you get a big win streak at the\nBattle Tower, you get to battle{be00}\nsome real superstars.
+PearlBattlePark_Text_011 = Mwahahaha! We earned a lot of BP\nat the Battle Tower.{be01}\nNow I can exchange them for\nloads of prizes!
+PearlBattlePark_Text_012 = Aah.
+PearlBattlePark_Text_013 = I’m a babysitting Trainer!{be01}\nI’m off to the Multi Battle Rooms\nwith my beloved son!
+PearlBattlePark_Text_014 = I heard that the world’s best\ngather here for battles.{be01}\nThis is my chance to get global\nfame and recognition!
+PearlBattlePark_Text_015 = The types of Pokémon!{be01}\nThe moves to be taught and used!{be01}\nThe items to be held!{be01}\nTo become number one here, there is \nno detail that can be overlooked!
+PearlBattlePark_Text_016 = I’d love to hook up with a Beauty\nfor the Multi Battle Rooms.

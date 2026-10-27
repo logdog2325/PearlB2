@@ -1,0 +1,7 @@
+PearlCanalaveLibrary1f_Text_000 = Hello.\nThis is the Canalave Library.{be01}\nPlease keep quiet while you’re on\nthe premises.
+PearlCanalaveLibrary1f_Text_001 = H-hello!\nThis is the Canalave Library.{be01}\nPlease keep quiet while you’re on\nthe premises.{be01}\nIt certainly wasn’t me who screamed,{be01}\n“Gyaaah!!”{be01}\nor shouted,{be01}\n“Help meee!!”{be01}\nNo, really, that wasn’t me\nscreaming!
+PearlCanalaveLibrary1f_Text_002 = ...{be01}
+PearlCanalaveLibrary1f_Text_003 = What is it? Please don’t disturb\nme when I’m reading.{be01}
+PearlCanalaveLibrary1f_Text_004 = I’ve been asking people not to\ndisturb me while I’m reading...{be01}\nI shouldn’t even have bothered...\nI’m all agitated now!
+PearlCanalaveLibrary1f_Text_005 = The ceiling-high bookshelves are\ncrammed with books.
+PearlCanalaveLibrary1f_Text_006 = The shelves are lined with books\nworn from being read by many people.

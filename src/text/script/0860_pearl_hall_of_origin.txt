@@ -1,0 +1,3 @@
+PearlHallOfOrigin_Text_000 = Dodogyuuun!{be01}
+PearlHallOfOrigin_Text_001 = Arceus disappeared from sight...
+PearlHallOfOrigin_Text_002 = A glowing stairway appeared!

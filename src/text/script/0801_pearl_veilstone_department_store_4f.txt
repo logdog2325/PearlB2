@@ -1,0 +1,13 @@
+PearlVeilstoneDepartmentStore4f_Text_000 = Hello.\nMay I help you with anything?
+PearlVeilstoneDepartmentStore4f_Text_001 = Hello, {0100:0}.\nMay I help you with anything?
+PearlVeilstoneDepartmentStore4f_Text_002 = Please enjoy yourself.
+PearlVeilstoneDepartmentStore4f_Text_003 = The Yellow Cushion is popular for its\nperfect balance of soft and firm.
+PearlVeilstoneDepartmentStore4f_Text_004 = You would be surprised at how many\ncustomers buy Cupboards.
+PearlVeilstoneDepartmentStore4f_Text_005 = The Buizel Doll is very popular due\nto its nautical image.
+PearlVeilstoneDepartmentStore4f_Text_006 = Let me think... The Mantyke Doll has\nbeen a hot seller recently.
+PearlVeilstoneDepartmentStore4f_Text_007 = If you encounter a wild Pokémon,\nchuck a Quick Ball right off the bat!{be01}\nIf it’s taking a long time to catch,\nthe situation calls for a Timer Ball!
+PearlVeilstoneDepartmentStore4f_Text_008 = That boy doesn’t have any Pokémon,\nbut he says he’s training his image!
+PearlVeilstoneDepartmentStore4f_Text_009 = 1F: Trainers’ Zone{be01}\n2F: Battle Collection{be01}\n3F: TM Corner{be01}\n4F: Poké Dolls & Goods{be01}\n5F: Rooftop Plaza
+PearlVeilstoneDepartmentStore4f_Text_010 = What’s recommended?
+PearlVeilstoneDepartmentStore4f_Text_011 = Nothing, thanks.
+PearlVeilstoneDepartmentStore4f_Text_012 = Welcome!\nWhat do you need?

@@ -1,0 +1,2 @@
+PearlJublifeTv4f_Text_000 = Your exploits are fantastic!{be01}\nWith our TV station, we can tell\nthe whole world about you!{be01}\nIt’s merely one of many possibilities!\nHarrumph!
+PearlJublifeTv4f_Text_001 = “Participation for all” is our TV\nnetwork’s motto.

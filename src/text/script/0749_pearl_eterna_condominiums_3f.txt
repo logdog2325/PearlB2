@@ -1,0 +1,4 @@
+PearlEternaCondominiums3f_Text_000 = I gathered up a lot of Berries, so\nI’m trading them in for Accessories.{be01}\nI’m this close to being ready for\nthe Contests in Hearthome City.
+PearlEternaCondominiums3f_Text_001 = Badges from Gyms, or Contest wins...\nThere’s more than just one way to{be01}\nbe a winner, it seems.\nHere’s hoping you’ll find something{be01}\nin which you can be the victor.
+PearlEternaCondominiums3f_Text_002 = Hahaha! I’ve got you now!\nI’m gonna take your Flag!
+PearlEternaCondominiums3f_Text_003 = You can’t catch me!\nI set some Traps!

@@ -1,0 +1,109 @@
+{
+ "_doc": "Rowan's music question, UNOVA answer (options bit 13 = 0; patches/music_choice.py, src/code/music_choice.c): each Pearl zone song -> the Black 2 song its zones play instead, picked by what the zones are (town, city, route, cave, building), in the way HoennB2's Unova option keeps a Black 2 song per zone kind. A list = Black 2's four season versions (spring, summer, autumn, winter), as Black 2's own zone headers hold them; the DS clock's season picks one. Pearl's night versions (_N) follow their day song. Every name is a Black 2 song that Black 2's own zones play (pokebw2 generated/sound.txt; checked against its zone headers by music_choice.py). 'story': the songs Pearl's scripts start themselves (sinnoh_music EVENT_SONGS) -> Black 2's, played instead with UNOVA (b2tools/pearl_story.py's own stand-ins for a build without Pearl's music); a story song with no entry here or in 'songs' stays Pearl's. 2026-10-18: a first proposal for the user to change freely.",
+ "songs": {
+  "SEQ_TOWN01_D": "SEQ_BGM_SW_C_12",
+  "SEQ_TOWN02_D": "SEQ_BGM_SW_T_06",
+  "SEQ_TOWN03_D": "SEQ_BGM_T_02",
+  "SEQ_TOWN04_D": "SEQ_BGM_T_01",
+  "SEQ_TOWN05_D": "SEQ_BGM_T_04",
+  "SEQ_TOWN06_D": "SEQ_BGM_SW_T_07",
+  "SEQ_TOWN07_D": [
+   "SEQ_BGM_T_05_SP",
+   "SEQ_BGM_T_05_SU",
+   "SEQ_BGM_T_05_AU",
+   "SEQ_BGM_T_05_WI"
+  ],
+  "SEQ_CITY01_D": "SEQ_BGM_C_03",
+  "SEQ_CITY02_D": "SEQ_BGM_SW_C_5_NEW",
+  "SEQ_CITY03_D": "SEQ_BGM_SW_C_13",
+  "SEQ_CITY04_D": "SEQ_BGM_C_02",
+  "SEQ_CITY05_D": "SEQ_BGM_C_04",
+  "SEQ_CITY06_D": "SEQ_BGM_SW_C_14",
+  "SEQ_CITY07_D": "SEQ_BGM_C_06",
+  "SEQ_CITY08_D": "SEQ_BGM_C_01",
+  "SEQ_CITY09_D": "SEQ_BGM_C_07",
+  "SEQ_CITY10_D": "SEQ_BGM_C_08_B",
+  "SEQ_CITY11_D": "SEQ_BGM_C_10_B",
+  "SEQ_ROAD_A_D": [
+   "SEQ_BGM_SW_R_19_SP",
+   "SEQ_BGM_SW_R_19_SU",
+   "SEQ_BGM_SW_R_19_AU",
+   "SEQ_BGM_SW_R_19_WI"
+  ],
+  "SEQ_ROAD_B_D": "SEQ_BGM_R_A",
+  "SEQ_ROAD_C_D": [
+   "SEQ_BGM_R_B_SP",
+   "SEQ_BGM_R_B_SU",
+   "SEQ_BGM_R_B_AU",
+   "SEQ_BGM_R_B_WI"
+  ],
+  "SEQ_ROAD_D_D": [
+   "SEQ_BGM_R_D_SP",
+   "SEQ_BGM_R_D_SU",
+   "SEQ_BGM_R_D_AU",
+   "SEQ_BGM_R_D_WI"
+  ],
+  "SEQ_ROAD_E_D": [
+   "SEQ_BGM_R_E_SP",
+   "SEQ_BGM_R_E_SU",
+   "SEQ_BGM_R_E_AU",
+   "SEQ_BGM_R_E_WI"
+  ],
+  "SEQ_ROAD_F_D": [
+   "SEQ_BGM_SW_R_22_SP",
+   "SEQ_BGM_SW_R_22_SU",
+   "SEQ_BGM_SW_R_22_AU",
+   "SEQ_BGM_SW_R_22_WI"
+  ],
+  "SEQ_ROAD_SNOW_D": "SEQ_BGM_SW_R_23",
+  "SEQ_ROAD_BZA_D": [
+   "SEQ_BGM_R_C_SP",
+   "SEQ_BGM_R_C_SU",
+   "SEQ_BGM_R_C_AU",
+   "SEQ_BGM_R_C_WI"
+  ],
+  "SEQ_ROAD_BZB_D": [
+   "SEQ_BGM_R_C_SP",
+   "SEQ_BGM_R_C_SU",
+   "SEQ_BGM_R_C_AU",
+   "SEQ_BGM_R_C_WI"
+  ],
+  "SEQ_D_01": "SEQ_BGM_D_CHAMPROAD",
+  "SEQ_D_02": "SEQ_BGM_D_01",
+  "SEQ_D_03": "SEQ_BGM_SW_D_25",
+  "SEQ_D_04": "SEQ_BGM_D_02",
+  "SEQ_D_05": "SEQ_BGM_D_03",
+  "SEQ_D_06": "SEQ_BGM_SW_KAZAN",
+  "SEQ_D_AGITO": "SEQ_BGM_SW_D_27_F_AJITO",
+  "SEQ_D_GINLOBBY": "SEQ_BGM_SW_D_27_L_AJITO",
+  "SEQ_THE_EVENT04": "SEQ_BGM_SW_D_27_G_AJITO",
+  "SEQ_D_KOUEN": "SEQ_BGM_D_06",
+  "SEQ_D_LAKE": "SEQ_BGM_SW_D_UMA",
+  "SEQ_D_RYAYHY": "SEQ_BGM_SW_D_UMA",
+  "SEQ_D_MOUNT1": "SEQ_BGM_D_05",
+  "SEQ_D_MOUNT2": "SEQ_BGM_SW_D_N_CASTLE",
+  "SEQ_AUS": "SEQ_BGM_SW_D_REGI",
+  "SEQ_D_SAFARI": "SEQ_BGM_D_01",
+  "SEQ_TANKOU": "SEQ_BGM_D_02",
+  "SEQ_D_LEAGUE": "SEQ_BGM_POKEMON_LEAGUE",
+  "SEQ_BLD_DENDO": "SEQ_BGM_POKEMON_LEAGUE",
+  "SEQ_PC_01": "SEQ_BGM_POKECEN",
+  "SEQ_FS": "SEQ_BGM_FS",
+  "SEQ_GYM": "SEQ_BGM_GYM",
+  "SEQ_KENKYUJO": "SEQ_BGM_LABO",
+  "SEQ_BLD_TV": "SEQ_BGM_PW_LAND",
+  "SEQ_BLD_GAME": "SEQ_BGM_REZO_RIZO",
+  "SEQ_BLD_CON": "SEQ_BGM_MSL_FIELD",
+  "SEQ_BLD_BLD_GTC": "SEQ_BGM_GEAR_STATION",
+  "SEQ_BF_TOWWER": "SEQ_BGM_BATTLE_SUBWAY",
+  "SEQ_SILENCE_FIELD": "SEQ_BGM_SILENCE_FIELD",
+  "SEQ_SILENCE_DUNGEON": "SEQ_BGM_SILENCE_DUNGEON"
+ },
+ "story": {
+  "SEQ_THE_RIV": "SEQ_BGM_E_HUE",
+  "SEQ_TSURETEKE": "SEQ_BGM_E_TSURETEKE2",
+  "SEQ_THE_BOY": "SEQ_BGM_E_BERU",
+  "SEQ_THE_GIRL": "SEQ_BGM_E_BERU",
+  "SEQ_THE_EVENT01": "SEQ_BGM_E_DOCTOR"
+ }
+}

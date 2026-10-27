@@ -1,0 +1,16 @@
+{
+ "_doc": "Deliberate changes of Pearl's own words (b2tools/gen4_text.py bank() applies them to every user of Pearl's text: the story generator, patches). Keyed by Pearl bank and line; each pair is [old, new] in pokediamond's .gmm spelling, and the old words must be in the line. Keep this short: Pearl's text is used word for word otherwise.",
+ "_tms": "2026-10-26, the user (notes/TMS.md): the lines that call a TM a Hidden Machine say Technical Machine, as Pearl's HM05 Defog is TM119 here and HM06 Rock Smash Black 2's TM94 (lines name what you get). Widest new line 217 px in Black 2's font (Black 2's own lines go to 224).",
+ "123": {"18": [["me a Hidden Machine, but I declined.", "me a Technical Machine, but I declined."]]},
+ "228": {"0": [["It’s the Hidden Machine Defog, but", "It’s the Technical Machine Defog, but"]]},
+ "240": {"0": [["\\nHidden Machine to you!", "\\nTechnical Machine to you!"]],
+         "1": [["That Hidden Machine, or HM for short,", "That Technical Machine, or TM for short,"]]},
+ "_underground": "2026-10-26, the lead (notes/UNDERGROUND.md section 8): the Underground Man's first mission rewards three Underground Traps, which do not exist here (no traps, digging or Secret Bases): his line loses its 'Take these as rewards!' and no trap is given (data/pearl_script_patches.json).",
+ "97": {"6": [["\\nTake these as rewards!\\r", ""]]},
+ "_national_dex": "2026-10-26, the lead for the user (the National Pokédex at Champion, DECISIONS; the user may veto): Rowan's, Oak's and Dawn's / Lucas's lines that say every Sinnoh Pokémon was seen, now said after the Hall of Fame whatever the count (pearl_story NATIONAL_DEX_AT_CHAMPION): the smallest rewording each. Widest new line 208 px in Black 2's font. Rowan's line 32 (only after a true-count PC rating) and 45 (the Poké Radar) stay Pearl's.",
+ "509": {"31": [["You’ve recorded all the Pokémon of", "You’ve recorded so many Pokémon of"]],
+         "35": [["This youngster has filled every page\\nof the Sinnoh", "This youngster has filled page after\\npage of the Sinnoh"]],
+         "44": [["for completing the Sinnoh Pokédex.", "for your work on the Sinnoh Pokédex."]]},
+ "496": {"2": [["You’ve seen every kind", "You’ve seen so many kinds"]],
+         "16": [["You’ve seen every kind", "You’ve seen so many kinds"]]}
+}

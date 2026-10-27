@@ -1,0 +1,12 @@
+PearlMountCoronetSouth1f_Text_000 = According to one theory, Mt. Coronet\nis where the Sinnoh region began.{be01}
+PearlMountCoronetSouth1f_Text_001 = ...In a newly created world...{be01}\nA world where only time flowed and\nspace expanded...{be00}\nThere should have been no strife.{be01}
+PearlMountCoronetSouth1f_Text_002 = But what became of that world?{be01}\nBecause the human spirit is weak\nand incomplete, strife has spread...{be01}\nThis world is being ruined by it...{be01}\nI find the state of things to\nbe deplorable...{be01}
+PearlMountCoronetSouth1f_Text_003 =                                                                                                                                                                                               
+PearlMountCoronetSouth1f_Text_004 =                                               
+PearlMountCoronetSouth1f_Text_005 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlMountCoronetSouth1f_Text_006 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlMountCoronetSouth1f_Text_007 = {0101:0} used Rock Smash!{be01}
+PearlMountCoronetSouth1f_Text_008 = The wall is very rocky...\nWould you like to use Rock Climb?
+PearlMountCoronetSouth1f_Text_009 = The wall is very rocky...\nWill a Pokémon’s move scale it?
+PearlMountCoronetSouth1f_Text_010 = Rock Climb can’t be used if you have\nsomeone with you.
+PearlMountCoronetSouth1f_Text_011 = {0101:0} used Rock Climb!{be01}

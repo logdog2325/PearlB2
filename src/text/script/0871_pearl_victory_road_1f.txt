@@ -1,0 +1,16 @@
+PearlVictoryRoad1f_Text_000 = Let me size you up...{be01}\nYou’re going to become even tougher.{be01}\nYou’ll meet many, many Pokémon.{be01}\nThat’s what you should be thinking.{be01}\nEventually, the world will grow\nbigger to you!
+PearlVictoryRoad1f_Text_001 =                                                                        
+PearlVictoryRoad1f_Text_002 =                                
+PearlVictoryRoad1f_Text_003 =                                      
+PearlVictoryRoad1f_Text_004 =                           
+PearlVictoryRoad1f_Text_005 =                                                                    
+PearlVictoryRoad1f_Text_006 =                
+PearlVictoryRoad1f_Text_007 =                
+PearlVictoryRoad1f_Text_008 =                       
+PearlVictoryRoad1f_Text_009 =              
+PearlVictoryRoad1f_Text_010 =               
+PearlVictoryRoad1f_Text_011 =            
+PearlVictoryRoad1f_Text_012 = The wall is very rocky...\nWould you like to use Rock Climb?
+PearlVictoryRoad1f_Text_013 = The wall is very rocky...\nWill a Pokémon’s move scale it?
+PearlVictoryRoad1f_Text_014 = Rock Climb can’t be used if you have\nsomeone with you.
+PearlVictoryRoad1f_Text_015 = {0101:0} used Rock Climb!{be01}

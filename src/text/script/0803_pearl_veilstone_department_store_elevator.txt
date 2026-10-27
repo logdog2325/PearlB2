@@ -1,0 +1,16 @@
+PearlVeilstoneDepartmentStoreElevator_Text_000 = Hello, thank you for shopping\nwith us today.{be01}\nTo which floor may I take you?
+PearlVeilstoneDepartmentStoreElevator_Text_001 = I look forward to serving you again.
+PearlVeilstoneDepartmentStoreElevator_Text_002 = Certainly.\nElevator going up.{be01}
+PearlVeilstoneDepartmentStoreElevator_Text_003 = Certainly.\nElevator going down.{be01}
+PearlVeilstoneDepartmentStoreElevator_Text_004 = We are already on that floor?!
+PearlVeilstoneDepartmentStoreElevator_Text_005 = Ground floor: Medicine and items for\nall your adventure needs.
+PearlVeilstoneDepartmentStoreElevator_Text_006 = Second floor: Useful items for all\nPokémon battles.
+PearlVeilstoneDepartmentStoreElevator_Text_007 = Third floor: Technical Machines for\npowering up Pokémon.
+PearlVeilstoneDepartmentStoreElevator_Text_008 = Fourth floor: Desirable decoration\ngoods and Pokémon Dolls.
+PearlVeilstoneDepartmentStoreElevator_Text_009 = Fifth floor: The Rooftop Square for\na refreshing break from shopping.
+PearlVeilstoneDepartmentStoreElevator_Text_010 = 5F
+PearlVeilstoneDepartmentStoreElevator_Text_011 = 4F
+PearlVeilstoneDepartmentStoreElevator_Text_012 = 3F
+PearlVeilstoneDepartmentStoreElevator_Text_013 = 2F
+PearlVeilstoneDepartmentStoreElevator_Text_014 = 1F
+PearlVeilstoneDepartmentStoreElevator_Text_015 = EXIT

@@ -1,0 +1,10 @@
+PearlVeilstoneDepartmentStore1f_Text_000 = Welcome to the fabulous Veilstone\nDepartment Store.
+PearlVeilstoneDepartmentStore1f_Text_001 = This department store knows how to\nensure customer satisfaction.{be01}\nThey really look after you once you\nbecome a regular customer.
+PearlVeilstoneDepartmentStore1f_Text_002 = I like the formal air of a luxury\ndepartment store.
+PearlVeilstoneDepartmentStore1f_Text_003 = I made an Accessory modeled after\nthe Pokémon of a Trainer I met.{be01}\nWould you like one?{be01}
+PearlVeilstoneDepartmentStore1f_Text_004 = It’s a {0100:0}.{be01}\nIt will give your Pokémon a\ndifferent look for Contests.
+PearlVeilstoneDepartmentStore1f_Text_005 = Discover a new you!\nVeilstone Department Store
+PearlVeilstoneDepartmentStore1f_Text_006 = 1F: Trainers’ Zone{be01}\n2F: Battle Collection{be01}\n3F: TM Corner{be01}\n4F: Poké Dolls & Goods{be01}\n5F: Rooftop Plaza
+PearlVeilstoneDepartmentStore1f_Text_007 = Welcome!\nWhat do you need?
+PearlVeilstoneDepartmentStore1f_Text_008 = {0100:0} put away the\n{0100:1} in the Fashion Case.
+PearlVeilstoneDepartmentStore1f_Text_009 = Obtained the {0109:0}!

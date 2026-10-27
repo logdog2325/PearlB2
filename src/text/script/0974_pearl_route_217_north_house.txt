@@ -1,0 +1,14 @@
+PearlRoute217NorthHouse_Text_000 = ...A person...?\n...A rare sight...{be01}\n...Thank you for visiting...\n...A gift...{be01}
+PearlRoute217NorthHouse_Text_001 = ...The Spell Tag...\nIt intensifies Ghost-type moves...{be00}\nMay it serve you well...
+PearlRoute217NorthHouse_Text_002 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlRoute217NorthHouse_Text_003 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlRoute217NorthHouse_Text_004 = Obtained the {0109:0}!
+PearlRoute217NorthHouse_Text_005 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute217NorthHouse_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute217NorthHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute217NorthHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute217NorthHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute217NorthHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute217NorthHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute217NorthHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlRoute217NorthHouse_Text_013 = Too bad!\nThe Bag is full...

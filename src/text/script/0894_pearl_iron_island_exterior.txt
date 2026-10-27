@@ -1,0 +1,3 @@
+PearlIronIslandExterior_Text_000 = Do you want to sail somewhere?
+PearlIronIslandExterior_Text_001 = Aye, aye!\nAnchors aweigh!{be01}
+PearlIronIslandExterior_Text_002 = You just go on and tell me whenever\nyou want to set sail again!

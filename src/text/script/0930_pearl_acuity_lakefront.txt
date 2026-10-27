@@ -1,0 +1,5 @@
+PearlAcuityLakefront_Text_000 = We’re here to make sure Snowpoint’s\nGym Leader doesn’t disturb us!
+PearlAcuityLakefront_Text_001 = You’re here to see the lake Pokémon,\ntoo?{be01}\nYou must be bored to fight your\nway through the snow to get here...
+PearlAcuityLakefront_Text_002 = Standing guard is a very important\nassignment!{be01}\nI’ll make this a success and earn\nmyself a Clefairy!
+PearlAcuityLakefront_Text_003 = The Pokémon of the three lakes\nappear to be connected somehow.{be01}\nWhen they blew up Lake Valor,\na cavern appeared in the middle of{be00}\nthis lake!
+PearlAcuityLakefront_Text_004 = Lake Acuity ahead

@@ -1,0 +1,13 @@
+PearlSunyshoreMarket_Text_000 = Oh?\nYour {0101:0}...{be01}
+PearlSunyshoreMarket_Text_001 = It worked stupendously hard,\ndidn’t it?{be01}\nAs its reward, please give it this\nEffort Ribbon.{be01}
+PearlSunyshoreMarket_Text_002 = {0100:1} received\nthe Effort Ribbon.{be01}
+PearlSunyshoreMarket_Text_003 = {0100:1} put the Effort Ribbon\non {0101:0}.
+PearlSunyshoreMarket_Text_004 = It needs to work a little harder.{be01}\nIf it does, I’ll give your Pokémon\nsomething nice.
+PearlSunyshoreMarket_Text_005 = Oh! That Effort Ribbon looks \ngood on your {0101:0}!
+PearlSunyshoreMarket_Text_006 = Sunyshore Market is best known for\nits big selection of Seals.
+PearlSunyshoreMarket_Text_007 = Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.{be01}
+PearlSunyshoreMarket_Text_008 = Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.{be01}\n...Oh, but, no, no, no!\nYou have no Seal Case?{be01}\nYou must return to the town with the\nruins and obtain a Seal Case!
+PearlSunyshoreMarket_Text_009 = See the Seal Merchant there?{be01}
+PearlSunyshoreMarket_Text_010 = He didn’t have the Seals I wanted\ntoday... Maybe tomorrow, I guess.
+PearlSunyshoreMarket_Text_011 = He came through with different Seals\ntoday! Just what I wanted to see!
+PearlSunyshoreMarket_Text_012 = Welcome!\nWhat do you need?

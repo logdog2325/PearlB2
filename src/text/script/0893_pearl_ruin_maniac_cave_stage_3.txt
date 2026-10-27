@@ -1,0 +1,1 @@
+PearlRuinManiacCaveStage3_Text_000 = Wow... My digging punched me through\nto this weird place.{be01}\nI’d say you can thank me for being\na Ruin Maniac!

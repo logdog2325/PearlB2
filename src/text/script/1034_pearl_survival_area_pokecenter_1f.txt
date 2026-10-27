@@ -1,0 +1,16 @@
+PearlSurvivalAreaPokecenter1f_Text_000 = I wasn’t experienced enough for\nthe Battle Tower...{be01}\nTraining on Stark Mountain seems to\nbe the only sensible choice ...{be01}\nFor some reason, the best Trainers\nin Sinnoh seem to gather there.
+PearlSurvivalAreaPokecenter1f_Text_001 = In a Multi Battle, coordination with\nyour partner is vital.{be01}\nBy working together, one plus one\ncould become not just two, but even{be00}\nthree or four.{be01}\nBut one times one is always one.\nDo you understand that?
+PearlSurvivalAreaPokecenter1f_Text_002 = Some say the universe was made by\nsomething born from an Egg...{be01}\nA man I met long ago told me that.
+PearlSurvivalAreaPokecenter1f_Text_003 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSurvivalAreaPokecenter1f_Text_004 = Good morning!\nWelcome to the Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSurvivalAreaPokecenter1f_Text_005 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlSurvivalAreaPokecenter1f_Text_006 = We hope to see you again!
+PearlSurvivalAreaPokecenter1f_Text_007 = OK, I’ll take your Pokémon for a few\nseconds.
+PearlSurvivalAreaPokecenter1f_Text_008 = I will be pleased to take your\nPokémon for a few seconds.
+PearlSurvivalAreaPokecenter1f_Text_009 = Thank you for waiting.{be01}\nWe’ve restored your Pokémon to full\nhealth.{be01}
+PearlSurvivalAreaPokecenter1f_Text_010 = Thank you for waiting.
+PearlSurvivalAreaPokecenter1f_Text_011 = We hope to see you again!
+PearlSurvivalAreaPokecenter1f_Text_012 = Your Pokémon may be infected with\nthe Pokérus.{be01}\nLittle is known about the Pokérus\nexcept that they are microscopic{be00}\nlife-forms that attach to Pokémon.{be01}\nWhile infected, Pokémon are said to\ngrow exceptionally well.
+PearlSurvivalAreaPokecenter1f_Text_013 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to...{be01}
+PearlSurvivalAreaPokecenter1f_Text_014 = Th-that Trainer Card!{be01}\nThat sparkling color!\nAnd all those stars!{be01}\nI’ve seen several Trainers with Silver\nTrainer Cards up to now...{be01}\nBut you’re the first to top them\nwith that Trainer Card.{be01}\nPlease, {0100:0}, may I have\nthe honor of healing your Pokémon?
+PearlSurvivalAreaPokecenter1f_Text_015 = It’s great to see you, {0100:0}!\nYou want the usual, am I right?

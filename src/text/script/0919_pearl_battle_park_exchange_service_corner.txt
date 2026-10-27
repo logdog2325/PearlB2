@@ -1,0 +1,17 @@
+PearlBattleParkExchangeServiceCorner_Text_000 = Welcome to the Exchange Service\nCorner!{be01}\nWe can exchange your BP\nfor fabulous items.{be01}
+PearlBattleParkExchangeServiceCorner_Text_001 = Which prize would you like in\nexchange for your BP?
+PearlBattleParkExchangeServiceCorner_Text_002 = You’ve chosen the {0109:0}.\nIs that correct?
+PearlBattleParkExchangeServiceCorner_Text_003 = Here is your prize!{be01}
+PearlBattleParkExchangeServiceCorner_Text_004 = I’m so sorry...\nYou don’t have enough BP...{be01}
+PearlBattleParkExchangeServiceCorner_Text_005 = Sorry, your Bag has no room for\nthis {0109:0}...{be01}
+PearlBattleParkExchangeServiceCorner_Text_006 = Thank you for visiting.{be01}\nPlease visit us again when you have\nsaved up BP.
+PearlBattleParkExchangeServiceCorner_Text_007 = You’ve chosen {0109:0},\n{0107:1}. Is that correct?
+PearlBattleParkExchangeServiceCorner_Text_008 = What to get today...\nPerhaps a Technical Machine will do.
+PearlBattleParkExchangeServiceCorner_Text_009 = What I most care about is the\ncrushing power of my darling Pokémon.{be01}\nAre there any prizes that would\nhelp them get more power?
+PearlBattleParkExchangeServiceCorner_Text_010 = How’s it going?{be01}\nIf things aren’t going well, why not\ngrab some prizes here?{be01}\nIt might toughen up your Pokémon\njust enough to do better.
+PearlBattleParkExchangeServiceCorner_Text_011 = Gramma, Gramma!\nI went and traded!{be01}\nYou can have this, Gramma!{be01}
+PearlBattleParkExchangeServiceCorner_Text_012 = Oh, what is it, dear?\nOh, a Sludge Bomb...{be01}\nWhy, thank you so much, dear.{be01}\nYou’re such a cute, tough, and kind\ngirl...{be01}\nI feel blessed to have a grandchild\nlike you...
+PearlBattleParkExchangeServiceCorner_Text_013 = Did you see that little girl with her\ngrandmother upstairs?{be01}\nThat girl is a little terror in battle.\nYou never can judge people!
+PearlBattleParkExchangeServiceCorner_Text_014 = This building is so grand...\nWhy does it need to be so?
+PearlBattleParkExchangeServiceCorner_Text_015 = {0109:0}{bd05:96}{0202:1}BP
+PearlBattleParkExchangeServiceCorner_Text_016 = NO THANKS

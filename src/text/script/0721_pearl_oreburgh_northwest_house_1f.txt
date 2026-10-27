@@ -1,0 +1,5 @@
+PearlOreburghNorthwestHouse1f_Text_000 = There are eight Gym Leaders in\nthe Sinnoh region.{be01}\nThe objective for Trainers is\nto get Gym Badges from them all.
+PearlOreburghNorthwestHouse1f_Text_001 = A Gym Leader isn’t just like any\nTrainer you meet.{be01}\nI’d take as many Pokémon as possible\nif I were you.
+PearlOreburghNorthwestHouse1f_Text_002 =                   
+PearlOreburghNorthwestHouse1f_Text_003 =                       
+PearlOreburghNorthwestHouse1f_Text_004 = Roark lets us train our Pokémon in\nthe mine.

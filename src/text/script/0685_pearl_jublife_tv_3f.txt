@@ -1,0 +1,9 @@
+PearlJublifeTv3f_Text_000 = The Group Ranking Room is the one\nclosest to the stairs.{be01}\nThe room on the opposite side\nis the Global Ranking Room.
+PearlJublifeTv3f_Text_001 = I just realized something!\nIt’s going to be great!{be01}\nIf I trade lots of Pokémon, I’ll get\na better chance at winning the{be00}\nPokémon Lottery!
+PearlJublifeTv3f_Text_002 = Records are fine things.\nThey tell you the history of stuff.{be01}\nYou can really sense the dramatic\nstories behind all those numbers!
+PearlJublifeTv3f_Text_003 = Hey, there!\nHow’s it going?{be01}\nI’m a TV producer here.\nAre you watching TV?{be01}\nSo, let me ask you.\nWill you tell me your opinion on TV?
+PearlJublifeTv3f_Text_004 = Oh, yeah?\nThat’s interesting.{be01}\nMoving right along, what feedback\ncan you give me about TV?{be01}
+PearlJublifeTv3f_Text_005 = Oh, yeah?\nThat’s interesting.{be01}\nThanks for answering my questions.\nI’ll file it away for reference.{be01}\nKeep your channel tuned to\nJubilife TV!
+PearlJublifeTv3f_Text_006 = Oh, all right.{be01}\nI can understand how busy it must\nget for you.{be01}\nIt’d be cool if you could answer my\nquestions when you’ve got time.{be01}\nSee you again!
+PearlJublifeTv3f_Text_007 = ...Oh?{be01}\nThe fact that you know that phrase\ntells me you’re someone in the know.{be01}\nYou’re a Trainer, right?\nI’ll pull some strings for you.{be01}\nI think I can swing a deal to get you\na new wallpaper for your PC Boxes.{be01}\nMake sure you keep your channel\ntuned to Jubilife TV.
+PearlJublifeTv3f_Text_008 = ...Oh?{be01}\nThe fact that you know that phrase\ntells me you’re someone in the know.{be01}\nYou’re a Trainer, right?\nI’ll pull some strings for you.{be01}\nI think I can swing a deal so you\ncan receive a Mystery Gift.{be01}\nMake sure you keep your channel\ntuned to Jubilife TV.

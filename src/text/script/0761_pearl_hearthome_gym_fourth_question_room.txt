@@ -1,0 +1,3 @@
+PearlHearthomeGymFourthQuestionRoom_Text_000 = Question: The first room’s answer?\nAnswer: ←2 ↑16 →15
+PearlHearthomeGymFourthQuestionRoom_Text_001 = Correct!\nCongratulations!
+PearlHearthomeGymFourthQuestionRoom_Text_002 = Please answer the quiz!

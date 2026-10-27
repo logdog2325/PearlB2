@@ -1,0 +1,11 @@
+{
+ "_doc": "Single Pearl script commands changed or dropped by the story generator (b2tools/pearl_story.py FileTr.translate, script_patches()): Pearl script file -> command address (hex) -> {'args': the command's new arguments (the same command, translated as usual), or 'drop': why it goes}; each with 'why'. Keep this short: Pearl's scripts are translated as they are otherwise.",
+ "89": {
+  "_why": "The Underground Man (Eterna; notes/UNDERGROUND.md section 8, the lead 2026-10-26): his missions after the first (dig, Spheres, a Secret Base, decorating, Flags) need what is not built, so after the first trip down he says line 29 for good; the first mission's reward is three Underground Traps, which do not exist here.",
+  "0x171": {"args": [1, 163], "why": "mission 1 done (var 0x40B6 = 1): his line 29 (0x00A3) instead of mission 2 (0x0237)"},
+  "0x208": {"drop": "no Underground Traps (first of the mission-1 reward's three GiveUndergroundTrap calls)"},
+  "0x218": {"drop": "no Underground Traps"},
+  "0x228": {"drop": "no Underground Traps"},
+  "0x22c": {"args": [29], "why": "after the first trip down: line 29 in place of line 7 (what Traps are)"}
+ }
+}

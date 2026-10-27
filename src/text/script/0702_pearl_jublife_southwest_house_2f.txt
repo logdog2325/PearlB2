@@ -1,0 +1,4 @@
+PearlJublifeSouthwestHouse2f_Text_000 = Wi: We come from faraway land.\nI come see the Pokémon I trade.{be01}\nI worry if it growing properly.
+PearlJublifeSouthwestHouse2f_Text_001 = Fi: I like look at Pokémon I get\nfrom friend in trade.{be01}\nIt make me remember my friend!
+PearlJublifeSouthwestHouse2f_Text_002 = You can trade Pokémon with people\naround the world on Nintendo WFC...{be01}\nJust hearing that gets my heart\nracing. Such exciting times!
+PearlJublifeSouthwestHouse2f_Text_003 = When you connect with people on\nNintendo WFC, it’s hard to{be00}\ntell if the world’s big or small.

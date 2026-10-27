@@ -1,0 +1,12 @@
+PearlRoute227_Text_000 = Buck: Yo, if it isn’t {0100:0}!{be01}\nDon’t tell me you’re going to Stark\nMountain, too?{be01}\nYou’re pretty wimpy...\nYou’re sure you’re going to be OK?{be01}\nHeh, why am I asking you that?\nIt’s not like I care.{be01}\nAnyways, if we see each other on\nStark Mountain, the race is on to{be00}\nsee who gets the Magma Stone first!{be01}
+PearlRoute227_Text_001 = Wake: Oh, if it isn’t {0100:0}!\nIt’s been a while!{be01}\nYou’ve grown so tough that you’re\ntraining out here now...{be01}\nEveryone keeps getting tougher and\ntougher...{be01}\nAnd, in doing that, they develop\ncloser bonds with their Pokémon...{be01}
+PearlRoute227_Text_002 = {0100:1}: ...For someone born\noverseas, that tough dude doesn’t{be00}\nhave an accent or anything.{be01}
+PearlRoute227_Text_003 = {0100:0}, there’s a volcano\nahead of us called Stark Mountain.{be01}\nThat blowhard Buck guy is on his way\nthere, as well.{be01}\nI’m going to find the volcano’s\ntreasure before that guy does.{be01}\nIf I could do that, a 21-win streak\nat the Battle Tower’d be possible!{be01}
+PearlRoute227_Text_004 = Wake: ...You’re serious?\nYou’re going to Stark Mountain?{be01}\nEven the wild Pokémon there are\nvery, very tough...{be01}\nIf your Pokémon aren’t well trained,\nthey’ll have a miserable time...{be01}\nThen again, that kind of challenge\nis an exciting prospect...{be01}\nBut no matter what, you’d better\nbe fully prepared!{be01}\nI’ve got to get ready for another\ntournament. Farewell!{be01}
+PearlRoute227_Text_005 = Rt. 227\nStark Mountain
+PearlRoute227_Text_006 =                        
+PearlRoute227_Text_007 = It’s an air vent that exchanges\nthe underground tunnels’ air.
+PearlRoute227_Text_008 = The wall is very rocky...\nWould you like to use Rock Climb?
+PearlRoute227_Text_009 = The wall is very rocky...\nWill a Pokémon’s move scale it?
+PearlRoute227_Text_010 = Rock Climb can’t be used if you have\nsomeone with you.
+PearlRoute227_Text_011 = {0101:0} used Rock Climb!{be01}

@@ -1,0 +1,7 @@
+PearlRoute203_Text_000 = {0100:0}: Hey! {0100:1}!\nTell me you got a little tougher!{be01}\nMe? Do you even need to ask?\nOf course I got tougher!{be01}\nCome on!\nLet’s battle it out!{be01}
+PearlRoute203_Text_001 = {0100:0}: Waah!\nWhat do you mean I lost?!{be01}\nWell, that’s it!\nThat’s the last time I’ll ever lose!{be01}\nI’m going to be the world’s toughest\nTrainer, and you know it!{be01}\nThe first thing to do is take on\nthe Oreburgh City Pokémon Gym!{be01}\nI’m gonna toughen up for that,\ntotally!{be01}
+PearlRoute203_Text_002 = Did you know?{be01}\nThe first Pokémon to appear in\na battle is the one at the top left{be00}\nof your team list.
+PearlRoute203_Text_003 = Rt. 203\nJubilife City
+PearlRoute203_Text_004 = Rt. 203\nOreburgh City
+PearlRoute203_Text_005 = Trainer Tips!{be01}\nIf a Pokémon is about to evolve,\nit can be instantly stopped.{be01}\nPress the B Button during evolution\nto startle the Pokémon into stopping.{be01}\nThat is how evolution can be\ncanceled.
+PearlRoute203_Text_006 = Trainer Tips!{be01}\nPokémon moves use energy called\nPower Points, or PP for short.{be01}\nIf the PP of moves runs low, head for\nany Pokémon Center.

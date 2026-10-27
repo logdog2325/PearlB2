@@ -1,0 +1,4 @@
+{
+ "_doc": "The Grand Underground's place name (notes/UNDERGROUND.md): line 265 of system text 109 (sinnoh_names pads the file with 'Faraway place' lines to 512), the banner and met location of all its 19 zones (user 2026-10-26; registered in notes/LINK.md). patches/underground.py sets the zones' place to it.",
+ "res/field/places/unused_265.json": {"name": "Grand Underground"}
+}

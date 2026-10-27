@@ -1,0 +1,13 @@
+PearlJublifePokemart_Text_000 = If you’re catching a Pokémon,\nyou have to get its HP down.{be01}\nIf you don’t, Poké Balls won’t be\nvery effective.
+PearlJublifePokemart_Text_001 = I need Potions most of all!{be01}\nIf my Pokémon faints, my eyes grow\ndim and I can’t see!
+PearlJublifePokemart_Text_002 = Welcome!\nWhat do you need?
+PearlJublifePokemart_Text_003 = Good morning. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlJublifePokemart_Text_004 = Good day. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlJublifePokemart_Text_005 = Good evening. You must be\n{0100:0}.{be01}\nI’ve received a gift for you.\nHere you go!{be01}
+PearlJublifePokemart_Text_006 = {0100:0} received\na {ff00:1}Member’s Card{ff00:0}.{be01}
+PearlJublifePokemart_Text_007 = {0100:0} received\n{ff00:1}Oak’s Letter{ff00:0}!{be01}
+PearlJublifePokemart_Text_008 = {0100:0} received\nan {ff00:1}Azure Flute{ff00:0}!{be01}
+PearlJublifePokemart_Text_009 = {0100:0} received\nthe {ff00:1}Manaphy Egg{ff00:0}!{be01}
+PearlJublifePokemart_Text_010 = We look forward to your next visit.
+PearlJublifePokemart_Text_011 = Your party is full, I’m afraid.\nI can’t give this to you yet.
+PearlJublifePokemart_Text_012 = I haven’t received any other gifts\nfor you.{be01}\nWe look forward to your next visit.

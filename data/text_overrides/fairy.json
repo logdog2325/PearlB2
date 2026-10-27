@@ -1,0 +1,65 @@
+{
+ "_doc": "Fairy type text (HoennB2's src/text/overrides_fairy.json and overrides_fairy_ui.json, the same words; b2tools/patches/fairy.py, fairy_ui.py, notes/FAIRY.md). PENDING: this needs two things patches/sinnoh_names.py's text_overrides() lacks (notes/FAIRY.md 'Text'): a label written '+Label' is a NEW line appended at the file's end (before its \\\\pad line), in this order, and a key 'res/<path>.json' merges its fields into that data file of pokebw2's sources (the item names and descriptions come from res/items/*/data.json through \\\\from{items.*}). Once sinnoh_names has both, move this file to data/text_overrides/fairy.json. Lines: type 17 'Fairy' (type_names), moves 560-565 (move_names, move_names_upper, btl_main_13 = descriptions, 0016 = 'X used Y!' lines 1680-1697: move * 3 + 0/1/2), items 113/114 (Pixie Plate, Fairy Gem), the Pokedex search's type 17 label (zknsearch_main line 77, blank in Black 2: fairy_ui).",
+ "type_names": {
+  "+TypeNames_Text_Fairy": "Fairy"
+ },
+ "move_names": {
+  "+MoveNames_Text_FairyWind": "Fairy Wind",
+  "+MoveNames_Text_DisarmingVoice": "Disarming Voice",
+  "+MoveNames_Text_DrainingKiss": "Draining Kiss",
+  "+MoveNames_Text_DazzlingGleam": "Dazzling Gleam",
+  "+MoveNames_Text_PlayRough": "Play Rough",
+  "+MoveNames_Text_Moonblast": "Moonblast"
+ },
+ "move_names_upper": {
+  "+MoveNamesUpper_Text_FairyWind": "FAIRY WIND",
+  "+MoveNamesUpper_Text_DisarmingVoice": "DISARMING VOICE",
+  "+MoveNamesUpper_Text_DrainingKiss": "DRAINING KISS",
+  "+MoveNamesUpper_Text_DazzlingGleam": "DAZZLING GLEAM",
+  "+MoveNamesUpper_Text_PlayRough": "PLAY ROUGH",
+  "+MoveNamesUpper_Text_Moonblast": "MOONBLAST"
+ },
+ "btl_main_13": {
+  "+BtlMain13_Text_FairyWind": "The user stirs up a fairy wind and\\nstrikes the target with it.",
+  "+BtlMain13_Text_DisarmingVoice": "Letting out a charming cry, the user does\\nemotional damage to opposing Pokémon.\\nThis attack never misses.",
+  "+BtlMain13_Text_DrainingKiss": "The user steals the target's HP with a\\nkiss. The user's HP is restored by over\\nhalf of the damage taken by the target.",
+  "+BtlMain13_Text_DazzlingGleam": "The user damages opposing Pokémon by\\nemitting a powerful flash.",
+  "+BtlMain13_Text_PlayRough": "The user plays rough with the target\\nand attacks it. This may also lower the\\ntarget's Attack stat.",
+  "+BtlMain13_Text_Moonblast": "Borrowing the power of the moon, the user\\nattacks the target. This may also lower\\nthe target's Sp. Atk stat."
+ },
+ "0016": {
+  "+Bank0016_Text_UsedFairyWind": "{0102:0} used\\nFairy Wind!",
+  "+Bank0016_Text_WildUsedFairyWind": "The wild {0102:0} used\\nFairy Wind!",
+  "+Bank0016_Text_FoesUsedFairyWind": "The foe's {0102:0} used\\nFairy Wind!",
+  "+Bank0016_Text_UsedDisarmingVoice": "{0102:0} used\\nDisarming Voice!",
+  "+Bank0016_Text_WildUsedDisarmingVoice": "The wild {0102:0} used\\nDisarming Voice!",
+  "+Bank0016_Text_FoesUsedDisarmingVoice": "The foe's {0102:0} used\\nDisarming Voice!",
+  "+Bank0016_Text_UsedDrainingKiss": "{0102:0} used\\nDraining Kiss!",
+  "+Bank0016_Text_WildUsedDrainingKiss": "The wild {0102:0} used\\nDraining Kiss!",
+  "+Bank0016_Text_FoesUsedDrainingKiss": "The foe's {0102:0} used\\nDraining Kiss!",
+  "+Bank0016_Text_UsedDazzlingGleam": "{0102:0} used\\nDazzling Gleam!",
+  "+Bank0016_Text_WildUsedDazzlingGleam": "The wild {0102:0} used\\nDazzling Gleam!",
+  "+Bank0016_Text_FoesUsedDazzlingGleam": "The foe's {0102:0} used\\nDazzling Gleam!",
+  "+Bank0016_Text_UsedPlayRough": "{0102:0} used\\nPlay Rough!",
+  "+Bank0016_Text_WildUsedPlayRough": "The wild {0102:0} used\\nPlay Rough!",
+  "+Bank0016_Text_FoesUsedPlayRough": "The foe's {0102:0} used\\nPlay Rough!",
+  "+Bank0016_Text_UsedMoonblast": "{0102:0} used\\nMoonblast!",
+  "+Bank0016_Text_WildUsedMoonblast": "The wild {0102:0} used\\nMoonblast!",
+  "+Bank0016_Text_FoesUsedMoonblast": "The foe's {0102:0} used\\nMoonblast!"
+ },
+ "zknsearch_main": {
+  "ZknsearchMain_Text_Empty_12": "Fairy"
+ },
+ "res/items/unused_113/data.json": {
+  "name": "Pixie Plate",
+  "name_with_article": "{bd01}a {ff00:255}Pixie Plate",
+  "name_plural": "Pixie Plates",
+  "description": "An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Fairy-type moves."
+ },
+ "res/items/unused_114/data.json": {
+  "name": "Fairy Gem",
+  "name_with_article": "{bd01}a {ff00:255}Fairy Gem",
+  "name_plural": "Fairy Gems",
+  "description": "A gem with an essence of the fey. When\nheld, it strengthens the power of a\nFairy-type move only once."
+ }
+}

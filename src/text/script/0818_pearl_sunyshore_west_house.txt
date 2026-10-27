@@ -1,0 +1,7 @@
+PearlSunyshoreWestHouse_Text_000 = Have you gone underground lately?{be01}\nDepending on where you go down,\nyou end up in different places.{be01}\nThat’s why I use my Explorer Kit\nin as many places as I can.
+PearlSunyshoreWestHouse_Text_001 = The Spheres found in the underground\ntunnels are like gems.{be01}\nYou can obtain goodies by trading\nthe Spheres away.
+PearlSunyshoreWestHouse_Text_002 = If you bury Spheres, they grow\na little every day.{be01}\nThey’re really weird that way.{be01}\nOh, right! I’d better dig mine up!\nI forgot I had some buried!
+PearlSunyshoreWestHouse_Text_003 = Get Flags from your friends to make\nyour Secret Base better.{be01}\nTry to hide your Secret Base, and\nget good at ferreting out your{be00}\nfriend’s bases.
+PearlSunyshoreWestHouse_Text_004 = Go underground and have fun down\nthere. Make it an adventure!
+PearlSunyshoreWestHouse_Text_005 = Some underground Traps need to be\ndefused by touch or by using the{be00}\nmicrophone!
+PearlSunyshoreWestHouse_Text_006 = The Underground Man in Eterna and\nByron of Canalave are related.{be01}\nAdd Byron’s son Roark, and you have\na trio of dedicated diggers.

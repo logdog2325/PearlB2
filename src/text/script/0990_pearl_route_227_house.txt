@@ -1,0 +1,4 @@
+PearlRoute227House_Text_000 = Oh, dear, are your Pokémon feeling\ntired?{be01}\nYou should rest up.\nYes, good idea! Rest up here!
+PearlRoute227House_Text_001 = Yes, yes, that’s right.\nGet some well-earned rest.{be01}
+PearlRoute227House_Text_002 = Oh, you’re still looking tired.\nYou’re still needing rest, are you?{be01}\nYou should rest up again.\nYes, good idea! Rest up here!
+PearlRoute227House_Text_003 = Is that right?\nYou’re sure now?{be01}\nI’m only concerned for your sake. No\nneed to worry about putting me out!

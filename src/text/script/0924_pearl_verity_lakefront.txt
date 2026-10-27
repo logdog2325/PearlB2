@@ -1,0 +1,7 @@
+PearlVerityLakefront_Text_000 = {0100:0}: All right! To the lake!\nLet’s find us a red Gyarados!{be01}
+PearlVerityLakefront_Text_001 = {0100:0}: You go ahead...{be01}\n...I know we have to go return these\nPokémon. They’re not ours.{be01}\nBut I want to spend just a little\nmore time with this little guy...{be01}
+PearlVerityLakefront_Text_002 = {0100:0}: Hey, hey!\nWhere do you think you’re going?{be01}\nWe have to go return these\nPokémon...{be01}
+PearlVerityLakefront_Text_003 = Lake Verity Ahead\nThe Lake of Emotions
+PearlVerityLakefront_Text_004 = {0100:0}: We didn’t have any\nchoice in using those people’s{be00}\nPokémon, right?{be01}\nBut these Pokémon belong to them...\nThey’ll want them back, won’t they?{be01}\nBut this is the first Pokémon I’ve\never battled with...
+PearlVerityLakefront_Text_005 = {0100:0}: I don’t feel like\ntalking... Let’s go.{be01}\n...Are we maybe walking slower than\nwhen we went to the lake?
+PearlVerityLakefront_Text_006 = {0100:0}: I wish I could grow\ntougher with this little guy...

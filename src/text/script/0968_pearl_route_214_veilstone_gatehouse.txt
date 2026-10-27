@@ -1,0 +1,3 @@
+PearlRoute214VeilstoneGatehouse_Text_000 =                                   
+PearlRoute214VeilstoneGatehouse_Text_001 = Are you going to take Route 214?\nYou’re serious, aren’t you?{be01}\nIt’s too badly chewed up, and\nthere’s nothing to see there.{be01}\nWell, I guess there is that Ruin\nManiac guy you could check out.{be01}\nThat guy’s been digging his way\nthrough the bedrock all by himself.
+PearlRoute214VeilstoneGatehouse_Text_002 = That Ruin Maniac! It takes effort and\ndedication to do what he did!

@@ -1,0 +1,6 @@
+PearlOreburghNorthHouse1f_Text_000 = Listen, listen. Do you have a Pokémon\ncalled Machop?{be01}\nWould you be willing to trade your\nMachop for my Abra?
+PearlOreburghNorthHouse1f_Text_001 = Be nice to my Abra!{be01}\nI’ll be sure to look after your\nMachop in return!
+PearlOreburghNorthHouse1f_Text_002 = What I asked for was a Machop...
+PearlOreburghNorthHouse1f_Text_003 = Oh, OK...\nWell, I can’t make you trade me.{be01}\nBut if you change your mind,\nI’ll be right here waiting!
+PearlOreburghNorthHouse1f_Text_004 = Thanks to Pokémon, I got to be\nfriends with you!
+PearlOreburghNorthHouse1f_Text_005 = A Pokémon obtained in a trade\ngrows quickly.{be01}\nBut if a Pokémon grows too much,\nit will often ignore the Trainer.{be01}\nOf course, it won’t matter if you\nhave lots of Gym Badges.

@@ -1,0 +1,3 @@
+PearlOreburghNorthHouse3f_Text_000 = During the daytime, everyone goes off\nto the mine.{be01}\nAt night, everyone’s at home\ngetting some well-deserved rest.
+PearlOreburghNorthHouse3f_Text_001 = We’ll keep digging coal.\nThe world needs energy!
+PearlOreburghNorthHouse3f_Text_002 = Everyone, including lots of Pokémon,\ndug the big underground maze!

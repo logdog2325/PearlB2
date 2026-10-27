@@ -1,0 +1,6 @@
+PearlRoute222PikachuFanClub_Text_000 = Pikachu: Pikachuu!
+PearlRoute222PikachuFanClub_Text_001 = Pikachu: Pikaah!
+PearlRoute222PikachuFanClub_Text_002 = Pikachu: Pika pika?
+PearlRoute222PikachuFanClub_Text_003 = Pikachu: Pi! Pikachu!
+PearlRoute222PikachuFanClub_Text_004 = Pikachu: Pii! Kaahchu!
+PearlRoute222PikachuFanClub_Text_005 = Eehehe! I’m going for the Pokémon\nChampionship with only Pikachu!

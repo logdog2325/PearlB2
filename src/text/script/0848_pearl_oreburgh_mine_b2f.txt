@@ -1,0 +1,9 @@
+PearlOreburghMineB2f_Text_000 = OK, stand back and watch this.{be01}\nUsing the hidden move Rock Smash,\na boulder blocking your way...{be01}
+PearlOreburghMineB2f_Text_001 = Fallen boulders need to be smashed\nso they’re out of the way.{be01}\nIf you could get the Badge from\nthe Gym in town, you’d be able{be00}\nto do this too.{be01}\nOf course, you’d have to beat the\nGym Leader first. That’d be me!{be01}
+PearlOreburghMineB2f_Text_002 = Machop: Maaacho!
+PearlOreburghMineB2f_Text_003 = Machop: Chopchop!
+PearlOreburghMineB2f_Text_004 = Machop: Chopmacho!
+PearlOreburghMineB2f_Text_005 = I met these Machop on Route 207.{be01}\nThey’ve now become my most trusted\npartners!
+PearlOreburghMineB2f_Text_006 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlOreburghMineB2f_Text_007 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlOreburghMineB2f_Text_008 = {0101:0} used Rock Smash!{be01}

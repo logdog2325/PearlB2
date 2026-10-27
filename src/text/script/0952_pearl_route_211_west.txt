@@ -1,0 +1,6 @@
+PearlRoute211West_Text_000 =                                                                               
+PearlRoute211West_Text_001 = Rt. 211\nMt. Coronet
+PearlRoute211West_Text_002 = Rt. 211\nEterna City
+PearlRoute211West_Text_003 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlRoute211West_Text_004 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlRoute211West_Text_005 = {0101:0} used Rock Smash!{be01}

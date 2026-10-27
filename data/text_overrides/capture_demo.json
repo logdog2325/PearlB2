@@ -1,0 +1,9 @@
+{
+    "_doc": "Pearl's catching tutorial (b2tools/patches/capture_demo.py): the two lines of Black 2's capture demo (system text 23, btlv_core), Pearl's words (battle text bank 324 lines 1226-1228, the counterpart's name from bank 497). Black 2 prints them without word buffers, so each counterpart has its own pair: lines 0-1 Dawn's (a boy's counterpart), 2-3 Lucas's (a girl's); CaptureDemo_Line adds 2 x the player's trainer type.",
+    "btlv_core": {
+        "BtlvCore_Text_JustHaveUsePoke": "OK! Its HP is down!\\nIt’s ready for a Poké Ball!",
+        "BtlvCore_Text_BiancaUsedPokeBall": "Dawn used\\na Poké Ball!",
+        "+BtlvCore_Text_LucasHpDown": "All right! I got its HP down!\\nTime to throw a Poké Ball!",
+        "+BtlvCore_Text_LucasUsedPokeBall": "Lucas used\\na Poké Ball!"
+    }
+}

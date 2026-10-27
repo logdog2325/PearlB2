@@ -1,0 +1,3 @@
+PearlRoute228Route226Gatehouse_Text_000 =                                                                  
+PearlRoute228Route226Gatehouse_Text_001 =                                            
+PearlRoute228Route226Gatehouse_Text_002 = I’m going to become number one in\nSinnoh’s Contests!{be01}\nI’m going to win with a Pokémon that\nyou can only find here!

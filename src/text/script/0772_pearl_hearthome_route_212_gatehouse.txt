@@ -1,0 +1,6 @@
+PearlHearthomeRoute212Gatehouse_Text_000 = The Contests are interesting, but the\nruins of Solaceon Town are as well...
+PearlHearthomeRoute212Gatehouse_Text_001 = As a cameraman, it makes me happy\nto see all sorts of Pokémon involved{be00}\nin Contests.
+PearlHearthomeRoute212Gatehouse_Text_002 = I traveled a long way to take part\nin these Contests.
+PearlHearthomeRoute212Gatehouse_Text_003 = Fantina’s the Gym Leader.\nThat lady baffles me.
+PearlHearthomeRoute212Gatehouse_Text_004 = I’ve given my Pokémon lots of Poffins.{be01}\nI’m confident that we’ll win our share\nof Contests.
+PearlHearthomeRoute212Gatehouse_Text_005 = There’s a Day Care in Solaceon Town\nthat raises Pokémon for you.

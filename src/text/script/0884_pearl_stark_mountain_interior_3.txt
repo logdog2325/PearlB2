@@ -1,0 +1,6 @@
+PearlStarkMountainInterior3_Text_000 = Buck: Heheh!\nCheck this out, {0100:1}!{be01}\nThis is the Magma Stone, the treasure\nof Stark Mountain!{be01}\nSince I found it, that makes me the\ngreatest Trainer out of everyone!{be01}\nThanks, you all helped it happen!{be01}
+PearlStarkMountainInterior3_Text_001 = Buck: Oof!{be01}
+PearlStarkMountainInterior3_Text_002 = Buck: Whoa! Wow!{be01}\nHehehe! That was wicked!\nThe volcano’s in shock from that!{be01}\nIt might be so shocked, it’ll erupt!\nNah, that can’t happen!{be01}\nSee ya, {0100:1}!\nSay hi to that zippity Trainer buddy!{be01}
+PearlStarkMountainInterior3_Text_003 = Gwogobo gwobobobo!{be01}
+PearlStarkMountainInterior3_Text_004 = Heatran disappeared into\nthe volcano...
+PearlStarkMountainInterior3_Text_005 =                                                                                                                                

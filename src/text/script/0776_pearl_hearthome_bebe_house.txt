@@ -1,0 +1,10 @@
+PearlHearthomeBebeHouse_Text_000 = Hiya!\nOh, you’re a Trainer!{be01}\nThat means you’re using Pokémon\nBoxes! I love meeting end users!{be01}\nOh, what’s up?\nWhy that astonished look?{be01}\nOh, right, sorry!\nThere I go running my mouth again!{be01}\nMy name’s Bebe!{be01}\nYou know the PC Pokémon Boxes?\nI’m the system administrator!
+PearlHearthomeBebeHouse_Text_001 = Bebe: My buddy Bill developed the\nbasic storage system.{be01}\nI tinkered with it here and there\nto make it easier for me to use.
+PearlHearthomeBebeHouse_Text_002 = Bebe: Hiya! Been a long time!\nHow’s it going? Using the PC Boxes?{be01}\nOh? Now lookie here, that’s a National\nPokédex I’m seeing. Good for you!{be01}\nYou’ll be using my Boxes like crazy\nif you’re using that now.{be01}\nWell, I always thought a good Trainer\nought to juggle Boxes smartly, though{be00}\nI shouldn’t be the one to say so.{be01}\nOh yeah, do you want a Pokémon named\nEevee?
+PearlHearthomeBebeHouse_Text_003 = Bebe: So, do you want that Eevee\nthat I’ve got?
+PearlHearthomeBebeHouse_Text_004 = Bebe: Here you go!\nNow, you be good to it.{be01}
+PearlHearthomeBebeHouse_Text_005 = {0100:0} obtained\nan Eevee!{be01}
+PearlHearthomeBebeHouse_Text_006 = Would you like to give a nickname\nto the Eevee that Bebe gave you?
+PearlHearthomeBebeHouse_Text_007 = Bebe: Here you go!{be01}\nWait, I can’t do that! You can’t\ntake any more Pokémon with you!{be01}\nRight about now, my Pokémon Boxes\ncome in handy!
+PearlHearthomeBebeHouse_Text_008 = Bebe: Oh, OK...\nGuess I’ll have to raise it myself.
+PearlHearthomeBebeHouse_Text_009 = Bebe: That Eevee I gave you,\nI got it from a good mate in Johto.{be01}\nWho knows how many Eevee he’s raised\nover the years.

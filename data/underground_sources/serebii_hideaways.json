@@ -1,0 +1,21 @@
+{
+ "_doc": "Serebii, brilliantdiamondshiningpearl/pokemonhideaways.shtml (read 2026-10-26): each Hideaway type's spawn amount per visit and its most water spawns (blank = none). Typhlo Cavern is not in the page's table; it is a Cavern (7-10, no water), as Bulbapedia's Cavern list. The page's level table: 1 badge 16-20, 2: 25-29, 3: 29-33, 4: 33-37, 5: 36-40, 6: 39-43, 7: 42-46, 8: 50-55, Elite Four defeated 58-63 (the same as Bulbapedia's). The per-Hideaway lists (serebii_sp.json) come from its pokearth/sinnoh/grandunderground.shtml, whose '%' column is blank for the ordinary spawns.",
+ "spaciouscave": {"spawns": [5, 7], "water": 0},
+ "grasslandcave": {"spawns": [5, 7], "water": 0},
+ "fountainspringcave": {"spawns": [5, 7], "water": 4},
+ "rockycave": {"spawns": [5, 7], "water": 0},
+ "volcaniccave": {"spawns": [5, 7], "water": 0},
+ "swampycave": {"spawns": [5, 7], "water": 4},
+ "dazzlingcave": {"spawns": [5, 7], "water": 0},
+ "whiteoutcave": {"spawns": [5, 7], "water": 0},
+ "icycave": {"spawns": [5, 7], "water": 4},
+ "riverbankcave": {"spawns": [5, 7], "water": 4},
+ "sandsearcave": {"spawns": [5, 7], "water": 0},
+ "still-watercavern": {"spawns": [7, 10], "water": 6},
+ "sunlitcavern": {"spawns": [7, 10], "water": 0},
+ "bigbluffcavern": {"spawns": [7, 10], "water": 0},
+ "stargleamcavern": {"spawns": [7, 10], "water": 0},
+ "glacialcavern": {"spawns": [7, 10], "water": 5},
+ "bogsunkcavern": {"spawns": [7, 10], "water": 5},
+ "typhlocavern": {"spawns": [7, 10], "water": 0}
+}

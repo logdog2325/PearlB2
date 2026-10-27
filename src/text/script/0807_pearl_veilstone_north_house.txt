@@ -1,0 +1,3 @@
+PearlVeilstoneNorthHouse_Text_000 = A myth says that Mt. Coronet parted\nSinnoh into halves.{be01}\nSeeing the Pokémon Shellos makes me\nthink maybe the myth is real.
+PearlVeilstoneNorthHouse_Text_001 = If there are people who desire to\nsee them, Pokémon will appear in{be00}\nmany different guises.
+PearlVeilstoneNorthHouse_Text_002 = Buneary: Nii nii!

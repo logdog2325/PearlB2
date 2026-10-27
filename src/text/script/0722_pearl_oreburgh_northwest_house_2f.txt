@@ -1,0 +1,17 @@
+PearlOreburghNorthwestHouse2f_Text_000 = Giving nicknames to Pokémon is\nthe way to go.{be01}\nIt makes you feel as if they’re your\nvery own.
+PearlOreburghNorthwestHouse2f_Text_001 = But he named our Psyduck “Yellow”\njust because of its color...{be01}\nI don’t understand the logic behind\nthat at all.
+PearlOreburghNorthwestHouse2f_Text_002 = Are you catching Pokémon?\nHere, take this if you’d like.{be01}
+PearlOreburghNorthwestHouse2f_Text_003 = The Dusk Ball is a Poké Ball designed\nfor use in darkness.{be01}\nIt works better if you use it at\nnight or in a cave.
+PearlOreburghNorthwestHouse2f_Text_004 = Yellow: Duuuck?
+PearlOreburghNorthwestHouse2f_Text_005 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlOreburghNorthwestHouse2f_Text_006 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlOreburghNorthwestHouse2f_Text_007 = Obtained the {0109:0}!
+PearlOreburghNorthwestHouse2f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlOreburghNorthwestHouse2f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlOreburghNorthwestHouse2f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlOreburghNorthwestHouse2f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlOreburghNorthwestHouse2f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlOreburghNorthwestHouse2f_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlOreburghNorthwestHouse2f_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlOreburghNorthwestHouse2f_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlOreburghNorthwestHouse2f_Text_016 = Too bad!\nThe Bag is full...

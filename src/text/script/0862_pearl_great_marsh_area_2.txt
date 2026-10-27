@@ -1,0 +1,10 @@
+PearlGreatMarshArea2_Text_000 = I think the Pokémon you find here\nare different over time.
+PearlGreatMarshArea2_Text_001 = Great Marsh Area 2
+PearlGreatMarshArea2_Text_002 = Where would you like to go?
+PearlGreatMarshArea2_Text_003 = AREA 3
+PearlGreatMarshArea2_Text_004 = AREA 4
+PearlGreatMarshArea2_Text_005 = AREA 5
+PearlGreatMarshArea2_Text_006 = AREA 6
+PearlGreatMarshArea2_Text_007 = EXIT
+PearlGreatMarshArea2_Text_008 = {0100:0} didn’t board\nthe Quick Tram.
+PearlGreatMarshArea2_Text_009 = The Quick Tram is being prepared.\nPlease come again!

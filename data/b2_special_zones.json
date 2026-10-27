@@ -1,0 +1,773 @@
+{
+ "_doc": "Black 2 zone ids that Black 2's code treats specially, from pokebw2's decompiled C (every ZONE_ name in src/).",
+ "avoid": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  28,
+  30,
+  36,
+  40,
+  52,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  75,
+  76,
+  78,
+  81,
+  82,
+  83,
+  86,
+  87,
+  114,
+  121,
+  136,
+  137,
+  138,
+  140,
+  141,
+  142,
+  143,
+  144,
+  150,
+  151,
+  155,
+  157,
+  158,
+  193,
+  195,
+  196,
+  197,
+  203,
+  209,
+  211,
+  214,
+  241,
+  242,
+  243,
+  244,
+  245,
+  246,
+  247,
+  248,
+  249,
+  255,
+  279,
+  280,
+  288,
+  289,
+  294,
+  295,
+  316,
+  317,
+  326,
+  337,
+  338,
+  339,
+  340,
+  341,
+  374,
+  378,
+  418,
+  422,
+  424,
+  425,
+  426,
+  427,
+  455,
+  464,
+  478,
+  479,
+  480,
+  481,
+  482,
+  483,
+  484,
+  485,
+  486,
+  487,
+  490,
+  491,
+  492,
+  493,
+  495,
+  502,
+  518,
+  551,
+  561,
+  564,
+  566,
+  573,
+  597,
+  598,
+  599,
+  600,
+  601,
+  603,
+  606,
+  607,
+  614
+ ],
+ "why": {
+  "378": [
+   "field_encount_st.c",
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "374": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "337": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zone_weather.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "326": [
+   "dowsing.c",
+   "field_encount_st.c",
+   "townmap.c",
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "424": [
+   "townmap.c",
+   "townmap_util.c",
+   "zonedata.c"
+  ],
+  "518": [
+   "dowsing.c",
+   "townmap_util.c",
+   "zonedata.c"
+  ],
+  "0": [
+   "townmap.c",
+   "townmap_util.c",
+   "zonedata.c"
+  ],
+  "422": [
+   "event_mapchange.c",
+   "townmap_util.c",
+   "union_actor.c",
+   "union_subproc.c",
+   "zonedata.c"
+  ],
+  "478": [
+   "game_beacon_accessor.c",
+   "infinity_dungeon_gimmick.c",
+   "infinity_dungeon_rooms.c",
+   "townmap_util.c"
+  ],
+  "317": [
+   "beacon_detail_sub.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "479": [
+   "game_beacon_accessor.c",
+   "infinity_dungeon_gimmick.c",
+   "infinity_dungeon_rooms.c"
+  ],
+  "481": [
+   "infinity_dungeon_gimmick.c",
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "480": [
+   "infinity_dungeon_gimmick.c",
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "492": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "483": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "485": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "486": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "484": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "493": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "482": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "487": [
+   "infinity_dungeon_rooms.c",
+   "zonedata.c"
+  ],
+  "490": [
+   "townmap.c",
+   "zonedata.c"
+  ],
+  "36": [
+   "demo3d_data.c",
+   "zonedata.c"
+  ],
+  "427": [
+   "demo3d_data.c",
+   "zone_spawn.c",
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "40": [
+   "demo3d_data.c",
+   "event_mapchange.c"
+  ],
+  "464": [
+   "zonedata.c"
+  ],
+  "209": [
+   "zonedata.c"
+  ],
+  "426": [
+   "zonedata.c"
+  ],
+  "142": [
+   "zonedata.c"
+  ],
+  "78": [
+   "zonedata.c"
+  ],
+  "4": [
+   "zonedata.c"
+  ],
+  "144": [
+   "zonedata.c"
+  ],
+  "279": [
+   "zonedata.c"
+  ],
+  "151": [
+   "union_subproc.c",
+   "zonedata.c"
+  ],
+  "138": [
+   "zonedata.c"
+  ],
+  "294": [
+   "zonedata.c"
+  ],
+  "603": [
+   "zonedata.c"
+  ],
+  "288": [
+   "zonedata.c"
+  ],
+  "247": [
+   "zonedata.c"
+  ],
+  "243": [
+   "zonedata.c"
+  ],
+  "340": [
+   "zonedata.c"
+  ],
+  "68": [
+   "zonedata.c"
+  ],
+  "601": [
+   "zonedata.c"
+  ],
+  "425": [
+   "zonedata.c"
+  ],
+  "71": [
+   "zonedata.c"
+  ],
+  "193": [
+   "zonedata.c"
+  ],
+  "561": [
+   "zonedata.c"
+  ],
+  "607": [
+   "zonedata.c"
+  ],
+  "598": [
+   "zonedata.c"
+  ],
+  "66": [
+   "zonedata.c"
+  ],
+  "566": [
+   "zonedata.c"
+  ],
+  "600": [
+   "zonedata.c"
+  ],
+  "87": [
+   "zonedata.c"
+  ],
+  "242": [
+   "zonedata.c"
+  ],
+  "137": [
+   "zonedata.c"
+  ],
+  "491": [
+   "zonedata.c"
+  ],
+  "141": [
+   "zonedata.c"
+  ],
+  "339": [
+   "zonedata.c"
+  ],
+  "245": [
+   "zonedata.c"
+  ],
+  "28": [
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "316": [
+   "zonedata.c"
+  ],
+  "551": [
+   "dowsing.c",
+   "zonedata.c"
+  ],
+  "52": [
+   "zonedata.c"
+  ],
+  "418": [
+   "zonedata.c"
+  ],
+  "114": [
+   "zonedata.c"
+  ],
+  "5": [
+   "zonedata.c"
+  ],
+  "82": [
+   "zonedata.c"
+  ],
+  "69": [
+   "zonedata.c"
+  ],
+  "597": [
+   "zonedata.c"
+  ],
+  "140": [
+   "zonedata.c"
+  ],
+  "3": [
+   "zonedata.c"
+  ],
+  "255": [
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "83": [
+   "zonedata.c"
+  ],
+  "143": [
+   "zonedata.c"
+  ],
+  "573": [
+   "event_mapchange.c",
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "73": [
+   "zonedata.c"
+  ],
+  "211": [
+   "zonedata.c"
+  ],
+  "75": [
+   "zonedata.c"
+  ],
+  "289": [
+   "zonedata.c"
+  ],
+  "599": [
+   "zonedata.c"
+  ],
+  "564": [
+   "zonedata.c"
+  ],
+  "341": [
+   "zonedata.c"
+  ],
+  "72": [
+   "zonedata.c"
+  ],
+  "248": [
+   "zonedata.c"
+  ],
+  "30": [
+   "zonedata.c"
+  ],
+  "214": [
+   "zonedata.c"
+  ],
+  "81": [
+   "zonedata.c"
+  ],
+  "121": [
+   "zonedata.c"
+  ],
+  "1": [
+   "zonedata.c"
+  ],
+  "150": [
+   "union_subproc.c",
+   "zonedata.c"
+  ],
+  "280": [
+   "zonedata.c"
+  ],
+  "249": [
+   "zonedata.c"
+  ],
+  "157": [
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "606": [
+   "zonedata.c"
+  ],
+  "246": [
+   "zonedata.c"
+  ],
+  "614": [
+   "game_beacon_accessor.c",
+   "zonedata.c"
+  ],
+  "67": [
+   "zonedata.c"
+  ],
+  "76": [
+   "zonedata.c"
+  ],
+  "295": [
+   "zonedata.c"
+  ],
+  "86": [
+   "zonedata.c"
+  ],
+  "2": [
+   "zonedata.c"
+  ],
+  "244": [
+   "zonedata.c"
+  ],
+  "241": [
+   "zonedata.c"
+  ],
+  "338": [
+   "zonedata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "70": [
+   "zonedata.c"
+  ],
+  "195": [
+   "field_gimmick_d06.c",
+   "shinka_check.c"
+  ],
+  "197": [
+   "field_gimmick_d06.c",
+   "shinka_check.c"
+  ],
+  "155": [
+   "shinka_check.c"
+  ],
+  "203": [
+   "shinka_check.c"
+  ],
+  "196": [
+   "field_gimmick_d06.c",
+   "shinka_check.c"
+  ],
+  "455": [
+   "gym_virbank.c"
+  ],
+  "502": [
+   "gym_virbank.c"
+  ],
+  "495": [
+   "event_mapchange.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "136": [
+   "event_mapchange.c"
+  ],
+  "158": [
+   "event_mapchange.c"
+  ]
+ },
+ "harmless": {
+  "355": [
+   "field_encount_st.c"
+  ],
+  "368": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "331": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "387": [
+   "field_encount_st.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "329": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "365": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "321": [
+   "field_encount_st.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "345": [
+   "field_encount_st.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "348": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "383": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "370": [
+   "field_encount_st.c",
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "319": [
+   "field_encount_st.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "191": [
+   "townmap_util.c"
+  ],
+  "463": [
+   "townmap_util.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "552": [
+   "local_tvt_callmode.c",
+   "townmap_util.c"
+  ],
+  "230": [
+   "townmap_util.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "458": [
+   "local_tvt_calldata.c"
+  ],
+  "96": [
+   "local_tvt_calldata.c"
+  ],
+  "412": [
+   "local_tvt_calldata.c",
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "406": [
+   "local_tvt_calldata.c"
+  ],
+  "62": [
+   "local_tvt_calldata.c"
+  ],
+  "107": [
+   "local_tvt_calldata.c"
+  ],
+  "389": [
+   "demo3d_data.c"
+  ],
+  "37": [
+   "demo3d_data.c"
+  ],
+  "253": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "385": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "506": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "198": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "152": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "194": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "240": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "448": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "160": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "462": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "465": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "113": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "515": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "324": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "423": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "456": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "474": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "238": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "346": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "446": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "503": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "444": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "205": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "154": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "461": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "6": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "475": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "263": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "333": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "376": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ],
+  "437": [
+   "zukan_common.c",
+   "zukan_habitat.c"
+  ]
+ }
+}

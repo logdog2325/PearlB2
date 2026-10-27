@@ -1,0 +1,7 @@
+PearlSunyshoreUnusedHouse1_Text_000 = Hmmm... The Pokémon Burmy is an\ninteresting example...{be01}\nIt hints at how the environment can\nshape people’s personalities.
+PearlSunyshoreUnusedHouse1_Text_001 = You know that Pokémon Burmy, and how\nit comes in different forms?{be01}\nDo you have all the forms of that\nBurmy?{be01}
+PearlSunyshoreUnusedHouse1_Text_002 = Aww, you don’t even have a single\nBurmy?{be01}\nWhat, you don’t like them?\nThey’re all mooshy and cute!
+PearlSunyshoreUnusedHouse1_Text_003 = Hmm...{be01}\nIt’d be cool if you had all the\ndifferent-looking Burmy.
+PearlSunyshoreUnusedHouse1_Text_004 = Cool! That’s all the different kinds\nof Burmy! I feel giddy!{be01}\nSince I feel so giddy, take this!\nGo ahead, take it!
+PearlSunyshoreUnusedHouse1_Text_005 = Whoops, your Bag is crammed full!\nI’ll give this to you later.
+PearlSunyshoreUnusedHouse1_Text_006 = You’re good!\nYou’d make an awesome Bug Maniac!

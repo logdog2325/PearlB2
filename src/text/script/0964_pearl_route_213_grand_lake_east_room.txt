@@ -1,0 +1,5 @@
+PearlRoute213GrandLakeEastRoom_Text_000 = Is that right? You’re a traveler?\nYes, it’s good to see other places!{be01}
+PearlRoute213GrandLakeEastRoom_Text_001 = Do you know about Mt. Moon in\nthe Kanto region?{be01}\nClefairy dancing under the moon...\nIt’s something I must see in my life.
+PearlRoute213GrandLakeEastRoom_Text_002 = Have you heard of the Tin Tower\nin the Johto region?{be01}\nThe rainbow-colored Pokémon...\nI must see that during my lifetime.
+PearlRoute213GrandLakeEastRoom_Text_003 = Do you know about the Space Center\nin the Hoenn region?{be01}\nA rocket launching into space...\nI must see that during my lifetime.
+PearlRoute213GrandLakeEastRoom_Text_004 = Have you heard of the Whirl Islands\nin the Johto region?{be01}\nThe silver-colored Pokémon...\nI must see that during my lifetime.

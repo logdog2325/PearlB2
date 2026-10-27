@@ -1,0 +1,1 @@
+PearlOreburghSouthHouse_Text_000 = You’re taking a tour of our coal\nmine?{be01}\nWonderful!\nThat’s excellent of you.{be01}\nIt’s always good to learn about new\nthings and broaden your horizons!

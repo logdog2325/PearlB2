@@ -1,0 +1,2 @@
+PearlFightAreaRoute225Gatehouse_Text_000 = The Survival Area’s past here.\nStark Mountain is this way, too.
+PearlFightAreaRoute225Gatehouse_Text_001 = I should catch me some wicked\nPokémon for the Battle Tower.

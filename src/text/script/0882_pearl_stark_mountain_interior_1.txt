@@ -1,0 +1,11 @@
+PearlStarkMountainInterior1_Text_000 = {0100:0}: Darn it!\nWhat was that all about?!{be01}\nOh, hey, {0100:1}.\nThat Buck guy wiped us!{be01}\nOh, man... There’s always tough\nTrainers around everywhere.{be01}\nBut you know? Losing means I have\nroom to become even tougher.{be01}\nThat’s why there’s the Battle Tower\nin the Battle Zone.
+PearlStarkMountainInterior1_Text_001 = {0100:0}: Darn it!\nI’m still choked up from losing.{be01}\nBut you know? Losing means I have\nroom to become even tougher.{be01}\nThat’s why there’s the Battle Tower\nin the Battle Zone.
+PearlStarkMountainInterior1_Text_002 = {0100:0}: Hey, {0100:1}!\nAre you still raising your Pokémon?{be01}\nMe? You need to ask? Of course I am.\nThey’re my partners!{be01}\nI’m going to rule at the Battle Tower\nwith them.{be01}\nI’ll prove how strong we’ve become\nand totally shock the guy there.
+PearlStarkMountainInterior1_Text_003 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlStarkMountainInterior1_Text_004 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlStarkMountainInterior1_Text_005 = {0101:0} used Rock Smash!{be01}
+PearlStarkMountainInterior1_Text_006 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.{be01}\nWould you like to use Strength?
+PearlStarkMountainInterior1_Text_007 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.
+PearlStarkMountainInterior1_Text_008 = {0101:0} used Strength!{be01}
+PearlStarkMountainInterior1_Text_009 = {0101:0}’s Strength made it\npossible to move boulders around!
+PearlStarkMountainInterior1_Text_010 = Strength made it possible to move\nboulders around.

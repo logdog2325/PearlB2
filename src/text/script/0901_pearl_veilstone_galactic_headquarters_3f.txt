@@ -1,0 +1,5 @@
+PearlVeilstoneGalacticHeadquarters3f_Text_000 = The locked doors only open with\na special key.{be01}\nNow, if I was a comedy relief sort\nof bad guy, I’d tell you...{be01}\nBut I really don’t know!
+PearlVeilstoneGalacticHeadquarters3f_Text_001 = The door is locked.\nA special key is needed.
+PearlVeilstoneGalacticHeadquarters3f_Text_002 = The door is locked.\nA special key is needed.{be01}\nUse the Galactic Key?
+PearlVeilstoneGalacticHeadquarters3f_Text_003 = The door opened.
+PearlVeilstoneGalacticHeadquarters3f_Text_004 = The Team Galactic credo!\nEverything belongs to Team Galactic!{be01}\nLook beyond the world--space will\nbecome Team Galactic’s!

@@ -1,0 +1,15 @@
+PearlTurnbackCaveGiratinaRoom_Text_000 = ...Bishaan!{be01}
+PearlTurnbackCaveGiratinaRoom_Text_001 = Giratina disappeared...
+PearlTurnbackCaveGiratinaRoom_Text_002 = This is...{be01}\nThat where life sparkles...\nThat where life has faded...{be01}\nA place where two worlds overlap...
+PearlTurnbackCaveGiratinaRoom_Text_003 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlTurnbackCaveGiratinaRoom_Text_004 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlTurnbackCaveGiratinaRoom_Text_005 = Obtained the {0109:0}!
+PearlTurnbackCaveGiratinaRoom_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlTurnbackCaveGiratinaRoom_Text_014 = Too bad!\nThe Bag is full...

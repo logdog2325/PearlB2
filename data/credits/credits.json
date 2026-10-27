@@ -1,0 +1,69 @@
+{
+ "_doc": "The credits photos (b2tools/patches/game_clear.py: a/2/1/5 photos 0-11, the colour picture \"final\"): indexed 256x192 PNGs made by b2tools/credits_photos.py from emulator shots of our own Sinnoh maps without the player, so Lucas and Dawn (m, f) share each file. Order = the credits order.",
+ "photos": [
+  {
+   "place": "Sunyshore City",
+   "m": "00_sunyshore_city.png",
+   "f": "00_sunyshore_city.png"
+  },
+  {
+   "place": "Sunyshore walkways",
+   "m": "01_sunyshore_walkways.png",
+   "f": "01_sunyshore_walkways.png"
+  },
+  {
+   "place": "Sunyshore Gym",
+   "m": "02_sunyshore_gym.png",
+   "f": "02_sunyshore_gym.png"
+  },
+  {
+   "place": "Pokemon League south",
+   "m": "03_pokemon_league_south.png",
+   "f": "03_pokemon_league_south.png"
+  },
+  {
+   "place": "Victory Road",
+   "m": "04_victory_road.png",
+   "f": "04_victory_road.png"
+  },
+  {
+   "place": "Pokemon League plateau",
+   "m": "05_pokemon_league_plateau.png",
+   "f": "05_pokemon_league_plateau.png"
+  },
+  {
+   "place": "Pokemon League front",
+   "m": "06_pokemon_league_front.png",
+   "f": "06_pokemon_league_front.png"
+  },
+  {
+   "place": "Pokemon League lobby",
+   "m": "07_pokemon_league_lobby.png",
+   "f": "07_pokemon_league_lobby.png"
+  },
+  {
+   "place": "Aaron's room",
+   "m": "08_aaron_s_room.png",
+   "f": "08_aaron_s_room.png"
+  },
+  {
+   "place": "Bertha's room",
+   "m": "09_bertha_s_room.png",
+   "f": "09_bertha_s_room.png"
+  },
+  {
+   "place": "Flint's room",
+   "m": "10_flint_s_room.png",
+   "f": "10_flint_s_room.png"
+  },
+  {
+   "place": "Lucian's room",
+   "m": "11_lucian_s_room.png",
+   "f": "11_lucian_s_room.png"
+  }
+ ],
+ "final": {
+  "place": "Home",
+  "file": "final_home.png"
+ }
+}

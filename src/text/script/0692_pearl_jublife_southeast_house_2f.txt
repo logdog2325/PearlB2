@@ -1,0 +1,2 @@
+PearlJublifeSoutheastHouse2f_Text_000 = Did you know?{be01}\nSome kinds of Pokémon evolve when\nthey get stronger from battling!{be01}\nWhen they evolve, they can take on\ncompletely different forms!
+PearlJublifeSoutheastHouse2f_Text_001 = Evolution makes Pokémon just that\nmuch more fascinating.

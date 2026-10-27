@@ -1,0 +1,1 @@
+PearlSolaceonRuins1fMainRoom_Text_000 = TOP RIGHT{be01}\nLOWER LEFT{be01}\nTOP RIGHT{be01}\nTOP LEFT{be01}\nTOP LEFT{be01}\nLOWER LEFT

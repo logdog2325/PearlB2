@@ -1,0 +1,9 @@
+PearlMountCoronetNorth1fRoom1_Text_000 = There’s no way of getting to the\npeak of Mt. Coronet from this side!{be01}\nUh-oh... Was I supposed to go up\nfrom the Hearthome City side?{be01}\nI can’t get up to the peak from\nthe Eterna City side?
+PearlMountCoronetNorth1fRoom1_Text_001 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlMountCoronetNorth1fRoom1_Text_002 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlMountCoronetNorth1fRoom1_Text_003 = {0101:0} used Rock Smash!{be01}
+PearlMountCoronetNorth1fRoom1_Text_004 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.{be01}\nWould you like to use Strength?
+PearlMountCoronetNorth1fRoom1_Text_005 = It’s a big boulder, but a Pokémon\nmay be able to push it aside.
+PearlMountCoronetNorth1fRoom1_Text_006 = {0101:0} used Strength!{be01}
+PearlMountCoronetNorth1fRoom1_Text_007 = {0101:0}’s Strength made it\npossible to move boulders around!
+PearlMountCoronetNorth1fRoom1_Text_008 = Strength made it possible to move\nboulders around.

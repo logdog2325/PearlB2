@@ -1,0 +1,6 @@
+PearlLakeAcuityGalactic_Text_000 = {0100:0}: !{be01}\nYou’re not getting away with this,\nTeam Galactic!{be01}
+PearlLakeAcuityGalactic_Text_001 = Jupiter: Oh?\nAre you finished already?{be01}\nYour Pokémon aren’t bad, but you’re\nlaughably weak.{be01}\nYou honestly thought you could save\nthe Pokémon of the lake?{be01}\nAnd become the Pokémon Champion?\nDream on, little kid.{be01}\nBut, eww, it’s so cold here.\nLet’s go back to the Veilstone HQ.{be01}
+PearlLakeAcuityGalactic_Text_002 = Oh? Don’t I know you?\nWe met in Eterna City.{be01}\nListen. Team Galactic is going to do\nsomething huge for everyone’s sake.{be01}\nThat’s why you should keep out of\nTeam Galactic’s way.{be01}\nDon’t come whining about poor Pokémon\nand other trivial junk like that.{be01}\nDon’t waste your time coming to our\nHQ in Veilstone.{be01}\nNow, if you’ll excuse me.{be01}
+PearlLakeAcuityGalactic_Text_003 = {0100:0}: ...\n...{be01}\nYeah, that’s right!{be01}\nI couldn’t do anything against Team\nGalactic!{be01}
+PearlLakeAcuityGalactic_Text_004 = That Pokémon called Uxie...\nIt was suffering...{be01}
+PearlLakeAcuityGalactic_Text_005 = I’m going to get tougher...{be01}\nIt’s not about winning or losing...\nThat’s not good enough...{be00}\nI have to be stronger...{be01}

@@ -1,0 +1,10 @@
+PearlGreatMarshArea4_Text_000 = When you’re walking on boggy parts,\nsometimes you get sucked down.{be01}\nGetting free of the bog takes time,\nwhich is a luxury in a Safari Game.
+PearlGreatMarshArea4_Text_001 = Great Marsh Area 4
+PearlGreatMarshArea4_Text_002 = Where would you like to go?
+PearlGreatMarshArea4_Text_003 = AREA 1
+PearlGreatMarshArea4_Text_004 = AREA 2
+PearlGreatMarshArea4_Text_005 = AREA 5
+PearlGreatMarshArea4_Text_006 = AREA 6
+PearlGreatMarshArea4_Text_007 = EXIT
+PearlGreatMarshArea4_Text_008 = {0100:0} didn’t board\nthe Quick Tram.
+PearlGreatMarshArea4_Text_009 = The Quick Tram is being prepared.\nPlease come again!

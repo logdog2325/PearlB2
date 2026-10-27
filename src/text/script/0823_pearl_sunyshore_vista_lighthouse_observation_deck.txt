@@ -1,0 +1,14 @@
+PearlSunyshoreVistaLighthouseObservationDeck_Text_000 = ...\n...{be01}\n...So, you’re the latest challenger\nup against the Sunyshore Gym...{be01}
+PearlSunyshoreVistaLighthouseObservationDeck_Text_001 = All right, I’ve decided!{be01}\nIf I find you to be weak, I’m going\nto challenge the Pokémon League.{be01}\nI’m all done with renovating the\nGym, so I don’t need to be here.{be01}\nMore than anything, I want to have\nbattles that can thrill me again.{be01}
+PearlSunyshoreVistaLighthouseObservationDeck_Text_002 = As the toughest Gym Leader in Sinnoh,\nI’m going to unleash everything in{be00}\nmy arsenal on you.{be01}
+PearlSunyshoreVistaLighthouseObservationDeck_Text_003 = {0100:0} took a look through\nthe binoculars.{be01}
+PearlSunyshoreVistaLighthouseObservationDeck_Text_004 = The Vista Lighthouse represents\nsafety and protection to us Sailors.
+PearlSunyshoreVistaLighthouseObservationDeck_Text_005 = I love how far away you can see with\nthe binoculars.{be01}\nI’m going to go that far away with\nmy Pokémon one day!
+PearlSunyshoreVistaLighthouseObservationDeck_Text_006 =                                                                      
+PearlSunyshoreVistaLighthouseObservationDeck_Text_007 =                  
+PearlSunyshoreVistaLighthouseObservationDeck_Text_008 =                                 
+PearlSunyshoreVistaLighthouseObservationDeck_Text_009 =           
+PearlSunyshoreVistaLighthouseObservationDeck_Text_010 =                                                                                           
+PearlSunyshoreVistaLighthouseObservationDeck_Text_011 =                                                                                              
+PearlSunyshoreVistaLighthouseObservationDeck_Text_012 =                                              
+PearlSunyshoreVistaLighthouseObservationDeck_Text_013 =                            

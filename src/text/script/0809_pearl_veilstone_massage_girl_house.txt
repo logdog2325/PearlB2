@@ -1,0 +1,13 @@
+PearlVeilstoneMassageGirlHouse_Text_000 = Oh, looking a little tired?\n...Oh, no, not you.{be00}\nI meant your Pokémon.{be01}\nIf you’d like, I can give a massage\nto a Pokémon. Would you like that?
+PearlVeilstoneMassageGirlHouse_Text_001 = Which one needs a little love?{be01}
+PearlVeilstoneMassageGirlHouse_Text_002 = Oh!\nHey, I’m not doing anything shady...
+PearlVeilstoneMassageGirlHouse_Text_003 = Giggle... OK, let’s get started.\nOK, sweetie, just relax...{be01}
+PearlVeilstoneMassageGirlHouse_Text_004 = {0101:0} looks dreamily\ncontent...{be01}
+PearlVeilstoneMassageGirlHouse_Text_005 = Drop by again tomorrow if you’d like.
+PearlVeilstoneMassageGirlHouse_Text_006 = That’s silly! I’d break that Egg\nif I tried to massage it!
+PearlVeilstoneMassageGirlHouse_Text_007 = When I was massaging your Pokémon,\nI found this.{be01}
+PearlVeilstoneMassageGirlHouse_Text_008 = Oh? You want me to show you how to\nmassage Pokémon?{be01}\nTehehe...{be01}\nIt’s a secret, of course!{be01}\nCome back again tomorrow!
+PearlVeilstoneMassageGirlHouse_Text_009 = My sister’s boyfriend is the Scarf\nGuy in Pastoria City.{be01}\nThey send Mail to each other by\nletting Pokémon deliver it.
+PearlVeilstoneMassageGirlHouse_Text_010 = Pachirisu: Pachi chiii!
+PearlVeilstoneMassageGirlHouse_Text_011 = {0100:0} put away the\n{0100:1} in the Fashion Case.{be01}
+PearlVeilstoneMassageGirlHouse_Text_012 = Obtained the {0109:0}!

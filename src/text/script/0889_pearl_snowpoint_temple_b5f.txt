@@ -1,0 +1,4 @@
+PearlSnowpointTempleB5f_Text_000 = It’s a statue of a Pokémon.\nIt seems to exude power...{be01}\n{0100:0} read the engraved\nwriting...{be01}\nA body of rock.{be01}\nA body of ice.{be01}\nA body of steel.{be01}\nWhen gathers the three Pokémon,\nthe king shall appear.
+PearlSnowpointTempleB5f_Text_001 = It’s a statue of a Pokémon.\nIt seems to exude power...{be01}\n{0100:0} read the engraved\nwriting...{be01}\nA body of rock.{be01}\nA body of ice.{be01}\nA body of steel.{be01}\nWhen gathers the three Pokémon,\nthe king shall appear.{be01}\n...\n...{be01}
+PearlSnowpointTempleB5f_Text_002 = ...Zut zutt!{be01}
+PearlSnowpointTempleB5f_Text_003 = Regigigas disappeared from view...

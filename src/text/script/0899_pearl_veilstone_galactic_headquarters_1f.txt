@@ -1,0 +1,13 @@
+PearlVeilstoneGalacticHeadquarters1f_Text_000 = Welcome.\nThis is Team Galactic Headqu...{be01}\nI’m sorry, this is the Galactic\nVeilstone Building.{be01}\nCosmic energy for the win!{be01}\nWouldn’t it be wonderful if we\ncould harness that boundless energy?
+PearlVeilstoneGalacticHeadquarters1f_Text_001 = Welcome.\nThis is Team Galactic Headqu...{be01}\nI’m sorry, this is the Galactic\nVeilstone Building.{be01}\nWe have no public events planned\nat this time.
+PearlVeilstoneGalacticHeadquarters1f_Text_002 = Team Galactic conducts R&D around\nthe clock here.{be01}\nWe focus on the development of new\nenergy resources.
+PearlVeilstoneGalacticHeadquarters1f_Text_003 = This is where we, Team Galactic, work.\nWhat are we supposed to do?{be01}\nI’m not sure how, but we’re supposed\nto chase our dream.{be01}\nOur dream of making a wonderful\nnew world!
+PearlVeilstoneGalacticHeadquarters1f_Text_004 = We, Team Galactic, will take everything\nthat can be taken!{be01}\nWe will eliminate everything that is\nnot needed!{be01}\nThat is Team Galactic’s policy!
+PearlVeilstoneGalacticHeadquarters1f_Text_005 = We, Team Galactic, will take everything\nthat can be taken!{be01}\nWe will eliminate everything that is\nnot needed!{be01}\nThat is Team Galactic’s policy!{be01}\nAt least it used to be.\nThere’s nothing left now...
+PearlVeilstoneGalacticHeadquarters1f_Text_006 = You’re too young for us...\nYou can join us when you’re older.
+PearlVeilstoneGalacticHeadquarters1f_Text_007 = I wonder where our boss went...
+PearlVeilstoneGalacticHeadquarters1f_Text_008 = Saturn: So, it’s you...{be01}\nI’ve heard about you and what took\nplace at the Spear Pillar.{be01}\nWhat our boss really wanted...\nEven I don’t know that.{be01}\nHis confident manner of speaking...\nHis logical words...{be01}\nI think people just became so\nenthralled by him.{be01}\nI allowed myself to believe his words\nbecause I wanted to see the world{be00}\nhe intended to make.{be01}\nI’ve been left in charge of this\nHQ building and the remnants of{be00}\nthe membership...{be01}\nThe decision on what Team Galactic\nshould do rests with me...{be01}\nBut I’ve learned that extremism\nis never the solution...
+PearlVeilstoneGalacticHeadquarters1f_Text_009 = The door is locked.\nA special key is needed.
+PearlVeilstoneGalacticHeadquarters1f_Text_010 = The door is locked.\nA special key is needed.{be01}\nUse the Galactic Key?
+PearlVeilstoneGalacticHeadquarters1f_Text_011 = The door opened.
+PearlVeilstoneGalacticHeadquarters1f_Text_012 = The Team Galactic credo!\nEverything belongs to Team Galactic!{be01}\nLook beyond the world--space will\nbecome Team Galactic’s!

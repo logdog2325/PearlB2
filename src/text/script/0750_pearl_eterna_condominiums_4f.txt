@@ -1,0 +1,14 @@
+PearlEternaCondominiums4f_Text_000 = I’ve had this TM Recycle for such\na long time now.{be01}\nIt’s not anything that I have much\nuse for these days.{be01}\nI do hope you’ll put it to good\nuse, young Trainer.
+PearlEternaCondominiums4f_Text_001 = Folks like me have a long history\nwe can look back on.{be01}\nYoung people like you have only the\nfuture to look forward to.
+PearlEternaCondominiums4f_Text_002 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlEternaCondominiums4f_Text_003 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlEternaCondominiums4f_Text_004 = Obtained the {0109:0}!
+PearlEternaCondominiums4f_Text_005 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlEternaCondominiums4f_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlEternaCondominiums4f_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlEternaCondominiums4f_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlEternaCondominiums4f_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlEternaCondominiums4f_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlEternaCondominiums4f_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlEternaCondominiums4f_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlEternaCondominiums4f_Text_013 = Too bad!\nThe Bag is full...

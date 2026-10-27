@@ -1,0 +1,2 @@
+PearlHearthomeSoutheastHouse1f_Text_000 = There are the Contests!\nThen, we have the Amity Square!{be01}\nWe have visitors from all over, so we\nneed to keep the city looking nice!
+PearlHearthomeSoutheastHouse1f_Text_001 = People all over the world follow\nPokémon Contests.{be01}\nWhat should I do?\nI could captivate the whole world!

@@ -1,0 +1,4 @@
+PearlRoute205House_Text_000 = You seem to be tired...\nRest a while.
+PearlRoute205House_Text_001 = You and your Pokémon look\ncompletely refreshed!
+PearlRoute205House_Text_002 = Just because you’re young doesn’t\nmean you should push yourself.
+PearlRoute205House_Text_003 = You think you can get through the\nEterna Forest by yourself?

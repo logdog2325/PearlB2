@@ -1,0 +1,2 @@
+PearlFloaromaSoutheastHouse_Text_000 = Some kinds of Pokémon appear only\nif they’re attracted by the sweet{be00}\nscent of Honey.
+PearlFloaromaSoutheastHouse_Text_001 = Pokémon must have an acute sense\nof smell.{be01}\nThey can sense the aroma of Honey\nfrom very far away.

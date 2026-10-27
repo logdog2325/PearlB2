@@ -1,0 +1,7140 @@
+{
+ "_doc": "The Grand Underground Hideaways' wild Pokémon for PearlB2 (notes/UNDERGROUND.md section 6): Shining Pearl's lists, Written by b2tools/underground_lists.py from data/underground_sources/ (do not edit).",
+ "hideaways": [
+  {
+   "bdsp_id": 2,
+   "key": "spaciouscave",
+   "name": "Spacious Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 41,
+     "name": "Zubat",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 54,
+     "name": "Psyduck",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 66,
+     "name": "Machop",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 74,
+     "name": "Geodude",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 401,
+     "name": "Kricketot",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 403,
+     "name": "Shinx",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 406,
+     "name": "Budew",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 417,
+     "name": "Pachirisu",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 42,
+     "name": "Golbat",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 433,
+     "name": "Chingling",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 67,
+     "name": "Machoke",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 75,
+     "name": "Graveler",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 190,
+     "name": "Aipom",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 278,
+     "name": "Wingull",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 432,
+     "name": "Purugly",
+     "sp": 3,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 279,
+     "name": "Pelipper",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 404,
+     "name": "Luxio",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 431,
+     "name": "Glameow",
+     "sp": 4,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 458,
+     "name": "Mantyke",
+     "sp": 5,
+     "bd": 5,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 19,
+     "name": "Rattata",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 20,
+     "name": "Raticate",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 27,
+     "name": "Sandshrew",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 28,
+     "name": "Sandslash",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 37,
+     "name": "Vulpix",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 56,
+     "name": "Mankey",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 57,
+     "name": "Primeape",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 81,
+     "name": "Magnemite",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 83,
+     "name": "Farfetch'd",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 84,
+     "name": "Doduo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 98,
+     "name": "Krabby",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 100,
+     "name": "Voltorb",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 108,
+     "name": "Lickitung",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 111,
+     "name": "Rhyhorn",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 112,
+     "name": "Rhydon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 177,
+     "name": "Natu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 229,
+     "name": "Houndoom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 241,
+     "name": "Miltank",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 261,
+     "name": "Poochyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 262,
+     "name": "Mightyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 263,
+     "name": "Zigzagoon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 300,
+     "name": "Skitty",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 333,
+     "name": "Swablu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 341,
+     "name": "Corphish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 342,
+     "name": "Crawdaunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 359,
+     "name": "Absol",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 371,
+     "name": "Bagon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 372,
+     "name": "Shelgon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 198,
+     "name": "Murkrow",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 434,
+     "name": "Stunky",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 435,
+     "name": "Skuntank",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 58,
+     "name": "Growlithe",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 81,
+     "sp": 190,
+     "bd": 190
+    },
+    {
+     "species": 108,
+     "sp": 190,
+     "bd": 190
+    },
+    {
+     "species": 111,
+     "sp": 190,
+     "bd": 190
+    },
+    {
+     "species": 229,
+     "sp": 190,
+     "bd": 190
+    },
+    {
+     "species": 333,
+     "sp": 190,
+     "bd": 190
+    },
+    {
+     "species": 359,
+     "sp": 50,
+     "bd": 50
+    }
+   ]
+  },
+  {
+   "bdsp_id": 3,
+   "key": "grasslandcave",
+   "name": "Grassland Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 41,
+     "name": "Zubat",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 66,
+     "name": "Machop",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 265,
+     "name": "Wurmple",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 268,
+     "name": "Cascoon",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 315,
+     "name": "Roselia",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 401,
+     "name": "Kricketot",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 403,
+     "name": "Shinx",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 406,
+     "name": "Budew",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 415,
+     "name": "Combee",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 420,
+     "name": "Cherubi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 42,
+     "name": "Golbat",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 67,
+     "name": "Machoke",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 432,
+     "name": "Purugly",
+     "sp": 3,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 404,
+     "name": "Luxio",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 431,
+     "name": "Glameow",
+     "sp": 4,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 19,
+     "name": "Rattata",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 20,
+     "name": "Raticate",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 46,
+     "name": "Paras",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 56,
+     "name": "Mankey",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 57,
+     "name": "Primeape",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 60,
+     "name": "Poliwag",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 61,
+     "name": "Poliwhirl",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 83,
+     "name": "Farfetch'd",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 84,
+     "name": "Doduo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 127,
+     "name": "Pinsir",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 152,
+     "name": "Chikorita",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 168,
+     "name": "Ariados",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 179,
+     "name": "Mareep",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 180,
+     "name": "Flaaffy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 187,
+     "name": "Hoppip",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 188,
+     "name": "Skiploom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 191,
+     "name": "Sunkern",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 204,
+     "name": "Pineco",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 241,
+     "name": "Miltank",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 252,
+     "name": "Treecko",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 270,
+     "name": "Lotad",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 271,
+     "name": "Lombre",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 290,
+     "name": "Nincada",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 313,
+     "name": "Volbeat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 314,
+     "name": "Illumise",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 329,
+     "name": "Vibrava",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 357,
+     "name": "Tropius",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 359,
+     "name": "Absol",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 387,
+     "name": "Turtwig",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 198,
+     "name": "Murkrow",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 266,
+     "name": "Silcoon",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 434,
+     "name": "Stunky",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 435,
+     "name": "Skuntank",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 123,
+     "name": "Scyther",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 273,
+     "name": "Seedot",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 274,
+     "name": "Nuzleaf",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 352,
+     "name": "Kecleon",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 123,
+     "sp": 0,
+     "bd": 800
+    },
+    {
+     "species": 127,
+     "sp": 800,
+     "bd": 0
+    },
+    {
+     "species": 359,
+     "sp": 200,
+     "bd": 200
+    }
+   ]
+  },
+  {
+   "bdsp_id": 4,
+   "key": "fountainspringcave",
+   "name": "Fountainspring Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 4,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 54,
+     "name": "Psyduck",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 418,
+     "name": "Buizel",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 422,
+     "name": "Shellos",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 423,
+     "name": "Gastrodon",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 339,
+     "name": "Barboach",
+     "sp": 2,
+     "bd": 2,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 194,
+     "name": "Wooper",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 195,
+     "name": "Quagsire",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 278,
+     "name": "Wingull",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 72,
+     "name": "Tentacool",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 73,
+     "name": "Tentacruel",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 279,
+     "name": "Pelipper",
+     "sp": 4,
+     "bd": 4,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 443,
+     "name": "Gible",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 224,
+     "name": "Octillery",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 340,
+     "name": "Whiscash",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 444,
+     "name": "Gabite",
+     "sp": 5,
+     "bd": 5,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 458,
+     "name": "Mantyke",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 7,
+     "name": "Squirtle",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 60,
+     "name": "Poliwag",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 61,
+     "name": "Poliwhirl",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 83,
+     "name": "Farfetch'd",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 90,
+     "name": "Shellder",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 116,
+     "name": "Horsea",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 120,
+     "name": "Staryu",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 147,
+     "name": "Dratini",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 158,
+     "name": "Totodile",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 170,
+     "name": "Chinchou",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 171,
+     "name": "Lanturn",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 211,
+     "name": "Qwilfish",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 222,
+     "name": "Corsola",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 258,
+     "name": "Mudkip",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 270,
+     "name": "Lotad",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 271,
+     "name": "Lombre",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 283,
+     "name": "Surskit",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 318,
+     "name": "Carvanha",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 341,
+     "name": "Corphish",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 342,
+     "name": "Crawdaunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 366,
+     "name": "Clamperl",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 393,
+     "name": "Piplup",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 86,
+     "name": "Seel",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 87,
+     "name": "Dewgong",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 108,
+     "sp": 300,
+     "bd": 300
+    },
+    {
+     "species": 175,
+     "sp": 100,
+     "bd": 100
+    },
+    {
+     "species": 280,
+     "sp": 300,
+     "bd": 300
+    },
+    {
+     "species": 333,
+     "sp": 300,
+     "bd": 300
+    }
+   ]
+  },
+  {
+   "bdsp_id": 5,
+   "key": "rockycave",
+   "name": "Rocky Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 74,
+     "name": "Geodude",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 95,
+     "name": "Onix",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 75,
+     "name": "Graveler",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 449,
+     "name": "Hippopotas",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 27,
+     "name": "Sandshrew",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 28,
+     "name": "Sandslash",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 111,
+     "name": "Rhyhorn",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 112,
+     "name": "Rhydon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 231,
+     "name": "Phanpy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 263,
+     "name": "Zigzagoon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 304,
+     "name": "Aron",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 305,
+     "name": "Lairon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 322,
+     "name": "Numel",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 323,
+     "name": "Camerupt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 328,
+     "name": "Trapinch",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 329,
+     "name": "Vibrava",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 343,
+     "name": "Baltoy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 374,
+     "name": "Beldum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 207,
+     "name": "Gligar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 246,
+     "name": "Larvitar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 247,
+     "name": "Pupitar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 111,
+     "sp": 700,
+     "bd": 700
+    },
+    {
+     "species": 207,
+     "sp": 0,
+     "bd": 300
+    },
+    {
+     "species": 216,
+     "sp": 300,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 6,
+   "key": "volcaniccave",
+   "name": "Volcanic Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 74,
+     "name": "Geodude",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 95,
+     "name": "Onix",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 77,
+     "name": "Ponyta",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 75,
+     "name": "Graveler",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 4,
+     "name": "Charmander",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 37,
+     "name": "Vulpix",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 155,
+     "name": "Cyndaquil",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 218,
+     "name": "Slugma",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 219,
+     "name": "Magcargo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 240,
+     "name": "Magby",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 255,
+     "name": "Torchic",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 322,
+     "name": "Numel",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 323,
+     "name": "Camerupt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 324,
+     "name": "Torkoal",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 390,
+     "name": "Chimchar",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 58,
+     "name": "Growlithe",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 229,
+     "sp": 700,
+     "bd": 1000
+    },
+    {
+     "species": 240,
+     "sp": 300,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 7,
+   "key": "swampycave",
+   "name": "Swampy Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 4,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 41,
+     "name": "Zubat",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 315,
+     "name": "Roselia",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 453,
+     "name": "Croagunk",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 42,
+     "name": "Golbat",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 339,
+     "name": "Barboach",
+     "sp": 2,
+     "bd": 2,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 194,
+     "name": "Wooper",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 195,
+     "name": "Quagsire",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 72,
+     "name": "Tentacool",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 73,
+     "name": "Tentacruel",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 340,
+     "name": "Whiscash",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 46,
+     "name": "Paras",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 88,
+     "name": "Grimer",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 110,
+     "name": "Weezing",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 114,
+     "name": "Tangela",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 168,
+     "name": "Ariados",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 204,
+     "name": "Pineco",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 211,
+     "name": "Qwilfish",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 357,
+     "name": "Tropius",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 465,
+     "name": "Tangrowth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 108,
+     "sp": 500,
+     "bd": 400
+    },
+    {
+     "species": 207,
+     "sp": 0,
+     "bd": 200
+    },
+    {
+     "species": 220,
+     "sp": 500,
+     "bd": 400
+    }
+   ]
+  },
+  {
+   "bdsp_id": 8,
+   "key": "dazzlingcave",
+   "name": "Dazzling Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 92,
+     "name": "Gastly",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 200,
+     "name": "Misdreavus",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 307,
+     "name": "Meditite",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 433,
+     "name": "Chingling",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 64,
+     "name": "Kadabra",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 203,
+     "name": "Girafarig",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 122,
+     "name": "Mr. Mime",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 88,
+     "name": "Grimer",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 96,
+     "name": "Drowzee",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 98,
+     "name": "Krabby",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 100,
+     "name": "Voltorb",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 132,
+     "name": "Ditto",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 175,
+     "name": "Togepi",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 177,
+     "name": "Natu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 202,
+     "name": "Wobbuffet",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 209,
+     "name": "Snubbull",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 229,
+     "name": "Houndoom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 238,
+     "name": "Smoochum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 261,
+     "name": "Poochyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 262,
+     "name": "Mightyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 280,
+     "name": "Ralts",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 281,
+     "name": "Kirlia",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 302,
+     "name": "Sableye",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 313,
+     "name": "Volbeat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 314,
+     "name": "Illumise",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 337,
+     "name": "Lunatone",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 343,
+     "name": "Baltoy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 354,
+     "name": "Banette",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 355,
+     "name": "Duskull",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 356,
+     "name": "Dusclops",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 359,
+     "name": "Absol",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 371,
+     "name": "Bagon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 372,
+     "name": "Shelgon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 239,
+     "name": "Elekid",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 303,
+     "name": "Mawile",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 338,
+     "name": "Solrock",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 175,
+     "sp": 50,
+     "bd": 50
+    },
+    {
+     "species": 229,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 238,
+     "sp": 150,
+     "bd": 150
+    },
+    {
+     "species": 239,
+     "sp": 0,
+     "bd": 150
+    },
+    {
+     "species": 280,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 355,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 359,
+     "sp": 50,
+     "bd": 50
+    }
+   ]
+  },
+  {
+   "bdsp_id": 9,
+   "key": "whiteoutcave",
+   "name": "Whiteout Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 66,
+     "name": "Machop",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 403,
+     "name": "Shinx",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 417,
+     "name": "Pachirisu",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 307,
+     "name": "Meditite",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 67,
+     "name": "Machoke",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 122,
+     "name": "Mr. Mime",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 215,
+     "name": "Sneasel",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 404,
+     "name": "Luxio",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 459,
+     "name": "Snover",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 81,
+     "name": "Magnemite",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 179,
+     "name": "Mareep",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 180,
+     "name": "Flaaffy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 220,
+     "name": "Swinub",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 225,
+     "name": "Delibird",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 304,
+     "name": "Aron",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 305,
+     "name": "Lairon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 333,
+     "name": "Swablu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 361,
+     "name": "Snorunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 362,
+     "name": "Glalie",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 363,
+     "name": "Spheal",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 364,
+     "name": "Sealeo",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 365,
+     "name": "Walrein",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 374,
+     "name": "Beldum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 86,
+     "name": "Seel",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 87,
+     "name": "Dewgong",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 239,
+     "name": "Elekid",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 81,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 216,
+     "sp": 150,
+     "bd": 0
+    },
+    {
+     "species": 220,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 239,
+     "sp": 0,
+     "bd": 150
+    },
+    {
+     "species": 333,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 361,
+     "sp": 150,
+     "bd": 150
+    },
+    {
+     "species": 362,
+     "sp": 150,
+     "bd": 150
+    }
+   ]
+  },
+  {
+   "bdsp_id": 10,
+   "key": "icycave",
+   "name": "Icy Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 4,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 122,
+     "name": "Mr. Mime",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 215,
+     "name": "Sneasel",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 459,
+     "name": "Snover",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 81,
+     "name": "Magnemite",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 120,
+     "name": "Staryu",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 170,
+     "name": "Chinchou",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 171,
+     "name": "Lanturn",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 220,
+     "name": "Swinub",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 225,
+     "name": "Delibird",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 238,
+     "name": "Smoochum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 261,
+     "name": "Poochyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 262,
+     "name": "Mightyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 304,
+     "name": "Aron",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 305,
+     "name": "Lairon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 333,
+     "name": "Swablu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 361,
+     "name": "Snorunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 362,
+     "name": "Glalie",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 363,
+     "name": "Spheal",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 364,
+     "name": "Sealeo",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 365,
+     "name": "Walrein",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 374,
+     "name": "Beldum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 86,
+     "name": "Seel",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 87,
+     "name": "Dewgong",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 81,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 220,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 238,
+     "sp": 150,
+     "bd": 150
+    },
+    {
+     "species": 333,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 361,
+     "sp": 150,
+     "bd": 150
+    },
+    {
+     "species": 362,
+     "sp": 150,
+     "bd": 150
+    }
+   ]
+  },
+  {
+   "bdsp_id": 11,
+   "key": "riverbankcave",
+   "name": "Riverbank Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 4,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 54,
+     "name": "Psyduck",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 265,
+     "name": "Wurmple",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 268,
+     "name": "Cascoon",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 401,
+     "name": "Kricketot",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 406,
+     "name": "Budew",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 418,
+     "name": "Buizel",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 453,
+     "name": "Croagunk",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 339,
+     "name": "Barboach",
+     "sp": 2,
+     "bd": 2,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 278,
+     "name": "Wingull",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 432,
+     "name": "Purugly",
+     "sp": 3,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 72,
+     "name": "Tentacool",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 73,
+     "name": "Tentacruel",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 279,
+     "name": "Pelipper",
+     "sp": 4,
+     "bd": 4,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 431,
+     "name": "Glameow",
+     "sp": 4,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 443,
+     "name": "Gible",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 224,
+     "name": "Octillery",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 340,
+     "name": "Whiscash",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 444,
+     "name": "Gabite",
+     "sp": 5,
+     "bd": 5,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 458,
+     "name": "Mantyke",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 7,
+     "name": "Squirtle",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 19,
+     "name": "Rattata",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 20,
+     "name": "Raticate",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 60,
+     "name": "Poliwag",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 61,
+     "name": "Poliwhirl",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 90,
+     "name": "Shellder",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 116,
+     "name": "Horsea",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 120,
+     "name": "Staryu",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 127,
+     "name": "Pinsir",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 152,
+     "name": "Chikorita",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 158,
+     "name": "Totodile",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 211,
+     "name": "Qwilfish",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 222,
+     "name": "Corsola",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 252,
+     "name": "Treecko",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 258,
+     "name": "Mudkip",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 270,
+     "name": "Lotad",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 271,
+     "name": "Lombre",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 283,
+     "name": "Surskit",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 290,
+     "name": "Nincada",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 318,
+     "name": "Carvanha",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 337,
+     "name": "Lunatone",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 341,
+     "name": "Corphish",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 342,
+     "name": "Crawdaunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 366,
+     "name": "Clamperl",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 387,
+     "name": "Turtwig",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 393,
+     "name": "Piplup",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 198,
+     "name": "Murkrow",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 266,
+     "name": "Silcoon",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 434,
+     "name": "Stunky",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 435,
+     "name": "Skuntank",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 123,
+     "name": "Scyther",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 273,
+     "name": "Seedot",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 274,
+     "name": "Nuzleaf",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 338,
+     "name": "Solrock",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 352,
+     "name": "Kecleon",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 108,
+     "sp": 700,
+     "bd": 700
+    },
+    {
+     "species": 123,
+     "sp": 0,
+     "bd": 300
+    },
+    {
+     "species": 127,
+     "sp": 300,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 12,
+   "key": "sandsearcave",
+   "name": "Sandsear Cave",
+   "spawns": [
+    5,
+    7
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 83,
+   "entries": [
+    {
+     "species": 95,
+     "name": "Onix",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 77,
+     "name": "Ponyta",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 449,
+     "name": "Hippopotas",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 4,
+     "name": "Charmander",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 27,
+     "name": "Sandshrew",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 28,
+     "name": "Sandslash",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 37,
+     "name": "Vulpix",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 111,
+     "name": "Rhyhorn",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 112,
+     "name": "Rhydon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 155,
+     "name": "Cyndaquil",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 218,
+     "name": "Slugma",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 219,
+     "name": "Magcargo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 229,
+     "name": "Houndoom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 240,
+     "name": "Magby",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 255,
+     "name": "Torchic",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 322,
+     "name": "Numel",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 323,
+     "name": "Camerupt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 324,
+     "name": "Torkoal",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 328,
+     "name": "Trapinch",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 390,
+     "name": "Chimchar",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 58,
+     "name": "Growlithe",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 111,
+     "sp": 400,
+     "bd": 500
+    },
+    {
+     "species": 229,
+     "sp": 400,
+     "bd": 500
+    },
+    {
+     "species": 240,
+     "sp": 200,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 13,
+   "key": "still-watercavern",
+   "name": "Still-Water Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 6,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 54,
+     "name": "Psyduck",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 265,
+     "name": "Wurmple",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 268,
+     "name": "Cascoon",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 401,
+     "name": "Kricketot",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 406,
+     "name": "Budew",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 418,
+     "name": "Buizel",
+     "sp": 1,
+     "bd": 1,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 453,
+     "name": "Croagunk",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 339,
+     "name": "Barboach",
+     "sp": 2,
+     "bd": 2,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 278,
+     "name": "Wingull",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 432,
+     "name": "Purugly",
+     "sp": 3,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 72,
+     "name": "Tentacool",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 73,
+     "name": "Tentacruel",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 279,
+     "name": "Pelipper",
+     "sp": 4,
+     "bd": 4,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 431,
+     "name": "Glameow",
+     "sp": 4,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 443,
+     "name": "Gible",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 224,
+     "name": "Octillery",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 340,
+     "name": "Whiscash",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 444,
+     "name": "Gabite",
+     "sp": 5,
+     "bd": 5,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 458,
+     "name": "Mantyke",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 7,
+     "name": "Squirtle",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 19,
+     "name": "Rattata",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 20,
+     "name": "Raticate",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 60,
+     "name": "Poliwag",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 61,
+     "name": "Poliwhirl",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 90,
+     "name": "Shellder",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 116,
+     "name": "Horsea",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 120,
+     "name": "Staryu",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 127,
+     "name": "Pinsir",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 152,
+     "name": "Chikorita",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 158,
+     "name": "Totodile",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 211,
+     "name": "Qwilfish",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 222,
+     "name": "Corsola",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 252,
+     "name": "Treecko",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 258,
+     "name": "Mudkip",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 270,
+     "name": "Lotad",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 271,
+     "name": "Lombre",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 283,
+     "name": "Surskit",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 290,
+     "name": "Nincada",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 318,
+     "name": "Carvanha",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 337,
+     "name": "Lunatone",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 341,
+     "name": "Corphish",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 342,
+     "name": "Crawdaunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 366,
+     "name": "Clamperl",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 387,
+     "name": "Turtwig",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 393,
+     "name": "Piplup",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 198,
+     "name": "Murkrow",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 266,
+     "name": "Silcoon",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 434,
+     "name": "Stunky",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 435,
+     "name": "Skuntank",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 123,
+     "name": "Scyther",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 273,
+     "name": "Seedot",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 274,
+     "name": "Nuzleaf",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 338,
+     "name": "Solrock",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 352,
+     "name": "Kecleon",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 108,
+     "sp": 700,
+     "bd": 700
+    },
+    {
+     "species": 123,
+     "sp": 0,
+     "bd": 300
+    },
+    {
+     "species": 127,
+     "sp": 300,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 14,
+   "key": "sunlitcavern",
+   "name": "Sunlit Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 41,
+     "name": "Zubat",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 66,
+     "name": "Machop",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 265,
+     "name": "Wurmple",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 268,
+     "name": "Cascoon",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 315,
+     "name": "Roselia",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 399,
+     "name": "Bidoof",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 401,
+     "name": "Kricketot",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 403,
+     "name": "Shinx",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 406,
+     "name": "Budew",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 415,
+     "name": "Combee",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 420,
+     "name": "Cherubi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 42,
+     "name": "Golbat",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 163,
+     "name": "Hoothoot",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 400,
+     "name": "Bibarel",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 67,
+     "name": "Machoke",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 432,
+     "name": "Purugly",
+     "sp": 3,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 446,
+     "name": "Munchlax",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 404,
+     "name": "Luxio",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 431,
+     "name": "Glameow",
+     "sp": 4,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 19,
+     "name": "Rattata",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 20,
+     "name": "Raticate",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 46,
+     "name": "Paras",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 56,
+     "name": "Mankey",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 57,
+     "name": "Primeape",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 60,
+     "name": "Poliwag",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 61,
+     "name": "Poliwhirl",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 83,
+     "name": "Farfetch'd",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 84,
+     "name": "Doduo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 127,
+     "name": "Pinsir",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 152,
+     "name": "Chikorita",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 168,
+     "name": "Ariados",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 179,
+     "name": "Mareep",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 180,
+     "name": "Flaaffy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 187,
+     "name": "Hoppip",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 188,
+     "name": "Skiploom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 191,
+     "name": "Sunkern",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 204,
+     "name": "Pineco",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 236,
+     "name": "Tyrogue",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 241,
+     "name": "Miltank",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 252,
+     "name": "Treecko",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 270,
+     "name": "Lotad",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 271,
+     "name": "Lombre",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 290,
+     "name": "Nincada",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 313,
+     "name": "Volbeat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 314,
+     "name": "Illumise",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 329,
+     "name": "Vibrava",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 357,
+     "name": "Tropius",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 359,
+     "name": "Absol",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 387,
+     "name": "Turtwig",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 198,
+     "name": "Murkrow",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 266,
+     "name": "Silcoon",
+     "sp": null,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 434,
+     "name": "Stunky",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 435,
+     "name": "Skuntank",
+     "sp": null,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 123,
+     "name": "Scyther",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 273,
+     "name": "Seedot",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 274,
+     "name": "Nuzleaf",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 352,
+     "name": "Kecleon",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 111,
+     "sp": 700,
+     "bd": 700
+    },
+    {
+     "species": 207,
+     "sp": 0,
+     "bd": 300
+    },
+    {
+     "species": 216,
+     "sp": 300,
+     "bd": 0
+    }
+   ]
+  },
+  {
+   "bdsp_id": 15,
+   "key": "bigbluffcavern",
+   "name": "Big Bluff Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 74,
+     "name": "Geodude",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 95,
+     "name": "Onix",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 75,
+     "name": "Graveler",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 449,
+     "name": "Hippopotas",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 27,
+     "name": "Sandshrew",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 28,
+     "name": "Sandslash",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 111,
+     "name": "Rhyhorn",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 112,
+     "name": "Rhydon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 213,
+     "name": "Shuckle",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 231,
+     "name": "Phanpy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 263,
+     "name": "Zigzagoon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 304,
+     "name": "Aron",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 305,
+     "name": "Lairon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 322,
+     "name": "Numel",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 323,
+     "name": "Camerupt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 328,
+     "name": "Trapinch",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 329,
+     "name": "Vibrava",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 343,
+     "name": "Baltoy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 374,
+     "name": "Beldum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 207,
+     "name": "Gligar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 246,
+     "name": "Larvitar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 247,
+     "name": "Pupitar",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 123,
+     "sp": 0,
+     "bd": 800
+    },
+    {
+     "species": 127,
+     "sp": 800,
+     "bd": 0
+    },
+    {
+     "species": 359,
+     "sp": 200,
+     "bd": 200
+    }
+   ]
+  },
+  {
+   "bdsp_id": 16,
+   "key": "stargleamcavern",
+   "name": "Stargleam Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 92,
+     "name": "Gastly",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 200,
+     "name": "Misdreavus",
+     "sp": 1,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 307,
+     "name": "Meditite",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 433,
+     "name": "Chingling",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 64,
+     "name": "Kadabra",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 203,
+     "name": "Girafarig",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 122,
+     "name": "Mr. Mime",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 79,
+     "name": "Slowpoke",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 88,
+     "name": "Grimer",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 96,
+     "name": "Drowzee",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 98,
+     "name": "Krabby",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 100,
+     "name": "Voltorb",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 104,
+     "name": "Cubone",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 132,
+     "name": "Ditto",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 175,
+     "name": "Togepi",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 177,
+     "name": "Natu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 202,
+     "name": "Wobbuffet",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 209,
+     "name": "Snubbull",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 229,
+     "name": "Houndoom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 238,
+     "name": "Smoochum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 261,
+     "name": "Poochyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 262,
+     "name": "Mightyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 280,
+     "name": "Ralts",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 281,
+     "name": "Kirlia",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 302,
+     "name": "Sableye",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 313,
+     "name": "Volbeat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 314,
+     "name": "Illumise",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 337,
+     "name": "Lunatone",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 343,
+     "name": "Baltoy",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 354,
+     "name": "Banette",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 355,
+     "name": "Duskull",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 356,
+     "name": "Dusclops",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 359,
+     "name": "Absol",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 371,
+     "name": "Bagon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 372,
+     "name": "Shelgon",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 239,
+     "name": "Elekid",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 303,
+     "name": "Mawile",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 338,
+     "name": "Solrock",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 175,
+     "sp": 50,
+     "bd": 50
+    },
+    {
+     "species": 229,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 238,
+     "sp": 150,
+     "bd": 150
+    },
+    {
+     "species": 239,
+     "sp": 0,
+     "bd": 150
+    },
+    {
+     "species": 280,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 355,
+     "sp": 250,
+     "bd": 200
+    },
+    {
+     "species": 359,
+     "sp": 50,
+     "bd": 50
+    }
+   ]
+  },
+  {
+   "bdsp_id": 17,
+   "key": "glacialcavern",
+   "name": "Glacial Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 5,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 427,
+     "name": "Buneary",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 436,
+     "name": "Bronzor",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 122,
+     "name": "Mr. Mime",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 215,
+     "name": "Sneasel",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 459,
+     "name": "Snover",
+     "sp": 4,
+     "bd": 4,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 81,
+     "name": "Magnemite",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 120,
+     "name": "Staryu",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 128,
+     "name": "Tauros",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 170,
+     "name": "Chinchou",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 171,
+     "name": "Lanturn",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 216,
+     "name": "Teddiursa",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 220,
+     "name": "Swinub",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 225,
+     "name": "Delibird",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 238,
+     "name": "Smoochum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 261,
+     "name": "Poochyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 262,
+     "name": "Mightyena",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 304,
+     "name": "Aron",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 305,
+     "name": "Lairon",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 333,
+     "name": "Swablu",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 361,
+     "name": "Snorunt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 362,
+     "name": "Glalie",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 363,
+     "name": "Spheal",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 364,
+     "name": "Sealeo",
+     "sp": 6,
+     "bd": null,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 365,
+     "name": "Walrein",
+     "sp": 6,
+     "bd": 6,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 374,
+     "name": "Beldum",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 86,
+     "name": "Seel",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 87,
+     "name": "Dewgong",
+     "sp": null,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 81,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 216,
+     "sp": 100,
+     "bd": 0
+    },
+    {
+     "species": 220,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 238,
+     "sp": 100,
+     "bd": 100
+    },
+    {
+     "species": 239,
+     "sp": 0,
+     "bd": 100
+    },
+    {
+     "species": 333,
+     "sp": 200,
+     "bd": 200
+    },
+    {
+     "species": 361,
+     "sp": 100,
+     "bd": 100
+    },
+    {
+     "species": 362,
+     "sp": 100,
+     "bd": 100
+    }
+   ]
+  },
+  {
+   "bdsp_id": 18,
+   "key": "bogsunkcavern",
+   "name": "Bogsunk Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 5,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 41,
+     "name": "Zubat",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 315,
+     "name": "Roselia",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 453,
+     "name": "Croagunk",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 42,
+     "name": "Golbat",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 339,
+     "name": "Barboach",
+     "sp": 2,
+     "bd": 2,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 194,
+     "name": "Wooper",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 195,
+     "name": "Quagsire",
+     "sp": 3,
+     "bd": 3,
+     "where": 3,
+     "weight": 1
+    },
+    {
+     "species": 72,
+     "name": "Tentacool",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 73,
+     "name": "Tentacruel",
+     "sp": 4,
+     "bd": 4,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 340,
+     "name": "Whiscash",
+     "sp": 5,
+     "bd": 5,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 1,
+     "name": "Bulbasaur",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 13,
+     "name": "Weedle",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 29,
+     "name": "Nidoran♀",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 30,
+     "name": "Nidorina",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 32,
+     "name": "Nidoran♂",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 33,
+     "name": "Nidorino",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 43,
+     "name": "Oddish",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 44,
+     "name": "Gloom",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 46,
+     "name": "Paras",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 48,
+     "name": "Venonat",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 49,
+     "name": "Venomoth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 69,
+     "name": "Bellsprout",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 70,
+     "name": "Weepinbell",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 88,
+     "name": "Grimer",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 110,
+     "name": "Weezing",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 114,
+     "name": "Tangela",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 166,
+     "name": "Ledian",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 168,
+     "name": "Ariados",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 204,
+     "name": "Pineco",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 211,
+     "name": "Qwilfish",
+     "sp": 6,
+     "bd": 6,
+     "where": 2,
+     "weight": 1
+    },
+    {
+     "species": 331,
+     "name": "Cacnea",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 332,
+     "name": "Cacturne",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 336,
+     "name": "Seviper",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 357,
+     "name": "Tropius",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 465,
+     "name": "Tangrowth",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 10,
+     "name": "Caterpie",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 23,
+     "name": "Ekans",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 335,
+     "name": "Zangoose",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 108,
+     "sp": 500,
+     "bd": 400
+    },
+    {
+     "species": 207,
+     "sp": 0,
+     "bd": 200
+    },
+    {
+     "species": 220,
+     "sp": 500,
+     "bd": 400
+    }
+   ]
+  },
+  {
+   "bdsp_id": 19,
+   "key": "typhlocavern",
+   "name": "Typhlo Cavern",
+   "spawns": [
+    7,
+    10
+   ],
+   "water_spawns": 0,
+   "rare_per_mille": 59,
+   "entries": [
+    {
+     "species": 74,
+     "name": "Geodude",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 95,
+     "name": "Onix",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 451,
+     "name": "Skorupi",
+     "sp": 1,
+     "bd": 1,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 77,
+     "name": "Ponyta",
+     "sp": 2,
+     "bd": 2,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 75,
+     "name": "Graveler",
+     "sp": 3,
+     "bd": 3,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 4,
+     "name": "Charmander",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 37,
+     "name": "Vulpix",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 155,
+     "name": "Cyndaquil",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 161,
+     "name": "Sentret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 162,
+     "name": "Furret",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 218,
+     "name": "Slugma",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 219,
+     "name": "Magcargo",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 240,
+     "name": "Magby",
+     "sp": 6,
+     "bd": null,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 255,
+     "name": "Torchic",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 322,
+     "name": "Numel",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 323,
+     "name": "Camerupt",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 324,
+     "name": "Torkoal",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 390,
+     "name": "Chimchar",
+     "sp": 6,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    },
+    {
+     "species": 58,
+     "name": "Growlithe",
+     "sp": null,
+     "bd": 6,
+     "where": 1,
+     "weight": 1
+    }
+   ],
+   "rare": [
+    {
+     "species": 111,
+     "sp": 400,
+     "bd": 500
+    },
+    {
+     "species": 229,
+     "sp": 400,
+     "bd": 500
+    },
+    {
+     "species": 240,
+     "sp": 200,
+     "bd": 0
+    }
+   ]
+  }
+ ],
+ "report": [
+  "Spacious Cave sp stage 6: Serebii only ['Magnemite', 'Rhydon', 'Swablu'], Bulbapedia only []",
+  "Spacious Cave bd stage 6: Serebii only ['Magnemite', 'Rhydon', 'Swablu'], Bulbapedia only []",
+  "Whiteout Cave bd rare #362: Kaphotics weight 150 = 14.3%, Serebii 10%",
+  "Icy Cave sp rare #362: Kaphotics weight 150 = 14.3%, Serebii 10%",
+  "Icy Cave bd rare #362: Kaphotics weight 150 = 14.3%, Serebii 10%",
+  "Stargleam Cavern sp rare #355: Kaphotics weight 250 = 25.0%, Serebii 5%"
+ ]
+}

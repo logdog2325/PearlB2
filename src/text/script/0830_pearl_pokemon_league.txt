@@ -1,0 +1,3 @@
+PearlPokemonLeague_Text_000 = Pokémon League\nThe Pinnacle of Trainerdom!
+PearlPokemonLeague_Text_001 = Pokémon League Ahead
+PearlPokemonLeague_Text_002 = Victory Road Ahead

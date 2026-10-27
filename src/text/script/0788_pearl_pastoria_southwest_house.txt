@@ -1,0 +1,15 @@
+PearlPastoriaSouthwestHouse_Text_000 = I’ve been hiking all around the\nSinnoh region.{be01}\nI love planting Berries wherever\nI go.{be01}\nI’ll give you a Berry, too.\nPlease plant it somewhere.{be01}
+PearlPastoriaSouthwestHouse_Text_001 = Planting Berries is good for\nPokémon.{be01}\nIt provides them with more things\nto eat in the wild.
+PearlPastoriaSouthwestHouse_Text_002 = My sister gathers Berries every day!\nPlease come visit again!{be01}\nWe cook the Berries, too!\nWe mix them up! They’re yummy!
+PearlPastoriaSouthwestHouse_Text_003 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlPastoriaSouthwestHouse_Text_004 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlPastoriaSouthwestHouse_Text_005 = Obtained the {0109:0}!
+PearlPastoriaSouthwestHouse_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlPastoriaSouthwestHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlPastoriaSouthwestHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlPastoriaSouthwestHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlPastoriaSouthwestHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlPastoriaSouthwestHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlPastoriaSouthwestHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlPastoriaSouthwestHouse_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlPastoriaSouthwestHouse_Text_014 = Too bad!\nThe Bag is full...

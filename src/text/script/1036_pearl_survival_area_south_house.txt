@@ -1,0 +1,14 @@
+PearlSurvivalAreaSouthHouse_Text_000 = There’s a move that doubles in power\nif the Pokémon using it is poisoned,{be00}\nparalyzed, or burned.{be01}\nI’ve got the Technical Machine for\nit right here. You want it?{be01}
+PearlSurvivalAreaSouthHouse_Text_001 = Facade’s a good move for your\nPokémon to have.{be01}\nIt makes it tough for the opponent\nto use status-affecting moves.
+PearlSurvivalAreaSouthHouse_Text_002 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlSurvivalAreaSouthHouse_Text_003 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlSurvivalAreaSouthHouse_Text_004 = Obtained the {0109:0}!
+PearlSurvivalAreaSouthHouse_Text_005 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlSurvivalAreaSouthHouse_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlSurvivalAreaSouthHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlSurvivalAreaSouthHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlSurvivalAreaSouthHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlSurvivalAreaSouthHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlSurvivalAreaSouthHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlSurvivalAreaSouthHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlSurvivalAreaSouthHouse_Text_013 = Too bad!\nThe Bag is full...

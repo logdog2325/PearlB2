@@ -1,0 +1,4 @@
+PearlHearthomeNortheastHouse2f_Text_000 = All my grandchildren are clamoring\nfor Pokémon of their own.{be01}\nIt may be tricky to manage it, but\nit will brighten up the mood more.
+PearlHearthomeNortheastHouse2f_Text_001 = Oh, no, there are no stairs in\nthis house. It’s easier that way.{be01}\nThe lack of stairs makes it easy for\nthe little Pokémon to get about.
+PearlHearthomeNortheastHouse2f_Text_002 = A world in which people are\ncompassionate to others...{be01}\nThat’s all that matters to me.
+PearlHearthomeNortheastHouse2f_Text_003 = Hearthome is a kid-friendly city,\nthey say, but I disagree.{be01}\nHearthome is friendly to kids,\ngrown-ups, and Pokémon too.

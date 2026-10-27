@@ -1,0 +1,2204 @@
+{
+ "_doc": "Pearl overworld texture -> Black 2 texture proposal (texture_map agent, 2026-10-18). Top-level keys: the 189 texture names of Pearl's 175 overworld chunks (work/pearl/overworld_textures.json). b2_set = a/0/1/4 index the texture is read from (summer set of its Black 2 area; season_sets = the four sets spring..winter when seasonal). size_match compares width x height. composite = parts to flatten/repaint into a new texture at the Pearl size (atlases, opaque tiles whose Black 2 art is a cut-out decal). 'derive' in a note = rotate/crop the Black 2 art into Pearl's edge/corner layout. north = area 14 (Routes 216-217, Acuity Lakefront, Snowpoint), Icirrus winter set 45 in all four seasons. keep_pearl = textures with no sensible Black 2 counterpart. Sheets: work/texture_map/.",
+ "ngrass": {
+  "b2": "grass01ax",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "64x64",
+  "note": "base grass; 16->64: keep the texel UVs and the tile shows a quarter, so it repeats every 4 tiles exactly as Black 2 draws grass",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "tshadow": {
+  "b2": "grass01ax",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "64x64",
+  "note": "ground under trees (opaque); make a 32x32 composite per season: grass01ax quarter + ki02c shadow (B2 draws ki02c as a decal over grass)",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "ki02c"
+  ]
+ },
+ "criffp": {
+  "b2": "gake_michi",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "64x64",
+  "note": "main cliff/mountain rock, on faces and tops; non-directional rock. Alt: split by normal, yamagake01 (16x32) on faces"
+ },
+ "criff": {
+  "b2": "gake_futa",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "flat rock tops / mountain floor"
+ },
+ "imped": {
+  "b2": "iwa01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "16x32",
+  "note": "ATLAS (fence, boulder, bush, pebbles): repaint the 64x64 atlas in place with saku01a / iwa01 / plant01 pieces, UVs unchanged",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "saku01a",
+   "iwa01",
+   "plant01"
+  ]
+ },
+ "tree2_01": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS of round tree canopies + stump: repaint in place with ki03bx/ki03dx canopy and ki02c shadow (or rebuild trees as B2 cards, HoennB2 GEN5_TERRAIN)",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03dx",
+   "ki02c"
+  ]
+ },
+ "newstep": {
+  "b2": "kaidan01a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x16",
+  "note": "stairs (vertical risers + treads)"
+ },
+ "seaside3": {
+  "b2": "sea_gake01",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "rock bank at the water line (sea cliffs, river banks); both cut-out"
+ },
+ "conttree2_b": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS, as conttree_b",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03ax"
+  ]
+ },
+ "conttree2_t": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS, as conttree_t",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03dx"
+  ]
+ },
+ "sea": {
+  "b2": "sea_mizu1",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "sea and river water; 16->32"
+ },
+ "nectgr": {
+  "b2": "kusa_ec1",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "tall grass (0x02). B2 leaves are cut-out layers over ground; Pearl tile is opaque: flatten grass01ax + kusa_ec3/2/1 into one 16x16 per season",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "kusa_ec3",
+   "kusa_ec2",
+   "kusa_ec1"
+  ]
+ },
+ "nhana": {
+  "b2": "hana01.1",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "flowers on grass (opaque in Pearl): composite hana01.1 over grass01ax",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "hana01.1"
+  ]
+ },
+ "searock": {
+  "b2": "iwa01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x32",
+  "note": "boulder in the sea; 32x32 -> 16x32 (B2 rock art is taller than wide)"
+ },
+ "wcliff": {
+  "b2": "yamasaba01",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "brown mountain dirt floor (0x0C)"
+ },
+ "tree01": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS, south trees: same treatment as tree2_01",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03dx",
+   "ki02c"
+  ]
+ },
+ "nsandp": {
+  "b2": "michi01a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x16",
+  "note": "sand path edge with grass fringe; B2 edge is a 32x16 strip (fringe on one side), Pearl 32x32 has fringe on 1-2 sides: derive 32x32 corner/edge variants from michi01a",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "conttree_t": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS, forest interior canopies: repaint with ki03bx/ki03dx",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03dx"
+  ]
+ },
+ "conttree_b": {
+  "b2": "ki03bx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "ATLAS, forest edge (bottom row with trunks): repaint with ki03bx + ki03ax trunks",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "ki03bx",
+   "ki03ax"
+  ]
+ },
+ "nsand": {
+  "b2": "michi01b",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "sand path middle [Pearl cut-out, B2 opaque]",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "plant2": {
+  "b2": "t02_ki_sita",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "berry soil (0xA0): Accumula tree pit, soil in a stone frame (HoennB2 berry_soil); Pearl corners are cut-out, B2 is opaque [Pearl cut-out, B2 opaque]"
+ },
+ "lgreenp": {
+  "b2": "michi03a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x16",
+  "note": "light lawn edge with fringe; 32x32 -> 32x16, derive as nsandp",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "allpeak": {
+  "b2": "dansa01a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "jump ledges (0x38-0x3B); 32x32 -> 16x16; B2 ledge has no cut-out (A3I5 alpha); Pearl ledge shape may need geometry for the B2 lip (HoennB2 GEN5_TERRAIN)"
+ },
+ "shadowchip": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "flat dark shade on bridge sides/undersides (0x70-0x7A): plain colour, nothing to re-skin"
+ },
+ "puddle_b": {
+  "b2": "mizutama01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "puddle edge; 16->32; B2 puddle is A5I3 translucent [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "lgreen": {
+  "b2": "michi03b",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "light lawn middle",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "bridge": {
+  "b2": "hashi01a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "64x64",
+  "b2_size": "32x16",
+  "note": "plank bridge over water; 64x64 -> 32x16 (B2 planks run across u 0.34-0.97)"
+ },
+ "blueglayp": {
+  "b2": "michi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x16",
+  "note": "grey gravel ground edge with fringe; 32x32 -> 32x16"
+ },
+ "beach": {
+  "b2": "sea_jimen",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "beach sand (0x21)"
+ },
+ "blueglay": {
+  "b2": "michi02b",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "grey gravel ground"
+ },
+ "lakep.1": {
+  "b2": "ike01",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "pond surface (Pearl A3I5 translucent; B2 ike01 drawn at alpha 12/31 by the material) [Pearl cut-out, B2 opaque]",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "lake": {
+  "b2": "ike01",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "pond water (0x10) [Pearl cut-out, B2 opaque]",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "puddlep": {
+  "b2": "mizutama01",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "puddle (0x16)",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "dhole": {
+  "b2": "doukutu01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "64x64",
+  "b2_size": "32x32",
+  "note": "cave mouth, cut-out; 64x64 -> 32x32"
+ },
+ "hanger": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Rock Climb wall (0x4B/0x4C): Black 2 has no Rock Climb and no art for it"
+ },
+ "puddle": {
+  "b2": "mizutama01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "puddle middle; 16->32",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "ckado": {
+  "b2": "54miti",
+  "b2_set": 215,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "brown dirt path with grass rim (mountain paths): Floccesy dirt path"
+ },
+ "hamabe": {
+  "b2": "sea_zanami2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "shore: sand + surf + sea in one opaque tile; B2 layers sea_jimen, sea_zanami2 (cut-out surf) and sea_mizu1: composite into 32x32",
+  "composite": [
+   "sea_jimen",
+   "sea_mizu1",
+   "sea_zanami2"
+  ]
+ },
+ "beachp": {
+  "b2": "sea_grass",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "16x8",
+  "note": "beach sand meeting grass; 32x32 -> 16x8 (B2 grass-to-beach strip); derive",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "enccliff": {
+  "b2": "kusa_ec1",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "tall grass on raised ground, same art as nectgr",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "kusa_ec3",
+   "kusa_ec2",
+   "kusa_ec1"
+  ]
+ },
+ "t3_fl_g": {
+  "b2": "grass01ax",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "64x64",
+  "note": "Floaroma flower-field ground; 16->64",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "t3_fl_y.1": {
+  "b2": "54hana",
+  "b2_set": 215,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Floaroma yellow flowers (cut-out)",
+  "season_sets": [
+   214,
+   215,
+   216,
+   217
+  ]
+ },
+ "t3_fl_r.1": {
+  "b2": "out02_fl03",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Floaroma red flowers (cut-out)"
+ },
+ "t3_fl_b.1": {
+  "b2": "out02_fl01",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Floaroma blue flowers (cut-out)"
+ },
+ "t3_fl_p.1": {
+  "b2": "kisetu_hana",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "Floaroma pink flowers -> B2 seasonal flowers; 16->32",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "fenter": {
+  "b2": "mori01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "dark grass funnel at warp tiles (0x6E, forest/gate entrances): B2 forest floor",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "nbridge": {
+  "b2": "hashi01a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x16",
+  "note": "narrow bike bridge planks (0x76-0x7C); 32x32 -> 32x16"
+ },
+ "asasea": {
+  "b2": "sea_asase02",
+  "b2_set": 71,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "shallow sea (0x15/0x17): Undella/Humilau shallows, same 16x16"
+ },
+ "shana": {
+  "b2": "kisetu_hana",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "white flower patch: B2 seasonal flowers (pink/white), composite over grass01ax; 16->32",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "kisetu_hana"
+  ]
+ },
+ "c1_r1": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Jubilife asphalt -> Castelia dark paving"
+ },
+ "c1_r1_lr": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "asphalt with white kerb lines: derive (B2 has no lined road texture of this layout)"
+ },
+ "c1_r1_k1": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "road corner: derive"
+ },
+ "c1_r1_ud": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "as c1_r1_lr"
+ },
+ "h_kage": {
+  "b2": "h_kage",
+  "b2_set": 127,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "building shadow: B2 16x16 shadow (A5I3 translucent, League set) instead of opaque black [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "c1_r1_k2": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "road corner: derive"
+ },
+ "l_grass_d": {
+  "b2": "nagakusa01a",
+  "b2_set": 39,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "very tall grass, bottom edge",
+  "season_sets": [
+   38,
+   39,
+   40,
+   41
+  ]
+ },
+ "cyclestop": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Cycling Road barrier post (0xDB): no Black 2 counterpart"
+ },
+ "l_grass_u": {
+  "b2": "nagakusa01b",
+  "b2_set": 39,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "very tall grass (0x03), top fringe: Route 7 nagakusa (B2 cut-out, Pearl opaque: composite over nagakusa01a)",
+  "season_sets": [
+   38,
+   39,
+   40,
+   41
+  ],
+  "composite": [
+   "nagakusa01a",
+   "nagakusa01b"
+  ]
+ },
+ "l_grass_m": {
+  "b2": "nagakusa01a",
+  "b2_set": 39,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "very tall grass (0x03), body",
+  "season_sets": [
+   38,
+   39,
+   40,
+   41
+  ]
+ },
+ "c1_f_l": {
+  "b2": "c8_fence_b2",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "blue metal railing (cut-out) -> Opelucid railing"
+ },
+ "c1_f_k1": {
+  "b2": "c8_fence_b2",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "railing corner; 32->16"
+ },
+ "c1_d_2": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "pavement side faces"
+ },
+ "c1_d_4": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "8x8",
+  "b2_size": "16x16",
+  "note": "pavement top; 8->16"
+ },
+ "c1_f_ud": {
+  "b2": "c8_fence_b2",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "railing"
+ },
+ "c1_d_1": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "pavement / kerb side faces (vertical)"
+ },
+ "c1_d_3": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "pavement side faces"
+ },
+ "c1_g1": {
+  "b2": "out07_yuka03",
+  "b2_set": 27,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "round plaza disc -> Nimbasa round plaza tile [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "r206_cy4b": {
+  "b2": "hway02",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x64",
+  "note": "deck side (vertical)"
+ },
+ "r206_cy6": {
+  "b2": "hway01",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "64x8",
+  "note": "lane marking (cut-out): no B2 equivalent, nearest highway strip [Pearl cut-out, B2 opaque]"
+ },
+ "r206_cy2b": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_cy5c": {
+  "b2": "hway01",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "8x8",
+  "b2_size": "64x8",
+  "note": "edge strip"
+ },
+ "r206_cy2": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_pol1": {
+  "b2": "hway03",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x64",
+  "note": "pillar"
+ },
+ "r206_cy5b": {
+  "b2": "hway02",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "8x8",
+  "b2_size": "32x64",
+  "note": "side face (vertical)"
+ },
+ "g1_treeb": {
+  "b2": "ki03dx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x32",
+  "b2_size": "32x32",
+  "note": "small shrub with trunk (cut-out); 16x32 -> 32x32",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "g1_treea": {
+  "b2": "ki03dx",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "16x32",
+  "b2_size": "32x32",
+  "note": "small round shrub (cut-out); 16x32 -> 32x32",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "c5_base_b": {
+  "b2": "c01michi_d",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "brick paving"
+ },
+ "c5_base_a": {
+  "b2": "c01michi_c",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "herringbone brick -> Striaton brick paving"
+ },
+ "c5_light": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Hearthome's lamp lights (vertical, 1,120 faces)"
+ },
+ "c07_road_r": {
+  "b2": "out9_michi",
+  "b2_set": 35,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "road edge"
+ },
+ "c07_road_l": {
+  "b2": "out9_michi",
+  "b2_set": 35,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "road edge"
+ },
+ "c07_base_d": {
+  "b2": "out9_iyuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "plaza edge"
+ },
+ "c07_road_u": {
+  "b2": "out9_michi",
+  "b2_set": 35,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "road edge; 16->32x16, derive orientations"
+ },
+ "c07_road_k": {
+  "b2": "out9_michi6",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "road corner"
+ },
+ "c07_base_k2": {
+  "b2": "out9_yuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "plaza corner"
+ },
+ "c07_base_r": {
+  "b2": "out9_iyuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "plaza edge"
+ },
+ "c07_base": {
+  "b2": "c3_road1",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "64x64",
+  "b2_size": "64x64",
+  "note": "plaza tiles -> Castelia grey tiles (same 64x64)"
+ },
+ "c07_base_l": {
+  "b2": "out9_iyuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "plaza edge"
+ },
+ "c07_road": {
+  "b2": "out9_michi2",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Veilstone road -> Driftveil road"
+ },
+ "c07_base_u": {
+  "b2": "out9_iyuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "plaza edge with grass: derive"
+ },
+ "a8_sora_e": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_b_": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_a": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_g": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_i": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_b": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_f": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_h": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "a8_sora_c": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "l02_road_l": {
+  "b2": "c8_michi03w",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "l02_road_d": {
+  "b2": "c8_michi03w",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "l02_road_k": {
+  "b2": "c8_michi01w",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner"
+ },
+ "l02_road_u": {
+  "b2": "c8_michi03w",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge; 16->32x16, derive"
+ },
+ "hage": {
+  "b2": "michi_hage",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "bare patch in grass; B2 version is a cut-out decal, Pearl opaque: composite over grass01ax",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "composite": [
+   "grass01ax",
+   "michi_hage"
+  ]
+ },
+ "c1_f_k2": {
+  "b2": "c8_fence_b2",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "railing corner; 32->16"
+ },
+ "c1_o02b": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Jubilife landmark detail"
+ },
+ "c1_o02": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Jubilife landmark detail (TV/plaza structure)"
+ },
+ "c3_grand": {
+  "b2": "sabaku_el",
+  "b2_set": 251,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "mining-town dirt ground -> Route 4 sand"
+ },
+ "c3_iwa_s": {
+  "b2": "as_ishi",
+  "b2_set": 11,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "scattered rocks decal (cut-out)"
+ },
+ "r206_pol2": {
+  "b2": "hway03",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x64",
+  "note": "pillar"
+ },
+ "c2_rale_a": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Canalave drawbridge rails (also in Snowpoint's harbour area set)"
+ },
+ "c2_rale_b": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Canalave drawbridge rails"
+ },
+ "c07_road_k2": {
+  "b2": "out9_michi6",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "road corner"
+ },
+ "c07_base_k": {
+  "b2": "out9_yuka1",
+  "b2_set": 35,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "plaza corner"
+ },
+ "c07_road_d": {
+  "b2": "out9_michi",
+  "b2_set": 35,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "road edge"
+ },
+ "area07_hei_e": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "wall top"
+ },
+ "area07_hei_f": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "wall face"
+ },
+ "a8_sora_d": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Sunyshore's raised solar-panel walkways (landmark)"
+ },
+ "l02_road_k2": {
+  "b2": "c8_michi01w",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner"
+ },
+ "l02_road_r": {
+  "b2": "c8_michi03w",
+  "b2_set": 51,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "l02_road": {
+  "b2": "c8_michi02w",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "League stone path -> Opelucid stone"
+ },
+ "c1_f_r": {
+  "b2": "c8_fence_b2",
+  "b2_set": 51,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "railing"
+ },
+ "c1_r1_s1": {
+  "b2": "c3_road2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "dark road square"
+ },
+ "c3_road_ko": {
+  "b2": "out63_michi3",
+  "b2_set": 251,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "sandy path piece -> Route 4 path"
+ },
+ "c3_road_t": {
+  "b2": "out63_michi3",
+  "b2_set": 251,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "sandy path piece"
+ },
+ "c3_road_ki": {
+  "b2": "out63_michi3",
+  "b2_set": 251,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "sandy path piece"
+ },
+ "c3_iwa_l": {
+  "b2": "as_ishi",
+  "b2_set": 11,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "scattered rocks decal (cut-out)"
+ },
+ "rhana": {
+  "b2": "out02_fl03",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": true,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "red flowers: Striaton red flower bush, composite over grass01ax",
+  "season_sets": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "composite": [
+   "grass01ax",
+   "out02_fl03"
+  ]
+ },
+ "c4_road_k2": {
+  "b2": "t02michi_a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "path corner"
+ },
+ "c4_road_l": {
+  "b2": "t02michi_a2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "path edge"
+ },
+ "c4_road_d": {
+  "b2": "t02michi_a2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "path edge"
+ },
+ "c4_road_k": {
+  "b2": "t02michi_a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "path corner"
+ },
+ "c4_road_r": {
+  "b2": "t02michi_a2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "path edge"
+ },
+ "c4_road": {
+  "b2": "t02michi_c",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Eterna stone path -> Accumula paving"
+ },
+ "c4_road_u": {
+  "b2": "t02michi_a2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "path edge; 16->32x16, derive orientations"
+ },
+ "c02_base": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "square paving"
+ },
+ "c02_road_k2": {
+  "b2": "c3bay_yuka1",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "paving corner"
+ },
+ "c02_road_k": {
+  "b2": "c3bay_yuka1",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "paving corner"
+ },
+ "c02_road_r": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "paving edge: derive"
+ },
+ "c02_base_k": {
+  "b2": "c3bay_yuka1",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner"
+ },
+ "c2_light_a": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Canalave canal-wall lights"
+ },
+ "c02_road_d": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "paving edge: derive"
+ },
+ "c2_light_b": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Canalave canal walls (teal)"
+ },
+ "c02_road": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "Canalave paving -> Castelia waterfront paving"
+ },
+ "c02_base_l": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "edge: derive"
+ },
+ "c02_road_u": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "paving edge: derive"
+ },
+ "c02_base_d": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "edge: derive"
+ },
+ "c02_road_l": {
+  "b2": "c3bay_yuka1_2",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "paving edge: derive"
+ },
+ "c02_base_r": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "edge: derive"
+ },
+ "c5_base_u": {
+  "b2": "c01michi_c",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "brick edge with grass: derive"
+ },
+ "c5_base_l": {
+  "b2": "c01michi_c",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "brick edge: derive"
+ },
+ "c5_base_r": {
+  "b2": "c01michi_c",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "brick edge: derive"
+ },
+ "c5_base_d": {
+  "b2": "c01michi_c",
+  "b2_set": 7,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "brick edge: derive"
+ },
+ "area07_hei_c": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x32",
+  "b2_size": "32x32",
+  "note": "wall"
+ },
+ "area07_hei_a": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "Pastoria cream wall -> Aspertia wall"
+ },
+ "area07_hei_b": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x8",
+  "b2_size": "32x32",
+  "note": "wall"
+ },
+ "area07_hei_g": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x32",
+  "note": "wall"
+ },
+ "area07_hei_d": {
+  "b2": "C12_kabe01",
+  "b2_set": 211,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "8x8",
+  "b2_size": "32x32",
+  "note": "wall"
+ },
+ "numa_c": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Great Marsh mud"
+ },
+ "numa_e": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Great Marsh mud"
+ },
+ "numa_b": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Great Marsh mud"
+ },
+ "numa_d": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Great Marsh mud"
+ },
+ "numa_a": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Great Marsh mud: Black 2's only marsh (Moor of Icirrus sp_marsh2) is dark water, wrong look"
+ },
+ "c08_road_u": {
+  "b2": "out18_tile05",
+  "b2_set": 71,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "Sunyshore stone -> Undella seaside tiles; edge 16->32x16, derive"
+ },
+ "c08_road_d": {
+  "b2": "out18_tile05",
+  "b2_set": 71,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "c08_road_l": {
+  "b2": "out18_tile05",
+  "b2_set": 71,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "c08_road_r": {
+  "b2": "out18_tile05",
+  "b2_set": 71,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "edge"
+ },
+ "c08_road_k": {
+  "b2": "C12_tile",
+  "b2_set": 211,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner -> Aspertia 32x32 tile"
+ },
+ "c08_road_k2": {
+  "b2": "C12_tile",
+  "b2_set": 211,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner"
+ },
+ "c3_slope2": {
+  "b2": "gake01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "dirt slope [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "c3_slope3": {
+  "b2": "gake01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "dirt slope [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "c3_slope1": {
+  "b2": "gake01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "dirt slope [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "r206_cy4": {
+  "b2": "hway02",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x64",
+  "note": "deck side (vertical) -> Route 4 highway side"
+ },
+ "r206_cy3": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_cy1": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "Cycling Road deck: B2 concrete bridge deck; derive (lane markings)"
+ },
+ "r206_cy3c": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_cy1b": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_cy3b": {
+  "b2": "hashi02a",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "32x16",
+  "note": "deck"
+ },
+ "r206_cy5": {
+  "b2": "hway01",
+  "b2_set": 251,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "8x8",
+  "b2_size": "64x8",
+  "note": "deck edge strip"
+ },
+ "c02_base_u": {
+  "b2": "c3bay_yuka3",
+  "b2_set": 19,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "square paving edge: derive"
+ },
+ "c02_base_k2": {
+  "b2": "c3bay_yuka1",
+  "b2_set": 187,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "32x32",
+  "note": "corner"
+ },
+ "c07_base_x2": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Veilstone plaza light"
+ },
+ "c07_base_x": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Veilstone plaza light"
+ },
+ "c07_meteo": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "Veilstone's meteorites"
+ },
+ "a11_slope1": {
+  "b2": "gake01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "banded slope face [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "a11_cllifp": {
+  "b2": "yamagrs01",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": true,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "grassy slope with flowers (Route 224/League area); 32->16",
+  "season_sets": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "a11_slope2": {
+  "b2": "gake01a",
+  "b2_set": 3,
+  "size_match": true,
+  "seasonal": false,
+  "pearl_size": "16x16",
+  "b2_size": "16x16",
+  "note": "banded slope face [B2 cut-out/translucent, Pearl opaque: needs ground under or a composite]"
+ },
+ "asahamabe": {
+  "b2": "sea_zanami2",
+  "b2_set": 3,
+  "size_match": false,
+  "seasonal": false,
+  "pearl_size": "32x32",
+  "b2_size": "16x16",
+  "note": "shallow-water shore (0x17): composite as hamabe",
+  "composite": [
+   "sea_jimen",
+   "sea_asase02",
+   "sea_zanami2"
+  ]
+ },
+ "dun_jump": {
+  "b2": null,
+  "b2_set": null,
+  "size_match": null,
+  "seasonal": false,
+  "keep_pearl": true,
+  "note": "bike jump ramp (0xD8, Route 227/228 area): no Black 2 counterpart"
+ },
+ "north": {
+  "ngrass": {
+   "b2": "w_out11_yuka",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "64x64",
+   "note": "snow ground (Icirrus winter, 64x64 opaque); alt grass01ax_y (set 45, cut-out) (winter all year: same texture in all four records)"
+  },
+  "tshadow": {
+   "b2": "w_out11_yuka",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "32x32",
+   "b2_size": "64x64",
+   "note": "snow under trees: composite w_out11_yuka + ki02c (winter all year: same texture in all four records)",
+   "composite": [
+    "w_out11_yuka",
+    "ki02c"
+   ]
+  },
+  "criffp": {
+   "b2": "gake_michi",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "32x32",
+   "b2_size": "64x64",
+   "note": "rock; Icirrus's rock is not snowy, Pearl's has snow on top: consider c7_turara / snow lip gake1_1 on top edges (winter all year: same texture in all four records)"
+  },
+  "criff": {
+   "b2": "gake_futa",
+   "b2_set": 45,
+   "size_match": true,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "16x16",
+   "note": "rock tops (winter all year: same texture in all four records)"
+  },
+  "imped": {
+   "b2": "iwa01",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "16x32",
+   "note": "ATLAS: repaint with set-45 saku01a/iwa01/plant01 (winter all year: same texture in all four records)",
+   "composite": [
+    "saku01a",
+    "iwa01",
+    "plant01"
+   ]
+  },
+  "tree2_01": {
+   "b2": "ki03bx",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "32x32",
+   "note": "ATLAS: repaint with snowy ki03bx/ki03dx (as HoennB2 ash trees) (winter all year: same texture in all four records)",
+   "composite": [
+    "ki03bx",
+    "ki03dx",
+    "ki02c"
+   ]
+  },
+  "conttree2_b": {
+   "b2": "ki03bx",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "32x32",
+   "note": "ATLAS: snowy forest edge (winter all year: same texture in all four records)",
+   "composite": [
+    "ki03bx",
+    "ki03ax"
+   ]
+  },
+  "conttree2_t": {
+   "b2": "ki03bx",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "32x32",
+   "note": "ATLAS: snowy forest canopies (winter all year: same texture in all four records)",
+   "composite": [
+    "ki03bx",
+    "ki03dx"
+   ]
+  },
+  "newstep": {
+   "b2": "kaidan01a",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "32x32",
+   "b2_size": "32x16",
+   "note": "stairs (winter set) (winter all year: same texture in all four records)"
+  },
+  "seaside3": {
+   "b2": "sea_gake01",
+   "b2_set": 45,
+   "size_match": true,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "16x16",
+   "note": "rock bank (winter all year: same texture in all four records)"
+  },
+  "sea": {
+   "b2": "sea_mizu1",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "32x32",
+   "note": "water (winter all year: same texture in all four records)"
+  },
+  "nectgr": {
+   "b2": "kusa_ec1",
+   "b2_set": 45,
+   "size_match": true,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "16x16",
+   "note": "snow-capped tall grass, flattened over w_out11_yuka (winter all year: same texture in all four records)",
+   "composite": [
+    "w_out11_yuka",
+    "kusa_ec2",
+    "kusa_ec1"
+   ]
+  },
+  "puddle_b": {
+   "b2": "mizutama01",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "32x32",
+   "note": "icy puddle edge (winter all year: same texture in all four records)"
+  },
+  "puddlep": {
+   "b2": "mizutama01",
+   "b2_set": 45,
+   "size_match": true,
+   "seasonal": false,
+   "pearl_size": "32x32",
+   "b2_size": "32x32",
+   "note": "icy puddle (winter all year: same texture in all four records)"
+  },
+  "puddle": {
+   "b2": "mizutama01",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "16x16",
+   "b2_size": "32x32",
+   "note": "icy puddle (winter all year: same texture in all four records)"
+  },
+  "bridge": {
+   "b2": "hashi01a",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "32x16",
+   "note": "plank bridge (set 45 version is opaque, set 3 cut-out) (winter all year: same texture in all four records)"
+  },
+  "dhole": {
+   "b2": "doukutu01",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "64x64",
+   "b2_size": "32x32",
+   "note": "cave mouth (winter all year: same texture in all four records)"
+  },
+  "fenter": {
+   "b2": "o11_yuki",
+   "b2_set": 45,
+   "size_match": false,
+   "seasonal": false,
+   "pearl_size": "32x32",
+   "b2_size": "32x64",
+   "note": "snow ring at warp tiles -> Icirrus snow drift (A5I3) (winter all year: same texture in all four records)"
+  },
+  "hanger": {
+   "b2": null,
+   "keep_pearl": true,
+   "note": "keep Pearl (Rock Climb)"
+  },
+  "shadowchip": {
+   "b2": null,
+   "keep_pearl": true,
+   "note": "keep Pearl"
+  },
+  "c2_rale_a": {
+   "b2": null,
+   "keep_pearl": true,
+   "note": "keep Pearl"
+  },
+  "c2_rale_b": {
+   "b2": null,
+   "keep_pearl": true,
+   "note": "keep Pearl"
+  }
+ },
+ "keep_pearl": {
+  "hanger": "Rock Climb wall (0x4B/0x4C): Black 2 has no Rock Climb and no art for it",
+  "shadowchip": "flat dark shade on bridge sides/undersides (0x70-0x7A): plain colour, nothing to re-skin",
+  "cyclestop": "Cycling Road barrier post (0xDB): no Black 2 counterpart",
+  "dun_jump": "bike jump ramp (0xD8, Route 227/228 area): no Black 2 counterpart",
+  "c1_o02": "Jubilife landmark detail (TV/plaza structure)",
+  "c1_o02b": "Jubilife landmark detail",
+  "c2_rale_a": "Canalave drawbridge rails (also in Snowpoint's harbour area set)",
+  "c2_rale_b": "Canalave drawbridge rails",
+  "c2_light_a": "Canalave canal-wall lights",
+  "c2_light_b": "Canalave canal walls (teal)",
+  "c5_light": "Hearthome's lamp lights (vertical, 1,120 faces)",
+  "c07_meteo": "Veilstone's meteorites",
+  "c07_base_x": "Veilstone plaza light",
+  "c07_base_x2": "Veilstone plaza light",
+  "numa_a": "Great Marsh mud: Black 2's only marsh (Moor of Icirrus sp_marsh2) is dark water, wrong look",
+  "numa_b": "Great Marsh mud",
+  "numa_c": "Great Marsh mud",
+  "numa_d": "Great Marsh mud",
+  "numa_e": "Great Marsh mud",
+  "a8_sora_a": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_b": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_b_": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_c": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_d": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_e": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_f": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_g": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_h": "Sunyshore's raised solar-panel walkways (landmark)",
+  "a8_sora_i": "Sunyshore's raised solar-panel walkways (landmark)"
+ }
+}

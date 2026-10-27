@@ -1,0 +1,15 @@
+PearlTwinleaf_Text_000 = Thud!!{be01}
+PearlTwinleaf_Text_001 = {0100:0}: What was that about?!{be01}\nOh, hey, {0100:1}!{be01}\nHey! I’m going to the lake!\nYou come too! And be quick about it!{be01}\nOK, {0100:1}? I’m fining\nyou $1 million if you’re late!{be01}
+PearlTwinleaf_Text_002 = {0100:0}: Oh, jeez!\nForgot something!{be01}
+PearlTwinleaf_Text_003 = Hiya, {0100:0}.\n{0100:1} was looking for you.{be01}\nI think he’s home now.\nWhy don’t you go check it out?{be01}
+PearlTwinleaf_Text_004 = Hiya, {0100:0}.\n{0100:1} was looking for you.{be01}\nI think he’s home now.\nWhy don’t you go check it out?
+PearlTwinleaf_Text_005 = Hiya, {0100:0}.\nYou’re looking for {0100:1}?{be01}\nHe just went tearing off a little\nwhile ago.{be01}\nHe’s probably not gone too far.\nWhy not go chase after him?
+PearlTwinleaf_Text_006 = {0100:0}? He went tearing off\nin a huge rush a while ago.
+PearlTwinleaf_Text_007 = Everyone goes off on adventures,\nand then they gradually grow up...
+PearlTwinleaf_Text_008 = It’s true that wild Pokémon do attack\npeople sometimes...{be01}\nHowever, Pokémon also let you become\nfriends with them.
+PearlTwinleaf_Text_009 = Oh! A Pokémon!\nYou look good together!
+PearlTwinleaf_Text_010 = Oh, you’re helping put together\na Pokédex?{be01}\nThat means you’re going to travel\nall over the region with Pokémon!{be01}\nThat sounds like a lot of fun!\nI’m a little envious, to be honest!
+PearlTwinleaf_Text_011 = Technology just blows me away!{be01}\nI mean, now you can play with people\naround the world...wirelessly!
+PearlTwinleaf_Text_012 = Twinleaf Town\nFresh and Free!
+PearlTwinleaf_Text_013 = {0100:0}’s House
+PearlTwinleaf_Text_014 = {0100:0}’s House

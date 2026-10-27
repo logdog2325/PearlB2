@@ -1,0 +1,4 @@
+PearlTwinleafPlayerHouse2f_Text_000 = {0100:0}: ...I’d better take\nmy Bag and Journal, too...{be01}
+PearlTwinleafPlayerHouse2f_Text_001 = Oh, hey, {0100:0}!{be01}\nWe’re going to the lake!\nI’ll be waiting on the road!{be00}\nIt’s a $10 million fine if you’re late!{be01}
+PearlTwinleafPlayerHouse2f_Text_002 = It’s a Wii!\nIt’s controlled by a Wii Remote!
+PearlTwinleafPlayerHouse2f_Text_003 = {0100:0} checked the PC screen.{be01}\nAdventure Rule No. 1\nThe X Button opens the menu!{be01}\nAdventure Rule No. 2\nRecord your progress with SAVE.{be01}\nThere is nothing else on here...

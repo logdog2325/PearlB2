@@ -1,0 +1,2 @@
+PearlEternaGalacticBuilding2f_Text_000 = Team Galactic is working hard to find\nnew energy sources for the future!
+PearlEternaGalacticBuilding2f_Text_001 = We are conducting research on new\nforms of energy!{be01}\nWe want to harness the mysterious\npower of Pokémon and use it as energy!

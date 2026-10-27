@@ -1,0 +1,17 @@
+PearlSnowpoint_Text_000 = Only the chosen may enter\nthe Snowpoint Temple.{be01}\nI’m sorry, but you will have to\nleave.{be01}
+PearlSnowpoint_Text_001 = Only the chosen may enter\nthe Snowpoint Temple.{be01}\nI’m sorry, but you will have to\nleave.
+PearlSnowpoint_Text_002 = The temple is said to have been\nbuilt in ancient times.{be01}\nIt pays homage to the Pokémon\nof rock, ice, and steel that shape{be00}\nthe land.{be01}\nSo it is told.
+PearlSnowpoint_Text_003 = Candice: It’s OK!\nYou can let that person in.{be01}
+PearlSnowpoint_Text_004 = Cynthia sent word to me.{be01}\nYou’re working on a Pokédex,\naren’t you?{be01}\nThere should be many rare Pokémon\nin the temple.{be01}\nEnjoy your exploring!
+PearlSnowpoint_Text_005 = Brrr... This snowbound town is\nalways freezing cold.{be01}\nBut the spirits of the Trainers and\ntheir Pokémon burn hot and bright.{be01}\nEspecially the Gym Leader.
+PearlSnowpoint_Text_006 = Ewww, aren’t you cold with just\nthat scarf? Yikes!
+PearlSnowpoint_Text_007 = You’re going to the Snowpoint Temple?\nYou know you’re not allowed to go in?
+PearlSnowpoint_Text_008 = You’re going to the Snowpoint Temple?\nSome awesome Pokémon are there!
+PearlSnowpoint_Text_009 = Candice is teaching me about Pokémon.{be01}\nShe says I have to start by making\nfriends with Pokémon.
+PearlSnowpoint_Text_010 = What is it? Do you want to sail\nto the Battle Zone?
+PearlSnowpoint_Text_011 = Aye, aye, then!\nLet’s set sail!{be01}
+PearlSnowpoint_Text_012 = What is it?\nThe Battle Zone’s rough to get to.{be01}\nThe sea around it is always roiling\nwith choppy waves.{be01}\nYou can’t go there using Surf,\nthat’s for sure.
+PearlSnowpoint_Text_013 = A great Trainer recognized by\nthe Pokémon League...{be01}\nI look forward to carrying someone\nlike that on this ship!
+PearlSnowpoint_Text_014 = There’s nothing here!\nAnd that’s what makes us unique.
+PearlSnowpoint_Text_015 = Snowpoint City\nCity of Snow
+PearlSnowpoint_Text_016 = Snowpoint City Pokémon Gym\nLeader: Candice{be00}\nThe Diamond Dust Girl!

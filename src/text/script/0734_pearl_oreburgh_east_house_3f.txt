@@ -1,0 +1,2 @@
+PearlOreburghEastHouse3f_Text_000 = The coal mine here’s fully automated.{be01}\nCoal mining was brutally hard in the\nold days, but not anymore!
+PearlOreburghEastHouse3f_Text_001 = You remind me so much of the time\nI got my first Pokémon.

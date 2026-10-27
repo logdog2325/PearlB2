@@ -1,0 +1,3 @@
+PearlJublifeSouthwestHouse1f_Text_000 = I got my Pikachu through a trade\nfrom somewhere in the world.{be01}\nHe grows quickly, his level’s high,\nbut he doesn’t listen to me...{be01}\nIt’s not always easy, but he’s still\nmy irreplaceable partner!
+PearlJublifeSouthwestHouse1f_Text_001 = Pikachu: Pikapikapikaaah!
+PearlJublifeSouthwestHouse1f_Text_002 = If everyone around the world had\nPokémon...{be01}\nThen everyone around the world could\ncommunicate!

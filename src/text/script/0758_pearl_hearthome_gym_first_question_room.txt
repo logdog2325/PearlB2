@@ -1,0 +1,9 @@
+PearlHearthomeGymFirstQuestionRoom_Text_000 = Question: 3 plus 5 plus 7 is?\nAnswer: ←2 ↑16 →15
+PearlHearthomeGymFirstQuestionRoom_Text_001 = Correct!\nCongratulations!
+PearlHearthomeGymFirstQuestionRoom_Text_002 = Please answer the quiz!
+PearlHearthomeGymFirstQuestionRoom_Text_003 = Hey, there!\nHow’s it going, Trainer?{be01}\nYou being here tells me you’re going\nto challenge the Gym Leader.{be01}\nWell... I hate to break it to\nyou, but that’s impossible.{be01}\nYou’re questioning why, and the\nanswer is: she’s not here.{be01}\nCome back another time, OK?\nI’ll be right here waiting.
+PearlHearthomeGymFirstQuestionRoom_Text_004 = So, where’s the Gym Leader, you ask.{be01}\nI can’t precisely say, but I have a\nhunch that she’ll return one day...{be01}\nBut only after you visit other\nplaces, I think.{be01}\nHey, I’m sorry I’m not useful to you.\nMy advice giving needs work...
+PearlHearthomeGymFirstQuestionRoom_Text_005 = Hey, there!\nHow’s it going, Champ-to-be?{be01}\nThe Gym Leader here is a user of\nGhost-type Pokémon.{be01}\nBeware, Normal-type moves have no\neffect at all on ghosts!{be01}\nIt’s as if they weren’t there!\nBut you’ll have to see for yourself.{be01}\nGo get ’em, challenger!\nI believe in you!
+PearlHearthomeGymFirstQuestionRoom_Text_006 = Oh! {0100:0}!\nYou’ve beaten the Gym Leader!{be01}\nThere seems to be no end to how\ntough you are getting!{be01}\nAt least that’s how I see it!{be01}\n...You do realize I say that to\neveryone, right?
+PearlHearthomeGymFirstQuestionRoom_Text_007 = Hearthome City Pokémon Gym\nLeader: Fantina{be01}\nCertified Trainers:\n{0100:1}
+PearlHearthomeGymFirstQuestionRoom_Text_008 = Hearthome City Pokémon Gym\nLeader: Fantina{be01}\nCertified Trainers:\n{0100:0}{be00}\n{0100:1}

@@ -1,0 +1,8 @@
+PearlSunyshoreUnusedHouse2_Text_000 =                                                 
+PearlSunyshoreUnusedHouse2_Text_001 =                                                                     
+PearlSunyshoreUnusedHouse2_Text_002 =                                   
+PearlSunyshoreUnusedHouse2_Text_003 =                                                                  
+PearlSunyshoreUnusedHouse2_Text_004 =                                                            
+PearlSunyshoreUnusedHouse2_Text_005 =                                       
+PearlSunyshoreUnusedHouse2_Text_006 =                                  
+PearlSunyshoreUnusedHouse2_Text_007 =                                                                    

@@ -1,0 +1,2 @@
+PearlPastoriaNorthwestHouse_Text_000 = In the Great Marsh, they use Quick\nTrams on rails for transportation.{be01}\nThey prevent damage to the Great\nMarsh’s ecosystem.
+PearlPastoriaNorthwestHouse_Text_001 = Psyduck: Gwah?!

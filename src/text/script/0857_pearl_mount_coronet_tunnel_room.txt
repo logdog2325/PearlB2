@@ -1,0 +1,8 @@
+PearlMountCoronetTunnelRoom_Text_000 = I’m hopelessly lost!{be01}\nPlease don’t pay attention to\na lowly grunt without any Pokémon!
+PearlMountCoronetTunnelRoom_Text_001 = This rock appears to be breakable.\nWould you like to use Rock Smash?
+PearlMountCoronetTunnelRoom_Text_002 = It’s a rugged rock, but a Pokémon\nmay be able to smash it.
+PearlMountCoronetTunnelRoom_Text_003 = {0101:0} used Rock Smash!{be01}
+PearlMountCoronetTunnelRoom_Text_004 = The wall is very rocky...\nWould you like to use Rock Climb?
+PearlMountCoronetTunnelRoom_Text_005 = The wall is very rocky...\nWill a Pokémon’s move scale it?
+PearlMountCoronetTunnelRoom_Text_006 = Rock Climb can’t be used if you have\nsomeone with you.
+PearlMountCoronetTunnelRoom_Text_007 = {0101:0} used Rock Climb!{be01}

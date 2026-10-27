@@ -1,0 +1,17 @@
+PearlRoute221LevelItemHouse_Text_000 = ...I saw it!\nToday’s number is {0201:0}!{be01}\nShow me a Pokémon that’s Lv. {0201:0}.\nIf you can, I’ll reward you.
+PearlRoute221LevelItemHouse_Text_001 = ...I saw it!\nToday’s number is {0201:0}!{be01}\nShow me a Pokémon that’s Lv. {0201:0}.\nIf you can, I’ll reward you.{be01}\n...Oh, now, hunh?!{be01}\nYour {0101:1} is Lv. {0201:0}.\nWell, I’ll be! How remarkable!{be01}\nI’ll thank you for that visual treat\nwith this {0109:2}.{be01}
+PearlRoute221LevelItemHouse_Text_002 = Oh? You’ve no room in your Bag.\nI’ll hold it, so come back later.
+PearlRoute221LevelItemHouse_Text_003 = I’ll thank you for that visual treat\nwith this {0109:2}.{be01}
+PearlRoute221LevelItemHouse_Text_004 = High-level Pokémon were once of low\nlevel.{be01}\nLow-level Pokémon will not remain so,\nfor they can only grow.{be01}\nThat’s how it goes, youngster.\nCome again tomorrow.
+PearlRoute221LevelItemHouse_Text_005 = Win Items from Me!{be01}\nBlack Belt: Powers up Fighting-type\nmoves.{be01}\nExpert Belt: Powers up moves if they\nare super effective.{be01}\nFocus Sash: The bearer avoids\na one-hit KO if its HP is full.
+PearlRoute221LevelItemHouse_Text_006 = {0100:0} put the {0109:1}\nin the {0112:2} Pocket.
+PearlRoute221LevelItemHouse_Text_007 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlRoute221LevelItemHouse_Text_008 = Obtained the {0109:0}!
+PearlRoute221LevelItemHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute221LevelItemHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute221LevelItemHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute221LevelItemHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute221LevelItemHouse_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute221LevelItemHouse_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute221LevelItemHouse_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute221LevelItemHouse_Text_016 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}

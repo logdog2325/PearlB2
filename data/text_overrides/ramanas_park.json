@@ -1,0 +1,81 @@
+{
+ "_doc": "Ramanas Park's items (b2tools/patches/ramanas_park.py --text writes this file from data/ramanas_park.json): the slates (BDSP's names; Stratospheric shortened to the Bag's 96 px) and the Mysterious Shards S/L, with BDSP's descriptions (Serebii's itemdex), Pal Park for Ramanas Park. Every version's slates are here: a Diamond version only changes which rooms exist.",
+ "res/items/unused_120/data.json": {
+  "name": "Discovery Slate",
+  "name_with_article": "{bd01}a {ff00:255}Discovery Slate",
+  "name_plural": "Discovery Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Discovery Room at Pal Park."
+ },
+ "res/items/unused_121/data.json": {
+  "name": "Kanto Slate",
+  "name_with_article": "{bd01}a {ff00:255}Kanto Slate",
+  "name_plural": "Kanto Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Kanto Room at Pal Park."
+ },
+ "res/items/unused_131/data.json": {
+  "name": "Johto Slate",
+  "name_with_article": "{bd01}a {ff00:255}Johto Slate",
+  "name_plural": "Johto Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Johto Room at Pal Park."
+ },
+ "res/items/unused_122/data.json": {
+  "name": "Soul Slate",
+  "name_with_article": "{bd01}a {ff00:255}Soul Slate",
+  "name_plural": "Soul Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Soul Room at Pal Park."
+ },
+ "res/items/unused_123/data.json": {
+  "name": "Distortion Slate",
+  "name_with_article": "{bd01}a {ff00:255}Distortion Slate",
+  "name_plural": "Distortion Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Distortion Room at Pal Park."
+ },
+ "res/items/unused_132/data.json": {
+  "name": "Rainbow Slate",
+  "name_with_article": "{bd01}a {ff00:255}Rainbow Slate",
+  "name_plural": "Rainbow Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Rainbow Room at Pal Park."
+ },
+ "res/items/unused_124/data.json": {
+  "name": "Squall Slate",
+  "name_with_article": "{bd01}a {ff00:255}Squall Slate",
+  "name_plural": "Squall Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Squall Room at Pal Park."
+ },
+ "res/items/unused_125/data.json": {
+  "name": "Oceanic Slate",
+  "name_with_article": "{bd01}a {ff00:255}Oceanic Slate",
+  "name_plural": "Oceanic Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Oceanic Room at Pal Park."
+ },
+ "res/items/unused_126/data.json": {
+  "name": "Tectonic Slate",
+  "name_with_article": "{bd01}a {ff00:255}Tectonic Slate",
+  "name_plural": "Tectonic Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Tectonic Room at Pal Park."
+ },
+ "res/items/unused_127/data.json": {
+  "name": "Stratosph. Slate",
+  "name_with_article": "{bd01}a {ff00:255}Stratosph. Slate",
+  "name_plural": "Stratosph. Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Stratospheric Room at Pal Park."
+ },
+ "res/items/unused_128/data.json": {
+  "name": "Genome Slate",
+  "name_with_article": "{bd01}a {ff00:255}Genome Slate",
+  "name_plural": "Genome Slates",
+  "description": "A slate overflowing with enigmatic energy.\nYou can feel a strong connection between\nit and the Genome Room at Pal Park."
+ },
+ "res/items/unused_129/data.json": {
+  "name": "Myst. Shard S",
+  "name_with_article": "{bd01}a {ff00:255}Myst. Shard S",
+  "name_plural": "Myst. Shards S",
+  "description": "A small shard that emanates an enigmatic\npower. Inside the shard, you can see a\npattern that looks like Ramanas roses."
+ },
+ "res/items/unused_130/data.json": {
+  "name": "Myst. Shard L",
+  "name_with_article": "{bd01}a {ff00:255}Myst. Shard L",
+  "name_plural": "Myst. Shards L",
+  "description": "A large shard that emanates an enigmatic\npower. Inside the shard, you can see a\npattern that looks like Ramanas roses."
+ }
+}

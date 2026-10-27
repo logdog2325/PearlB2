@@ -1,0 +1,3 @@
+PearlCanalaveHarborInn_Text_000 = ...Welcome...{be01}\n...\n...Kekeke...{be01}\nWe’ve had a reservation for you.\nWe’ve held it a long time...{be01}
+PearlCanalaveHarborInn_Text_001 = {0100:0} lay down on the bed\nas if bidden there...{be01}
+PearlCanalaveHarborInn_Text_002 = {0100:0} awakened!

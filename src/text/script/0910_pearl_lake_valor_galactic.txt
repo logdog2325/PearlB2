@@ -1,0 +1,4 @@
+PearlLakeValorGalactic_Text_000 = What do you want?{be01}\nAre you one of those nitwits we\nfooled into guarding the entrance?{be01}\nBah, it doesn’t matter who you are.\nIt’s too late to make any difference.{be01}\nThings are going to get really\ninteresting now.{be01}\nAll the legendary Pokémon are going\nto be brought to our HQ in Veilstone!
+PearlLakeValorGalactic_Text_001 = Even Team Galactic has no use for\nMagikarp! Worthless, all of them!
+PearlLakeValorGalactic_Text_002 = Hahaha!\nNext stop, Lake Verity!{be01}\nThe closest civilization is that hick\ntown called Twinleaf!{be01}\nWe can roll in there completely\nunopposed!
+PearlLakeValorGalactic_Text_003 = A Magikarp is weakly flopping about...

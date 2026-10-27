@@ -1,0 +1,2 @@
+PearlRoute222SunyshoreGateouse_Text_000 = If I had to describe Sunyshore Gym\nin a word, it’d be...{be01}\nShockingly electric!{be01}\nWhoops, that’s two words!
+PearlRoute222SunyshoreGateouse_Text_001 = Sunyshore’s Gym Leader has been\nbored lately, I hear.{be01}\nApparently, there’s been a lack\nof worthwhile challengers.

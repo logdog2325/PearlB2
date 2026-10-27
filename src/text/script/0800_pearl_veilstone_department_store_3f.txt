@@ -1,0 +1,13 @@
+PearlVeilstoneDepartmentStore3f_Text_000 = Hello.\nMay I help you with anything?
+PearlVeilstoneDepartmentStore3f_Text_001 = Hello, {0100:0}.\nMay I help you with anything?
+PearlVeilstoneDepartmentStore3f_Text_002 = Please enjoy yourself.
+PearlVeilstoneDepartmentStore3f_Text_003 = False Swipe makes wild Pokémon easier\nto catch.{be01}\nMany customers have confided that to\nme recently.
+PearlVeilstoneDepartmentStore3f_Text_004 = For Fire-type Pokémon, may I suggest\nFire Blast?
+PearlVeilstoneDepartmentStore3f_Text_005 = The move Protect is the perfect\nsolution for dodging attacks.{be01}\nPlease be aware that overuse can\nresult in failure.
+PearlVeilstoneDepartmentStore3f_Text_006 = When it is raining, the accuracy\nof Thunder becomes precise.{be01}\nPlease do be careful about\nthe weather.
+PearlVeilstoneDepartmentStore3f_Text_007 = A friend traded me a Machoke using\nDS Wireless Communications.{be01}\nBut instead of a Machoke, I got\na different Pokémon!
+PearlVeilstoneDepartmentStore3f_Text_008 = I wrote some secrets in my Mail\nas a reminder...{be01}\nIf someone reads it...\nI’m in deep trouble.
+PearlVeilstoneDepartmentStore3f_Text_009 = 1F: Trainers’ Zone{be01}\n2F: Battle Collection{be01}\n3F: TM Corner{be01}\n4F: Poké Dolls & Goods{be01}\n5F: Rooftop Plaza
+PearlVeilstoneDepartmentStore3f_Text_010 = What’s recommended?
+PearlVeilstoneDepartmentStore3f_Text_011 = Nothing, thanks.
+PearlVeilstoneDepartmentStore3f_Text_012 = Welcome!\nWhat do you need?

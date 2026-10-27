@@ -1,0 +1,9 @@
+PearlSurvivalArea_Text_000 = Buck: Yo, if it isn’t {0100:0}!{be01}\nDon’t tell me you’re going to Stark\nMountain, too?{be01}\nYou’re pretty wimpy...\nYou’re sure you’re going to be OK?{be01}\nHeh, why am I asking you that?\nIt’s not like I care.{be01}\nAnyways, if we see each other on\nStark Mountain, the race is on to{be00}\nsee who gets the Magma Stone first!{be01}
+PearlSurvivalArea_Text_001 = Hey, traveling Trainer.\nIs your Bag full of items?{be00}\nOr is it full of dreams?
+PearlSurvivalArea_Text_002 = Trainers who lose at the Battle\nTower come here to train.
+PearlSurvivalArea_Text_003 = I’ve been exploring a long time,\nbut I know when I’m beaten.{be01}\nIt takes a better Trainer than me\nto explore the volcano thoroughly!
+PearlSurvivalArea_Text_004 = I’m a Cameraman, obviously.{be01}\nHave you seen that TV program,\n“Search for the Red Gyarados!”?{be01}\nYou know, “The mysterious\nappearance of a raging Pokémon in{be00}\na lake”?{be01}\nYeah, that outstanding documentary!\nI filmed that!
+PearlSurvivalArea_Text_005 = Oh man! Oh geez! Oh, this is bad!\nBut I’m a Cameraman, obviously!{be01}\nI have to stand firm and get this\non film for the world to see!
+PearlSurvivalArea_Text_006 = I’m a Cameraman, obviously.{be01}\n“The Eruption of Stark Mountain?\nThe mystery of the fiery Pokémon{be00}\nasleep deep in the volcano!”{be01}\nI’ve had that documentary all mapped\nout in my head for a long time...{be01}\nBut I have nothing on film as of yet.\nSo much for that show.{be01}\nOh, well. The world’s a huge place.\nThere’re plenty of other mysteries!
+PearlSurvivalArea_Text_007 = Survival Area\nStaging Point
+PearlSurvivalArea_Text_008 = It’s an air vent that exchanges\nthe underground tunnels’ air.

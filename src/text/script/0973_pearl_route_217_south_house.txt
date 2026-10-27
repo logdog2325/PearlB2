@@ -1,0 +1,15 @@
+PearlRoute217SouthHouse_Text_000 = While I was fighting my way through\nthe blizzard, I dropped an HM.{be01}\nIf I still had that hidden move\nRock Climb, I’d be able to scale{be00}\nsheer cliffs...
+PearlRoute217SouthHouse_Text_001 = While I was fighting my way through\nthe blizzard, I dropped an HM.{be01}\nIf I still had that hidden move\nRock Climb, I’d be able to scale{be00}\nsheer cliffs...{be01}\nHey! What’s this?\nYou found the Hidden Machine?{be01}\nBut I’d already given it up for lost,\nand you found it.{be01}\nIt’s yours to keep, my friend.\nMake good use of it.{be01}\nI like your honesty, though.\nLet me reward you with this.{be01}
+PearlRoute217SouthHouse_Text_002 = That Icicle Plate, I found that under\nthe snow as well.{be01}\nI’m no expert, but it looks to be\nof ancient origin.{be01}\nEven as old as the time when Sinnoh\ncame into being...
+PearlRoute217SouthHouse_Text_003 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlRoute217SouthHouse_Text_004 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlRoute217SouthHouse_Text_005 = Obtained the {0109:0}!
+PearlRoute217SouthHouse_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute217SouthHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute217SouthHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute217SouthHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute217SouthHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute217SouthHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute217SouthHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute217SouthHouse_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlRoute217SouthHouse_Text_014 = Too bad!\nThe Bag is full...

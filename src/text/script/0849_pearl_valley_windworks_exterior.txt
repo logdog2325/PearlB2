@@ -1,0 +1,8 @@
+PearlValleyWindworksExterior_Text_000 = Don’t you dare go into the Valley\nWindworks.{be01}\nI got ordered to keep everyone out\nif they’re not part of Team Galactic.{be01}\nYou’re giving me a look that makes\nme think you’re gonna try to get in.{be01}\nOK, then.\nYou’ll have to battle me for it!{be01}
+PearlValleyWindworksExterior_Text_001 = Isn’t that just great.\nGetting owned by some kid.{be01}\nBut you can’t do a thing if I lock\nmyself in with my Works Key!{be01}\nThat’s right, the other Works Key’s\nnot here!{be01}\nMy cohorts in the flower patch\nhave the only other one!{be01}\nHahaha! In that sense, I’m no\nlonger the loser!{be01}
+PearlValleyWindworksExterior_Text_002 = Ker-chunk!{be01}
+PearlValleyWindworksExterior_Text_003 = It’s locked from inside!
+PearlValleyWindworksExterior_Text_004 = It’s locked from inside!{be01}\nUse the Works Key?
+PearlValleyWindworksExterior_Text_005 = Ker-chunk!{be01}\nThe door to Valley Windworks opened!
+PearlValleyWindworksExterior_Text_006 = Floooooon!{be01}
+PearlValleyWindworksExterior_Text_007 = Valley Windworks\nEcological, Wind-Driven Energy

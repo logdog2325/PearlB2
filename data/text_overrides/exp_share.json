@@ -1,0 +1,36 @@
+{
+    "_doc": "The Gen 6 Exp. Share's text (b2tools/patches/exp_share.py; HoennB2's src/text lines, the same words), new lines appended by patches/sinnoh_names.py: system file 6 (the Bag's messages; word 1 = the item's name) and the team line in the battle std-message files 17 and 19, which must give it the same id (Black 2's file 17 has 221 lines, 19 has 201: 19 gets 20 filler lines first, as in HoennB2). exp_share.text_id() computes the ids from Black 2's line counts and these files' order. res/items/exp_share/data.json: the Bag's description, rewritten for the key item (Black 2's says it is held; the Exp. Share can't be held any more).",
+    "btl_main": {
+        "+BtlMain_Text_ExpShareTurnedOn": "The {0109:1} was turned on.",
+        "+BtlMain_Text_ExpShareTurnedOff": "The {0109:1} was turned off."
+    },
+    "0017": {
+        "+Bank0017_Text_RestTeamGainedExpShare": "The rest of your team gained Exp. Points\\nthanks to the Exp. Share!"
+    },
+    "0019": {
+        "+Bank0019_Text_Filler01": "SCENE 01",
+        "+Bank0019_Text_Filler02": "SCENE 02",
+        "+Bank0019_Text_Filler03": "SCENE 03",
+        "+Bank0019_Text_Filler04": "SCENE 04",
+        "+Bank0019_Text_Filler05": "SCENE 05",
+        "+Bank0019_Text_Filler06": "SCENE 06",
+        "+Bank0019_Text_Filler07": "SCENE 07",
+        "+Bank0019_Text_Filler08": "SCENE 08",
+        "+Bank0019_Text_Filler09": "SCENE 09",
+        "+Bank0019_Text_Filler10": "SCENE 10",
+        "+Bank0019_Text_Filler11": "SCENE 11",
+        "+Bank0019_Text_Filler12": "SCENE 12",
+        "+Bank0019_Text_Filler13": "SCENE 13",
+        "+Bank0019_Text_Filler14": "SCENE 14",
+        "+Bank0019_Text_Filler15": "SCENE 15",
+        "+Bank0019_Text_Filler16": "SCENE 16",
+        "+Bank0019_Text_Filler17": "SCENE 17",
+        "+Bank0019_Text_Filler18": "SCENE 18",
+        "+Bank0019_Text_Filler19": "SCENE 19",
+        "+Bank0019_Text_Filler20": "SCENE 20",
+        "+Bank0019_Text_RestTeamGainedExpShare": "The rest of your team gained Exp. Points\\nthanks to the Exp. Share!"
+    },
+    "res/items/exp_share/data.json": {
+        "description": "While it's on, every Pokémon on your\nteam gets Exp. Points from battles,\neven those that didn't take part."
+    }
+}

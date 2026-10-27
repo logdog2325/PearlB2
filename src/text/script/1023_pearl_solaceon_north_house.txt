@@ -1,0 +1,2 @@
+PearlSolaceonNorthHouse_Text_000 = Every so often, an Egg will be found\nat the Pokémon Day Care.{be01}\nAnd they’re found without anyone\nknowing how they got there.{be01}\nIs someone leaving them there?
+PearlSolaceonNorthHouse_Text_001 = They say no one has ever seen\na Pokémon actually lay an Egg.{be01}\nSo, it hasn’t been proven that\nPokémon actually lay Eggs.

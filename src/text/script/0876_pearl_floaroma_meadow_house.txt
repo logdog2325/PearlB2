@@ -1,0 +1,2 @@
+PearlFloaromaMeadowHouse_Text_000 = The flowers that grow in the fields\nhere are special.{be01}\nDo you see how they’re more vivid\nthan flowers elsewhere in Sinnoh?{be01}\nYou can thank Pokémon for that.
+PearlFloaromaMeadowHouse_Text_001 = If you put Honey on a tree, check\nback later to see if it’s rustling.{be01}\nIf it is, it’s quite often a rare\nPokémon.{be01}\nIt gets my hopes up if I see that\nhappening.

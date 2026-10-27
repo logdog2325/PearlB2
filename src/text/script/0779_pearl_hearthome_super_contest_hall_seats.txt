@@ -1,0 +1,4 @@
+PearlHearthomeSuperContestHallSeats_Text_000 = For the Visual judging, you want to\ndress up your Pokémon nicely with{be00}\nAccessories matched to the theme.{be01}\nThat means you’ll be at an advantage\nif you have lots of Accessories.
+PearlHearthomeSuperContestHallSeats_Text_001 = For the Dance competition, your\nPokémon needs to perfectly mimic{be00}\nthe dance steps of the lead dancer.
+PearlHearthomeSuperContestHallSeats_Text_002 = For the performance aspect of\nContests, Pokémon need the right{be00}\nkinds of moves.{be01}\nBut what’s even more important is\nyour choice of the Judge.{be01}\nIf everyone performs for the same\nJudge, your Pokémon leaves less of{be00}\nan impression on that Judge.
+PearlHearthomeSuperContestHallSeats_Text_003 = At the Cool Contest you gotta pull\noff a cool move!{be00}\nGets the Judges all excited!{be01}\nIf the Judge’s excitement peaks, you\nscore massive bonus points! So hot!

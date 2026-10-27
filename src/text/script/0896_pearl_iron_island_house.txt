@@ -1,0 +1,14 @@
+PearlIronIslandHouse_Text_000 = Byron: Hm?\nYou’re in training, then?{be01}\nYou know, my son trains as hard as\nyou do.{be01}\nBut I still treat him as if he were\na child.{be01}\nIt’s ridiculous, really.\nHe is a proper Gym Leader and all.{be01}\nIt’s always tricky between a father\nand son, it seems.{be01}\nHumph, I’ve wasted your time.\nTake this as my apology!{be01}
+PearlIronIslandHouse_Text_001 = There are Pokémon that evolve into\nthe Steel type using that Metal Coat.{be01}\nThey need to hold that item while\nbeing traded to evolve.{be01}\nTry using it if you’d like.\nFarewell!{be01}
+PearlIronIslandHouse_Text_002 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.{be01}
+PearlIronIslandHouse_Text_003 = {0100:0} obtained\nthe {ff00:2}{0109:1}{ff00:0}!
+PearlIronIslandHouse_Text_004 = Obtained the {0109:0}!
+PearlIronIslandHouse_Text_005 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlIronIslandHouse_Text_006 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlIronIslandHouse_Text_007 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlIronIslandHouse_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlIronIslandHouse_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlIronIslandHouse_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlIronIslandHouse_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlIronIslandHouse_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}
+PearlIronIslandHouse_Text_013 = Too bad!\nThe Bag is full...

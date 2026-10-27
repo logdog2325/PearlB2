@@ -1,0 +1,2 @@
+PearlSolaceonNortheastHouse_Text_000 = Your Pokémon has a \n{0108:0} nature?{be01}\nDid you know that a Pokémon’s nature\ndetermines how it will grow?
+PearlSolaceonNortheastHouse_Text_001 = This area had many Pokémon from\nthe olden days.{be01}\nThey say there were big Pokémon\nranches ’round these parts.

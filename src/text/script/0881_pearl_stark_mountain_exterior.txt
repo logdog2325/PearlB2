@@ -1,0 +1,5 @@
+PearlStarkMountainExterior_Text_000 = Stark Mountain\nEruption Zone!
+PearlStarkMountainExterior_Text_001 = The wall is very rocky...\nWould you like to use Rock Climb?
+PearlStarkMountainExterior_Text_002 = The wall is very rocky...\nWill a Pokémon’s move scale it?
+PearlStarkMountainExterior_Text_003 = Rock Climb can’t be used if you have\nsomeone with you.
+PearlStarkMountainExterior_Text_004 = {0101:0} used Rock Climb!{be01}

@@ -1,0 +1,10 @@
+PearlGreatMarshArea1_Text_000 = Go upstairs in the Observatory before\nyou start your Safari Game.{be01}\nCheck the marsh with the binoculars\nto see where the Pokémon you want{be00}\nhappen to be. That’s how you win!
+PearlGreatMarshArea1_Text_001 = Great Marsh Area 1
+PearlGreatMarshArea1_Text_002 = Where would you like to go?
+PearlGreatMarshArea1_Text_003 = AREA 3
+PearlGreatMarshArea1_Text_004 = AREA 4
+PearlGreatMarshArea1_Text_005 = AREA 5
+PearlGreatMarshArea1_Text_006 = AREA 6
+PearlGreatMarshArea1_Text_007 = EXIT
+PearlGreatMarshArea1_Text_008 = {0100:0} didn’t board\nthe Quick Tram.
+PearlGreatMarshArea1_Text_009 = The Quick Tram is being prepared.\nPlease come again!

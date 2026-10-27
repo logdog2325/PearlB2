@@ -1,0 +1,402 @@
+{
+ "_doc": "Pearl object_event movement_type -> Black 2 zone NPC \"move\" (a/1/2/6 ZoneNPC.moveCode). Names: pokeplatinum generated/movement_types.txt (index = value; Pearl numbering checked against 349 matched Platinum event files: every used value agrees, e.g. Twinleaf 389: 3 = WANDER_AROUND, 2 = LOOK_AROUND, 15 = LOOK_SOUTH). Black 2 codes: ov036 ACTOR_MOVE_CODE_FUNCTION_TABLES 0x021cc990 and the direction lists at 0x021cbc70, read from the vanilla ov036.bin (PearlB2 external/pokebw2/extract/b2_us), HoennB2 notes/NPC_MOVEMENT.md. Gen 5 kept Gen 4's numbering: every look list and walk route agrees with the Platinum name except Black 2 code 26 (walks 25's W-E-S-N route), which Pearl does not use. Range: movement_range_x -> areaw, movement_range_z -> areah unchanged (both games: spawn +- range, 0 = no movement on that axis, -1/0xFFFF = no limit; pokeplatinum map_object_move.c MapObject_IsOutOfRange; Pearl has no -1). \"uses\" = objects; \"trainers\" = of them with trainer_type != 0.",
+ "0": {
+  "pearl_name": "MOVEMENT_TYPE_NONE",
+  "uses": 1847,
+  "trainers": 7,
+  "b2_move": 0,
+  "exact": true,
+  "note": "stand facing the dir field (Black 2 0 = empty init/update). Most are things: 591 Rock Smash rocks, 262 balls, signs, boulders, trees"
+ },
+ "2": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_AROUND",
+  "uses": 76,
+  "trainers": 7,
+  "b2_move": 2,
+  "exact": true,
+  "note": "look NSWE (Black 2 list); same number"
+ },
+ "3": {
+  "pearl_name": "MOVEMENT_TYPE_WANDER_AROUND",
+  "uses": 232,
+  "trainers": 2,
+  "b2_move": 3,
+  "exact": true,
+  "note": "wander inside spawn +- areaw/areah (3 all ways, 4 N-S, 5 W-E); copy the ranges"
+ },
+ "4": {
+  "pearl_name": "MOVEMENT_TYPE_WANDER_NORTH_AND_SOUTH",
+  "uses": 30,
+  "trainers": 8,
+  "b2_move": 4,
+  "exact": true,
+  "note": "wander inside spawn +- areaw/areah (3 all ways, 4 N-S, 5 W-E); copy the ranges"
+ },
+ "5": {
+  "pearl_name": "MOVEMENT_TYPE_WANDER_WEST_AND_EAST",
+  "uses": 40,
+  "trainers": 0,
+  "b2_move": 5,
+  "exact": true,
+  "note": "wander inside spawn +- areaw/areah (3 all ways, 4 N-S, 5 W-E); copy the ranges"
+ },
+ "6": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_AND_WEST",
+  "uses": 26,
+  "trainers": 8,
+  "b2_move": 6,
+  "exact": true,
+  "note": "look NW (Black 2 list); same number"
+ },
+ "7": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_AND_EAST",
+  "uses": 27,
+  "trainers": 14,
+  "b2_move": 7,
+  "exact": true,
+  "note": "look NE (Black 2 list); same number"
+ },
+ "8": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_SOUTH_AND_WEST",
+  "uses": 34,
+  "trainers": 14,
+  "b2_move": 8,
+  "exact": true,
+  "note": "look SW (Black 2 list); same number"
+ },
+ "9": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_SOUTH_AND_EAST",
+  "uses": 29,
+  "trainers": 12,
+  "b2_move": 9,
+  "exact": true,
+  "note": "look SE (Black 2 list); same number"
+ },
+ "10": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_SOUTH_AND_WEST",
+  "uses": 10,
+  "trainers": 2,
+  "b2_move": 10,
+  "exact": true,
+  "note": "look NSW (Black 2 list); same number"
+ },
+ "11": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_SOUTH_AND_EAST",
+  "uses": 8,
+  "trainers": 1,
+  "b2_move": 11,
+  "exact": true,
+  "note": "look NSE (Black 2 list); same number"
+ },
+ "12": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_WEST_AND_EAST",
+  "uses": 12,
+  "trainers": 0,
+  "b2_move": 12,
+  "exact": true,
+  "note": "look NWE (Black 2 list); same number"
+ },
+ "13": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_SOUTH_WEST_AND_EAST",
+  "uses": 8,
+  "trainers": 0,
+  "b2_move": 13,
+  "exact": true,
+  "note": "look SWE (Black 2 list); same number"
+ },
+ "14": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH",
+  "uses": 105,
+  "trainers": 41,
+  "b2_move": 14,
+  "exact": true,
+  "note": "face one way (= code 0 + that dir); dir field = N"
+ },
+ "15": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_SOUTH",
+  "uses": 190,
+  "trainers": 83,
+  "b2_move": 15,
+  "exact": true,
+  "note": "face one way (= code 0 + that dir); dir field = S"
+ },
+ "16": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_WEST",
+  "uses": 138,
+  "trainers": 84,
+  "b2_move": 16,
+  "exact": true,
+  "note": "face one way (= code 0 + that dir); dir field = W"
+ },
+ "17": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_EAST",
+  "uses": 118,
+  "trainers": 66,
+  "b2_move": 17,
+  "exact": true,
+  "note": "face one way (= code 0 + that dir); dir field = E"
+ },
+ "18": {
+  "pearl_name": "MOVEMENT_TYPE_ROTATE_COUNTERCLOCKWISE",
+  "uses": 5,
+  "trainers": 5,
+  "b2_move": 18,
+  "exact": true,
+  "note": "spin counter-clockwise / clockwise"
+ },
+ "19": {
+  "pearl_name": "MOVEMENT_TYPE_ROTATE_CLOCKWISE",
+  "uses": 3,
+  "trainers": 3,
+  "b2_move": 19,
+  "exact": true,
+  "note": "spin counter-clockwise / clockwise"
+ },
+ "20": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_BACK_AND_FORTH",
+  "uses": 37,
+  "trainers": 29,
+  "b2_move": 20,
+  "exact": true,
+  "note": "walk back and forth along the dir field to the area edge; trainer_type 4/5/6/7 (evtype) add the turn-at-the-end behaviour with data[1] (p1) steps: Black 2 ACTOR_EVENTTYPE_FUNCS (ov036 0x021cbdf0) has the same 4 / 5,6 handlers as Gen 4 (pokeplatinum unk_020673B8.c), and Black 2's own walkers use evtype 4/5/6 with p1 2-14"
+ },
+ "21": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_NORTH_EAST_WEST_SOUTH",
+  "uses": 1,
+  "trainers": 1,
+  "b2_move": 21,
+  "exact": true,
+  "note": "walk route NEWS (Black 2 list 14) inside the area; copy the ranges"
+ },
+ "24": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_WEST_SOUTH_NORTH_EAST",
+  "uses": 1,
+  "trainers": 1,
+  "b2_move": 24,
+  "exact": true,
+  "note": "walk route WSNE (Black 2 list 17) inside the area; copy the ranges"
+ },
+ "28": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_EAST_SOUTH_NORTH_WEST",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 28,
+  "exact": true,
+  "note": "walk route ESNW (Black 2 list 21) inside the area; copy the ranges"
+ },
+ "29": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_WEST_NORTH_SOUTH_EAST",
+  "uses": 2,
+  "trainers": 1,
+  "b2_move": 29,
+  "exact": true,
+  "note": "walk route WNSE (Black 2 list 22) inside the area; copy the ranges"
+ },
+ "36": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_SOUTH_WEST_EAST_NORTH",
+  "uses": 4,
+  "trainers": 2,
+  "b2_move": 36,
+  "exact": true,
+  "note": "walk route SWEN (Black 2 list 29) inside the area; copy the ranges"
+ },
+ "37": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_NORTH_WEST_SOUTH_EAST",
+  "uses": 4,
+  "trainers": 3,
+  "b2_move": 37,
+  "exact": true,
+  "note": "walk route NWSE (Black 2 list 30) inside the area; copy the ranges"
+ },
+ "38": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_SOUTH_EAST_NORTH_WEST",
+  "uses": 3,
+  "trainers": 3,
+  "b2_move": 38,
+  "exact": true,
+  "note": "walk route SENW (Black 2 list 31) inside the area; copy the ranges"
+ },
+ "39": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_WEST_SOUTH_EAST_NORTH",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 39,
+  "exact": true,
+  "note": "walk route WSEN (Black 2 list 32) inside the area; copy the ranges"
+ },
+ "40": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_EAST_NORTH_WEST_SOUTH",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 40,
+  "exact": true,
+  "note": "walk route ENWS (Black 2 list 33) inside the area; copy the ranges"
+ },
+ "42": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_SOUTH_WEST_NORTH_EAST",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 42,
+  "exact": true,
+  "note": "walk route SWNE (Black 2 list 35) inside the area; copy the ranges"
+ },
+ "43": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_WEST_NORTH_EAST_SOUTH",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 43,
+  "exact": true,
+  "note": "walk route WNES (Black 2 list 36) inside the area; copy the ranges"
+ },
+ "44": {
+  "pearl_name": "MOVEMENT_TYPE_WALK_EAST_SOUTH_WEST_NORTH",
+  "uses": 6,
+  "trainers": 6,
+  "b2_move": 44,
+  "exact": true,
+  "note": "walk route ESWN (Black 2 list 37) inside the area; copy the ranges"
+ },
+ "45": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_NORTH_AND_SOUTH",
+  "uses": 14,
+  "trainers": 14,
+  "b2_move": 45,
+  "exact": true,
+  "note": "look NS (Black 2 list); same number"
+ },
+ "46": {
+  "pearl_name": "MOVEMENT_TYPE_LOOK_WEST_AND_EAST",
+  "uses": 8,
+  "trainers": 8,
+  "b2_move": 46,
+  "exact": true,
+  "note": "look WE (Black 2 list); same number"
+ },
+ "47": {
+  "pearl_name": "MOVEMENT_TYPE_BERRY_SOIL",
+  "uses": 118,
+  "trainers": 0,
+  "b2_move": null,
+  "exact": false,
+  "note": "berry soil: Black 2 code 47 is a NULL table entry (crash). No Black 2 berries: drop the objects, or 0 for a static stand-in"
+ },
+ "50": {
+  "pearl_name": "MOVEMENT_TYPE_FOLLOW_PARTNER_TRAINER",
+  "uses": 3,
+  "trainers": 3,
+  "b2_move": 50,
+  "exact": true,
+  "note": "follow the partner trainer (3 Pearl double pairs: Route 209, Route 210 North, Victory Road B1F: the 5000+id leader walks a route, the 3000+id partner follows). Black 2 50 = trainer pair partner (own init 0x02192ca9); no vanilla zone NPC uses it, so untested"
+ },
+ "51": {
+  "pearl_name": "MOVEMENT_TYPE_DISGUISE_SNOW",
+  "uses": 2,
+  "trainers": 2,
+  "b2_move": 52,
+  "exact": false,
+  "note": "hidden under snow, jumps out (Route 217). Black 2 has no snow hide: 51/54 = grass (init type 0), 52/53 = soil mound (type 1), 85 = leaf pile (type 2) (init immediates at 0x02192fd4..0x02193004); a mound is the nearest shape. Pearl gives these trainer_type 2 (view all directions) = Black 2 evtype 2, as Black 2's own hidden trainers"
+ },
+ "52": {
+  "pearl_name": "MOVEMENT_TYPE_DISGUISE_SAND",
+  "uses": 1,
+  "trainers": 1,
+  "b2_move": 52,
+  "exact": false,
+  "note": "hidden under sand (Route 228) -> soil mound (type 1). Pearl gives these trainer_type 2 (view all directions) = Black 2 evtype 2, as Black 2's own hidden trainers"
+ },
+ "53": {
+  "pearl_name": "MOVEMENT_TYPE_DISGUISE_ROCK",
+  "uses": 3,
+  "trainers": 3,
+  "b2_move": 53,
+  "exact": false,
+  "note": "hidden under a rock (Routes 210N, 211) -> soil mound (type 1). Pearl gives these trainer_type 2 (view all directions) = Black 2 evtype 2, as Black 2's own hidden trainers"
+ },
+ "54": {
+  "pearl_name": "MOVEMENT_TYPE_DISGUISE_GRASS",
+  "uses": 5,
+  "trainers": 5,
+  "b2_move": 54,
+  "exact": true,
+  "note": "hidden in grass (Route 210S) -> grass (type 0), exact; Black 2's own: 4 uses, evtype 2. Pearl gives these trainer_type 2 (view all directions) = Black 2 evtype 2, as Black 2's own hidden trainers"
+ },
+ "dirs": {
+  "_doc": "Pearl initial_dir -> Black 2 dir: identical (pokeplatinum constants/map_object.h DIR_NORTH 0, SOUTH 1, WEST 2, EAST 3; pokebw2 constants/directions.h DIR_UP 0, DOWN 1, LEFT 2, RIGHT 3). Pearl uses only 0-3.",
+  "0": {
+   "pearl": "NORTH",
+   "b2": 0,
+   "b2_name": "UP",
+   "uses": 1676
+  },
+  "1": {
+   "pearl": "SOUTH",
+   "b2": 1,
+   "b2_name": "DOWN",
+   "uses": 819
+  },
+  "2": {
+   "pearl": "WEST",
+   "b2": 2,
+   "b2_name": "LEFT",
+   "uses": 347
+  },
+  "3": {
+   "pearl": "EAST",
+   "b2": 3,
+   "b2_name": "RIGHT",
+   "uses": 318
+  }
+ },
+ "range": {
+  "movement_range_x": "areaw",
+  "movement_range_z": "areah",
+  "note": "unchanged; -1 (0xFFFF) = no limit in both, 0 = fixed on that axis"
+ },
+ "trainer_type_to_evtype": {
+  "_doc": "Pearl trainer_type -> Black 2 ZoneNPC.evType. Gen 4 names: pokeplatinum generated/trainer_types.txt. Black 2 sight: event_trainer_eye.c func_ov036_021a643c -> fldmmdl.c func_ov012_02168024 maps evType 4-8, 11-13 to 1 (look along the facing), 2 = all 4 ways; Gen 4 trainer_encounter.c GetTrainerType does the same for 4-8.",
+  "0": {
+   "pearl": "NONE",
+   "evtype": 0,
+   "uses": 2711
+  },
+  "1": {
+   "pearl": "NORMAL",
+   "evtype": 1,
+   "uses": 411,
+   "note": "p0 = data[0] = sight range (Black 2 trainers: p0 0-7)"
+  },
+  "2": {
+   "pearl": "VIEW_ALL_DIRECTIONS",
+   "evtype": 2,
+   "uses": 11,
+   "note": "the hidden ninja trainers (move 51-54)"
+  },
+  "3": {
+   "pearl": "UNK_003",
+   "evtype": 0,
+   "uses": 6,
+   "note": "only on 6 item balls (Routes 203, 205S), not trainers; Black 2 item balls are evtype 0"
+  },
+  "4": {
+   "pearl": "FACE_SIDES",
+   "evtype": 4,
+   "uses": 13
+  },
+  "5": {
+   "pearl": "FACE_COUNTERCLOCKWISE",
+   "evtype": 5,
+   "uses": 3
+  },
+  "6": {
+   "pearl": "FACE_CLOCKWISE",
+   "evtype": 6,
+   "uses": 2
+  },
+  "7": {
+   "pearl": "SPIN_COUNTERCLOCKWISE",
+   "evtype": 7,
+   "uses": 3,
+   "note": "Black 2 evtype 7: sight like 1, walker handler = the default one (ACTOR_EVENTTYPE_FUNCS[7]); Black 2 itself has 1 such trainer"
+  }
+ }
+}

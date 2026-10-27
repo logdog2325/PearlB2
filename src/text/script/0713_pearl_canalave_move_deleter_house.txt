@@ -1,0 +1,9 @@
+PearlCanalaveMoveDeleterHouse_Text_000 = Um...\nWho did you say I was again?{be01}\n...\n...{be01}\nOh, yes, I remember now!\nI’m the Move Deleter!{be01}
+PearlCanalaveMoveDeleterHouse_Text_001 = You’ve come to make me force your\nPokémon to forget some moves?
+PearlCanalaveMoveDeleterHouse_Text_002 = Which Pokémon should forget a move?{be01}
+PearlCanalaveMoveDeleterHouse_Text_003 = Remember me if there are moves that\nneed to be forgotten.
+PearlCanalaveMoveDeleterHouse_Text_004 = That Pokémon knows only one move,\nso it can’t be forgotten...{be01}
+PearlCanalaveMoveDeleterHouse_Text_005 = What? That’s an Egg.\nNo Egg should know any moves.{be01}
+PearlCanalaveMoveDeleterHouse_Text_006 = OK, then.\nWhich move should be forgotten?{be01}
+PearlCanalaveMoveDeleterHouse_Text_007 = Hm! The move {0107:0}?\nShould that move be forgotten?
+PearlCanalaveMoveDeleterHouse_Text_008 = It worked perfectly!{be01}\nYour Pokémon has forgotten the move\n{0107:0} completely.

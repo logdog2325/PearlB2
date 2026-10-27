@@ -1,0 +1,7 @@
+PearlTwinleafRivalHouse2f_Text_000 = Despite the exploration team’s best\nefforts, the rare, oddly colored\nPokémon eluded detection.\nThe rumored red Gyarados failed to\nappear to the dispirited team...
+PearlTwinleafRivalHouse2f_Text_001 = That concludes our special report,\n“Search for the Red Gyarados!”{be01}\nBrought to you by Jubilife TV on\nNationwide Net!{be01}
+PearlTwinleafRivalHouse2f_Text_002 = See you next week, same time,\nsame channel!
+PearlTwinleafRivalHouse2f_Text_003 = The TV is showing the title screen\nof a video game.
+PearlTwinleafRivalHouse2f_Text_004 = The X Button\nopens the menu!
+PearlTwinleafRivalHouse2f_Text_005 = It’s a Wii!\nIt’s controlled by a Wii Remote!
+PearlTwinleafRivalHouse2f_Text_006 = {0100:0} checked the PC.{be01}\nPokémon Basics...{be01}\nPeople live alongside Pokémon in\nthis world.{be01}\nThe people that battle Pokémon are\ncalled Pokémon Trainers.

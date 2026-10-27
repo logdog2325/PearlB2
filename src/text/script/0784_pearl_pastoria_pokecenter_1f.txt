@@ -1,0 +1,15 @@
+PearlPastoriaPokecenter1f_Text_000 = The Great Marsh is vast!\nHow vast is it, you ask?{be01}\nTake a look from the Observatory\nand you can see for yourself!
+PearlPastoriaPokecenter1f_Text_001 = Pastoria’s Great Marsh was once\na part of the sea.{be01}\nThe seawater drained away over time,\nleaving the huge marshland.{be01}\nThat’s why they say there are rare\nPokémon that you can only see here.
+PearlPastoriaPokecenter1f_Text_002 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlPastoriaPokecenter1f_Text_003 = Good morning!\nWelcome to the Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlPastoriaPokecenter1f_Text_004 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to rest your Pokémon?
+PearlPastoriaPokecenter1f_Text_005 = We hope to see you again!
+PearlPastoriaPokecenter1f_Text_006 = OK, I’ll take your Pokémon for a few\nseconds.
+PearlPastoriaPokecenter1f_Text_007 = I will be pleased to take your\nPokémon for a few seconds.
+PearlPastoriaPokecenter1f_Text_008 = Thank you for waiting.{be01}\nWe’ve restored your Pokémon to full\nhealth.{be01}
+PearlPastoriaPokecenter1f_Text_009 = Thank you for waiting.
+PearlPastoriaPokecenter1f_Text_010 = We hope to see you again!
+PearlPastoriaPokecenter1f_Text_011 = Your Pokémon may be infected with\nthe Pokérus.{be01}\nLittle is known about the Pokérus\nexcept that they are microscopic{be00}\nlife-forms that attach to Pokémon.{be01}\nWhile infected, Pokémon are said to\ngrow exceptionally well.
+PearlPastoriaPokecenter1f_Text_012 = Hello, and welcome to\nthe Pokémon Center.{be01}\nWe restore your tired Pokémon\nto full health.{be01}\nWould you like to...{be01}
+PearlPastoriaPokecenter1f_Text_013 = Th-that Trainer Card!{be01}\nThat sparkling color!\nAnd all those stars!{be01}\nI’ve seen several Trainers with Silver\nTrainer Cards up to now...{be01}\nBut you’re the first to top them\nwith that Trainer Card.{be01}\nPlease, {0100:0}, may I have\nthe honor of healing your Pokémon?
+PearlPastoriaPokecenter1f_Text_014 = It’s great to see you, {0100:0}!\nYou want the usual, am I right?

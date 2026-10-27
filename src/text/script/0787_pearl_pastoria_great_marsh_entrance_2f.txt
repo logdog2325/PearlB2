@@ -1,0 +1,9 @@
+PearlPastoriaGreatMarshEntrance2f_Text_000 = It’s a pair of binoculars...\nPut $100 in it?
+PearlPastoriaGreatMarshEntrance2f_Text_001 = Not enough money...
+PearlPastoriaGreatMarshEntrance2f_Text_002 = Tell me I’m not imagining this...{be01}\nThe Great Marsh’s Pokémon seem to be\ndifferent from the ones yesterday...
+PearlPastoriaGreatMarshEntrance2f_Text_003 = Use a pair of binoculars to look out\nover the Great Marsh.{be01}\nYou can see what kinds of Pokémon\ncan be caught, and where they are.
+PearlPastoriaGreatMarshEntrance2f_Text_004 = There are shuttle trains in the\nmarsh called Quick Trams.{be01}\nYou should take those if you’re going\nto a deeper area in the marsh.
+PearlPastoriaGreatMarshEntrance2f_Text_005 = When you’re walking on the bog,\nyou sometimes sink right in...{be01}\nI get so flustered trying to get out,\nI have no luck catching anything.
+PearlPastoriaGreatMarshEntrance2f_Text_006 = The binoculars aren’t working\nright now.
+PearlPastoriaGreatMarshEntrance2f_Text_007 = The binoculars aren’t working\nright now.
+PearlPastoriaGreatMarshEntrance2f_Text_008 = The binoculars aren’t working\nright now.

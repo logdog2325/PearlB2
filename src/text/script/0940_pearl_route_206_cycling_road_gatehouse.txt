@@ -1,0 +1,9 @@
+PearlRoute206CyclingRoadGatehouse_Text_000 = You need a Bicycle to go out on\nCycling Road!
+PearlRoute206CyclingRoadGatehouse_Text_001 = You need a Bicycle to go out on\nCycling Road!{be01}
+PearlRoute206CyclingRoadGatehouse_Text_002 = Learn how to shift gears, and you’ll\nbe able to ride anywhere.
+PearlRoute206CyclingRoadGatehouse_Text_003 = What’s a Bicycle without this?{be01}\nYou’ve got to have a Flag!\nIt’s a Pokémon Accessory!{be01}
+PearlRoute206CyclingRoadGatehouse_Text_004 = Go through Mt. Coronet from here,\nand you can get to Hearthome City.{be01}\nHearthome is where they hold Pokémon\nContests.{be01}\nYou should dress up your Pokémon for\nContests with your Accessories.
+PearlRoute206CyclingRoadGatehouse_Text_005 = {0100:0} put away the\n{0100:1} in the Fashion Case.
+PearlRoute206CyclingRoadGatehouse_Text_006 = {0100:0} put away the\nFlag in the Fashion Case.
+PearlRoute206CyclingRoadGatehouse_Text_007 = Obtained the {0109:0}!
+PearlRoute206CyclingRoadGatehouse_Text_008 = Obtained the Flag!

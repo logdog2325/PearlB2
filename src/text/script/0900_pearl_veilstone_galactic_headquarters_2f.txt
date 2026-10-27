@@ -1,0 +1,8 @@
+PearlVeilstoneGalacticHeadquarters2f_Text_000 = It’s a bed...\nWant to take a rest?
+PearlVeilstoneGalacticHeadquarters2f_Text_001 = {0100:0} quickly fell asleep\nin the bed...{be01}
+PearlVeilstoneGalacticHeadquarters2f_Text_002 = {0100:0} and the Pokémon\nbecame fully healed from the rest!
+PearlVeilstoneGalacticHeadquarters2f_Text_003 = Team Galactic Nap Room{be01}\nEnsure the bed is unoccupied\nbefore getting into it!
+PearlVeilstoneGalacticHeadquarters2f_Text_004 = Team Galactic TV Room{be01}\nState-of-the-art audio & video\nsystem for member use only!{be01}\nOnward to a new universe!\nTeam Galactic!
+PearlVeilstoneGalacticHeadquarters2f_Text_005 = The Team Galactic credo!\nEverything belongs to Team Galactic!{be01}\nLook beyond the world--space will\nbecome Team Galactic’s!
+PearlVeilstoneGalacticHeadquarters2f_Text_006 = There is a notice tacked on to\nthe kitchen sink.{be01}\n“Health and prosperity through\nthe partaking of favorite foods!”{be01}\nFoul, unidentifiable substances are\ncaked around the sink...
+PearlVeilstoneGalacticHeadquarters2f_Text_007 = There is a notice taped on to\nthe refrigerator.{be01}\n“Drink all you wish and gain the\nenergy to move us forward!”{be01}\nThe refrigerator is filled with murky,\nsinister drinks and nothing else...

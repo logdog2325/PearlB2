@@ -1,0 +1,10 @@
+PearlPokemonLeagueCynthiaRoom_Text_000 = Cynthia: Have you been keeping well?{be01}\nThank you for Mt. Coronet.\nI’m truly grateful.{be01}\nTogether, you and your Pokémon\novercame all the challenges you{be00}\nfaced, however difficult.{be01}\nIt means that you’ve triumphed\nover any personal weaknesses, too.{be01}\nThe power you learned...\nI can feel it emanating from you.{be01}\nBut that’s enough talk.\nLet’s get on with why you’re here.{be01}\nAs the Pokémon League Champion,\nI accept your challenge!{be01}
+PearlPokemonLeagueCynthiaRoom_Text_001 = Cynthia: That was excellent.\nTruly, an outstanding battle.{be01}\nYou gave the support your Pokémon\nneeded to maximize their power.{be01}\nAnd you guided them with certainty\nto secure victory.{be01}\nYou have both passion and\ncalculating coolness.{be01}\nTogether, you and your Pokémon \ncan overcome any challenge{be00}\nthat may come your way.{be01}\nThose are the impressions I got\nfrom our battle.{be01}\nI’m glad I got to take part in the\ncrowning of Sinnoh’s new Champion!{be01}
+PearlPokemonLeagueCynthiaRoom_Text_002 = Come with me.\nWe’ll take the lift.{be01}
+PearlPokemonLeagueCynthiaRoom_Text_003 =                  
+PearlPokemonLeagueCynthiaRoom_Text_004 =                                                                                                           
+PearlPokemonLeagueCynthiaRoom_Text_005 =                           
+PearlPokemonLeagueCynthiaRoom_Text_006 =                       
+PearlPokemonLeagueCynthiaRoom_Text_007 =                       
+PearlPokemonLeagueCynthiaRoom_Text_008 =               
+PearlPokemonLeagueCynthiaRoom_Text_009 = Cynthia: One look at you tells\nme many things about you.{be01}\nTogether, you and your Pokémon\novercame all the challenges you{be00}\nfaced, however difficult.{be01}\nIt means that you’ve triumphed over\nany personal weaknesses, too.{be01}\nThe power you learned...\nI can feel it from you.{be01}\nThat’s enough talking.\nLet’s get on with why you’re here.{be01}\nI, Cynthia, accept your challenge as\nthe Pokémon League Champion!{be01}\nThere won’t be any letup from me!{be01}

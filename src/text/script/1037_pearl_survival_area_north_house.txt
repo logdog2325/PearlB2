@@ -1,0 +1,1 @@
+PearlSurvivalAreaNorthHouse_Text_000 = You took the trouble of coming here?\nI’m sorry, but there’s nothing!{be01}\nIt’s a sad day for me not to be able\nto share in your joy!

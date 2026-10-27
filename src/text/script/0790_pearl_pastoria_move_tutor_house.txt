@@ -1,0 +1,17 @@
+PearlPastoriaMoveTutorHouse_Text_000 = Everyone calls me the Pokémon\nMove Maniac. I prefer Move Tutor.{be01}\nI know every move that Pokémon learn\nwhile they’re leveling up, and I can{be00}\nteach Pokémon those moves.{be01}\nI can teach a move to a Pokémon\nof yours if you’d like.{be01}\nI’ll do it if you’ll trade me\na Heart Scale.{be01}
+PearlPastoriaMoveTutorHouse_Text_001 = Oh! That’s it! That’s an honest-to-\ngoodness Heart Scale!{be01}\nLet me guess, you want me to teach\none of your Pokémon a move?{be01}
+PearlPastoriaMoveTutorHouse_Text_002 = If any of your Pokémon needs to learn a\nmove, come back with a Heart Scale.
+PearlPastoriaMoveTutorHouse_Text_003 = Which Pokémon needs tutoring?{be01}
+PearlPastoriaMoveTutorHouse_Text_004 = Which move should I teach?{be01}
+PearlPastoriaMoveTutorHouse_Text_005 = Sorry...{be01}\nThere isn’t any move I can teach\nthat Pokémon.
+PearlPastoriaMoveTutorHouse_Text_006 = Hunh?{be01}\nDon’t you think it’d be tough for\nan Egg to learn a move?
+PearlPastoriaMoveTutorHouse_Text_007 =                       
+PearlPastoriaMoveTutorHouse_Text_008 =                
+PearlPastoriaMoveTutorHouse_Text_009 =                            
+PearlPastoriaMoveTutorHouse_Text_010 =                        
+PearlPastoriaMoveTutorHouse_Text_011 =                                                                                     
+PearlPastoriaMoveTutorHouse_Text_012 =                             
+PearlPastoriaMoveTutorHouse_Text_013 =                        
+PearlPastoriaMoveTutorHouse_Text_014 =                      
+PearlPastoriaMoveTutorHouse_Text_015 =                                                                         
+PearlPastoriaMoveTutorHouse_Text_016 = {0100:3} handed over\n{0109:4} in exchange.

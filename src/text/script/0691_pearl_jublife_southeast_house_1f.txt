@@ -1,0 +1,2 @@
+PearlJublifeSoutheastHouse1f_Text_000 = Pokémon are wonderful, deeply\nmysterious creatures.{be01}\nBut to Trainers, it seems the only\nthing that matters is battling!
+PearlJublifeSoutheastHouse1f_Text_001 = Hello there, Trainer!{be01}\nIf you get stumped and don’t know\nwhat to do...{be01}\nTalk to people!\nTalk to everyone you see!{be01}\nGo places!\nGo wherever you can!{be01}\nYou’ll find many new places by\ndoing just that.

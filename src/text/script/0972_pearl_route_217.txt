@@ -1,0 +1,16 @@
+PearlRoute217_Text_000 = I’m using the Dowsing Machine on\nmy Pokétch.{be01}\nI’m looking for things buried under\nthe snow.
+PearlRoute217_Text_001 = The boulder is encrusted with ice.\nIt is bone chilling to touch.
+PearlRoute217_Text_002 = Rt. 217\nLake Acuity
+PearlRoute217_Text_003 = Rt. 216\nLake Acuity
+PearlRoute217_Text_004 = {0100:0} put the {0109:1}\nin the {ff00:2}{0112:2}{ff00:0} Pocket.
+PearlRoute217_Text_005 = {0100:0} found\n{0109:1} {0107:2}!
+PearlRoute217_Text_006 = {0100:0} found\n{0109:1}!
+PearlRoute217_Text_007 = Obtained the {0109:0}!{be01}\nToo bad!\nThe Bag is full...
+PearlRoute217_Text_008 = There is text engraved in the back\nof the obtained Plate...{be01}\n“When the universe was created,\nits shards became this Plate.”{be01}
+PearlRoute217_Text_009 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The power of defeated giants\ninfuses this Plate.”{be01}
+PearlRoute217_Text_010 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two beings of time and space set\nfree from the Original One.”{be01}
+PearlRoute217_Text_011 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Three beings were born to bind\ntime and space.”{be01}
+PearlRoute217_Text_012 = There is text engraved in the back\nof the obtained Plate...{be01}\n“Two make matter, and three make\nspirit, shaping the world.”{be01}
+PearlRoute217_Text_013 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The Original One breathed alone\nbefore the universe came.”{be01}
+PearlRoute217_Text_014 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The powers of Plates are shared\namong Pokémon.”{be01}
+PearlRoute217_Text_015 = There is text engraved in the back\nof the obtained Plate...{be01}\n“The rightful bearer of a Plate\ndraws from the Plate it holds.”{be01}

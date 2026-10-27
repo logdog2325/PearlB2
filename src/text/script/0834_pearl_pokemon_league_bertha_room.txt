@@ -1,0 +1,3 @@
+PearlPokemonLeagueBerthaRoom_Text_000 = Well, well.{be01}\nYou’re quite the adorable Trainer,\nbut you’ve also got a spine.{be01}\nAhaha!\nI’m Bertha.{be01}\nI have a preference for Ground-type\nPokémon.{be01}\nWell, would you show this old lady\nhow much you’ve learned?{be01}
+PearlPokemonLeagueBerthaRoom_Text_001 = You’re quite something, youngster.{be01}\nI like how you and your Pokémon\nearned the win by working as one.{be01}\nThat’s what makes you so strong.{be01}\nAhahaha! I think that you can\ngo as far as you want.
+PearlPokemonLeagueBerthaRoom_Text_002 = The Trainer in the next room is a\nmuch more formidable opponent.{be01}\nYou really must have your wits\nabout you.{be01}\nHowever, I think you can go as far\nas you desire. Ahahaha!

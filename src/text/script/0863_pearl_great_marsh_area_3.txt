@@ -1,0 +1,10 @@
+PearlGreatMarshArea3_Text_000 = If you throw food at Pokémon, it\nmakes them easier to catch...{be01}\nBut they’re also more likely to\nbolt when they eat.{be01}\nIf you throw mud at them, they\nalso get easier to catch...{be01}\nBut they also get more likely to\nbolt out of anger.{be01}\nIt’s hard to decide what I should\nbe doing.
+PearlGreatMarshArea3_Text_001 = Great Marsh Area 3
+PearlGreatMarshArea3_Text_002 = Where would you like to go?
+PearlGreatMarshArea3_Text_003 = AREA 1
+PearlGreatMarshArea3_Text_004 = AREA 2
+PearlGreatMarshArea3_Text_005 = AREA 5
+PearlGreatMarshArea3_Text_006 = AREA 6
+PearlGreatMarshArea3_Text_007 = EXIT
+PearlGreatMarshArea3_Text_008 = {0100:0} didn’t board\nthe Quick Tram.
+PearlGreatMarshArea3_Text_009 = The Quick Tram is being prepared.\nPlease come again!

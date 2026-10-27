@@ -1,0 +1,950 @@
+{
+ "_doc": "Pearl (Diamond/Pearl US) overworld movement action codes 0x00-0x68 (u16 code,u16 count pairs ending 0xFE, ApplyMovement 0x5E) mapped to Black 2 (US) ActorCmdExec Move codes. Pearl table: pokediamond arm9/asm/unk_02058EE8.s UNK_020F6440 (105 entries; sub_0205ADDC asserts code < 0x69), handlers in arm9/asm/unk_0205AD98.s; step-0 args (dir, units/frame, frames, anim) read from the asm. Names: pokeplatinum generated/movement_actions.txt; Platinum src/unk_020EDBAC.c gMovementActionFuncs + src/unk_020655F4.c have identical semantics/params for 0x00-0x68 (Platinum only appends 0x69-0x99). Black 2: pokebw2 build/b2_us/build/arm9_ov036.bin, table ACTOR_ACTION_COMMAND_TABLES at 0x021ccae8 (= 0x021cca50 + 38 words; 193 entries, 0-192), handlers disassembled from build/b2_us/delinks/src/ov036/fldmmdl_acmd.o. Both fields run at 30 fps (pokediamond main.c double VBlank wait; pokebw2 fieldmap.c GCTX_HIDChangeFPS(30)); a tile = 16 units, frames/tile identical in both. uses = Move lines in work/pearl/scripts/*.txt (2940 lines, 126 files); count_sum = sum of counts. b2 = code to emit (a substitute when exact is false). exact = same action and same timing, ignoring sprite-anim ids and the 1-frame walk-in-place hold.",
+ "codes": {
+  "0x00": {
+   "pearl_name": "FACE_NORTH",
+   "b2": 0,
+   "b2_name": "FaceNorth",
+   "uses": 49,
+   "count_sum": 61,
+   "exact": true,
+   "note": "turn only; respects lock-facing flag in both"
+  },
+  "0x01": {
+   "pearl_name": "FACE_SOUTH",
+   "b2": 1,
+   "b2_name": "FaceSouth",
+   "uses": 58,
+   "count_sum": 70,
+   "exact": true,
+   "note": "turn only; respects lock-facing flag in both"
+  },
+  "0x02": {
+   "pearl_name": "FACE_WEST",
+   "b2": 2,
+   "b2_name": "FaceWest",
+   "uses": 55,
+   "count_sum": 67,
+   "exact": true,
+   "note": "turn only; respects lock-facing flag in both"
+  },
+  "0x03": {
+   "pearl_name": "FACE_EAST",
+   "b2": 3,
+   "b2_name": "FaceEast",
+   "uses": 55,
+   "count_sum": 67,
+   "exact": true,
+   "note": "turn only; respects lock-facing flag in both"
+  },
+  "0x04": {
+   "pearl_name": "WALK_SLOWER_NORTH",
+   "b2": 4,
+   "b2_name": "WalkSlowerNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "32 frames/tile (0.5/frame x 32), both games"
+  },
+  "0x05": {
+   "pearl_name": "WALK_SLOWER_SOUTH",
+   "b2": 5,
+   "b2_name": "WalkSlowerSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "32 frames/tile (0.5/frame x 32), both games"
+  },
+  "0x06": {
+   "pearl_name": "WALK_SLOWER_WEST",
+   "b2": 6,
+   "b2_name": "WalkSlowerWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "32 frames/tile (0.5/frame x 32), both games"
+  },
+  "0x07": {
+   "pearl_name": "WALK_SLOWER_EAST",
+   "b2": 7,
+   "b2_name": "WalkSlowerEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "32 frames/tile (0.5/frame x 32), both games"
+  },
+  "0x08": {
+   "pearl_name": "WALK_SLOW_NORTH",
+   "b2": 8,
+   "b2_name": "WalkSlowNorth",
+   "uses": 9,
+   "count_sum": 26,
+   "exact": true,
+   "note": "16 frames/tile (1/frame x 16), both games"
+  },
+  "0x09": {
+   "pearl_name": "WALK_SLOW_SOUTH",
+   "b2": 9,
+   "b2_name": "WalkSlowSouth",
+   "uses": 5,
+   "count_sum": 10,
+   "exact": true,
+   "note": "16 frames/tile (1/frame x 16), both games"
+  },
+  "0x0A": {
+   "pearl_name": "WALK_SLOW_WEST",
+   "b2": 10,
+   "b2_name": "WalkSlowWest",
+   "uses": 7,
+   "count_sum": 9,
+   "exact": true,
+   "note": "16 frames/tile (1/frame x 16), both games"
+  },
+  "0x0B": {
+   "pearl_name": "WALK_SLOW_EAST",
+   "b2": 11,
+   "b2_name": "WalkSlowEast",
+   "uses": 7,
+   "count_sum": 13,
+   "exact": true,
+   "note": "16 frames/tile (1/frame x 16), both games"
+  },
+  "0x0C": {
+   "pearl_name": "WALK_NORMAL_NORTH",
+   "b2": 12,
+   "b2_name": "WalkNormalNorth",
+   "uses": 295,
+   "count_sum": 940,
+   "exact": true,
+   "note": "8 frames/tile (2/frame x 8), both games"
+  },
+  "0x0D": {
+   "pearl_name": "WALK_NORMAL_SOUTH",
+   "b2": 13,
+   "b2_name": "WalkNormalSouth",
+   "uses": 317,
+   "count_sum": 866,
+   "exact": true,
+   "note": "8 frames/tile (2/frame x 8), both games"
+  },
+  "0x0E": {
+   "pearl_name": "WALK_NORMAL_WEST",
+   "b2": 14,
+   "b2_name": "WalkNormalWest",
+   "uses": 221,
+   "count_sum": 567,
+   "exact": true,
+   "note": "8 frames/tile (2/frame x 8), both games"
+  },
+  "0x0F": {
+   "pearl_name": "WALK_NORMAL_EAST",
+   "b2": 15,
+   "b2_name": "WalkNormalEast",
+   "uses": 258,
+   "count_sum": 840,
+   "exact": true,
+   "note": "8 frames/tile (2/frame x 8), both games"
+  },
+  "0x10": {
+   "pearl_name": "WALK_FAST_NORTH",
+   "b2": 16,
+   "b2_name": "WalkFastNorth",
+   "uses": 72,
+   "count_sum": 301,
+   "exact": true,
+   "note": "4 frames/tile (4/frame x 4), both games"
+  },
+  "0x11": {
+   "pearl_name": "WALK_FAST_SOUTH",
+   "b2": 17,
+   "b2_name": "WalkFastSouth",
+   "uses": 44,
+   "count_sum": 165,
+   "exact": true,
+   "note": "4 frames/tile (4/frame x 4), both games"
+  },
+  "0x12": {
+   "pearl_name": "WALK_FAST_WEST",
+   "b2": 18,
+   "b2_name": "WalkFastWest",
+   "uses": 66,
+   "count_sum": 200,
+   "exact": true,
+   "note": "4 frames/tile (4/frame x 4), both games"
+  },
+  "0x13": {
+   "pearl_name": "WALK_FAST_EAST",
+   "b2": 19,
+   "b2_name": "WalkFastEast",
+   "uses": 79,
+   "count_sum": 361,
+   "exact": true,
+   "note": "4 frames/tile (4/frame x 4), both games"
+  },
+  "0x14": {
+   "pearl_name": "WALK_FASTER_NORTH",
+   "b2": 20,
+   "b2_name": "WalkFasterNorth",
+   "uses": 2,
+   "count_sum": 7,
+   "exact": true,
+   "note": "2 frames/tile (8/frame x 2), both games"
+  },
+  "0x15": {
+   "pearl_name": "WALK_FASTER_SOUTH",
+   "b2": 21,
+   "b2_name": "WalkFasterSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "2 frames/tile (8/frame x 2), both games"
+  },
+  "0x16": {
+   "pearl_name": "WALK_FASTER_WEST",
+   "b2": 22,
+   "b2_name": "WalkFasterWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "2 frames/tile (8/frame x 2), both games"
+  },
+  "0x17": {
+   "pearl_name": "WALK_FASTER_EAST",
+   "b2": 23,
+   "b2_name": "WalkFasterEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "2 frames/tile (8/frame x 2), both games"
+  },
+  "0x18": {
+   "pearl_name": "WALK_ON_SPOT_SLOWER_NORTH",
+   "b2": 24,
+   "b2_name": "WalkOnSpotSlowerNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 32 frames; Pearl stores duration+1 (holds 33 frames), B2 stores 32 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x19": {
+   "pearl_name": "WALK_ON_SPOT_SLOWER_SOUTH",
+   "b2": 25,
+   "b2_name": "WalkOnSpotSlowerSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 32 frames; Pearl stores duration+1 (holds 33 frames), B2 stores 32 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1A": {
+   "pearl_name": "WALK_ON_SPOT_SLOWER_WEST",
+   "b2": 26,
+   "b2_name": "WalkOnSpotSlowerWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 32 frames; Pearl stores duration+1 (holds 33 frames), B2 stores 32 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1B": {
+   "pearl_name": "WALK_ON_SPOT_SLOWER_EAST",
+   "b2": 27,
+   "b2_name": "WalkOnSpotSlowerEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 32 frames; Pearl stores duration+1 (holds 33 frames), B2 stores 32 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1C": {
+   "pearl_name": "WALK_ON_SPOT_SLOW_NORTH",
+   "b2": 28,
+   "b2_name": "WalkOnSpotSlowNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 16 frames; Pearl stores duration+1 (holds 17 frames), B2 stores 16 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1D": {
+   "pearl_name": "WALK_ON_SPOT_SLOW_SOUTH",
+   "b2": 29,
+   "b2_name": "WalkOnSpotSlowSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 16 frames; Pearl stores duration+1 (holds 17 frames), B2 stores 16 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1E": {
+   "pearl_name": "WALK_ON_SPOT_SLOW_WEST",
+   "b2": 30,
+   "b2_name": "WalkOnSpotSlowWest",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": true,
+   "note": "step anim in place, 16 frames; Pearl stores duration+1 (holds 17 frames), B2 stores 16 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x1F": {
+   "pearl_name": "WALK_ON_SPOT_SLOW_EAST",
+   "b2": 31,
+   "b2_name": "WalkOnSpotSlowEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 16 frames; Pearl stores duration+1 (holds 17 frames), B2 stores 16 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x20": {
+   "pearl_name": "WALK_ON_SPOT_NORMAL_NORTH",
+   "b2": 32,
+   "b2_name": "WalkOnSpotNormalNorth",
+   "uses": 138,
+   "count_sum": 138,
+   "exact": true,
+   "note": "step anim in place, 8 frames; Pearl stores duration+1 (holds 9 frames), B2 stores 8 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x21": {
+   "pearl_name": "WALK_ON_SPOT_NORMAL_SOUTH",
+   "b2": 33,
+   "b2_name": "WalkOnSpotNormalSouth",
+   "uses": 204,
+   "count_sum": 205,
+   "exact": true,
+   "note": "step anim in place, 8 frames; Pearl stores duration+1 (holds 9 frames), B2 stores 8 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x22": {
+   "pearl_name": "WALK_ON_SPOT_NORMAL_WEST",
+   "b2": 34,
+   "b2_name": "WalkOnSpotNormalWest",
+   "uses": 145,
+   "count_sum": 145,
+   "exact": true,
+   "note": "step anim in place, 8 frames; Pearl stores duration+1 (holds 9 frames), B2 stores 8 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x23": {
+   "pearl_name": "WALK_ON_SPOT_NORMAL_EAST",
+   "b2": 35,
+   "b2_name": "WalkOnSpotNormalEast",
+   "uses": 155,
+   "count_sum": 155,
+   "exact": true,
+   "note": "step anim in place, 8 frames; Pearl stores duration+1 (holds 9 frames), B2 stores 8 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x24": {
+   "pearl_name": "WALK_ON_SPOT_FAST_NORTH",
+   "b2": 36,
+   "b2_name": "WalkOnSpotFastNorth",
+   "uses": 23,
+   "count_sum": 23,
+   "exact": true,
+   "note": "step anim in place, 4 frames; Pearl stores duration+1 (holds 5 frames), B2 stores 4 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x25": {
+   "pearl_name": "WALK_ON_SPOT_FAST_SOUTH",
+   "b2": 37,
+   "b2_name": "WalkOnSpotFastSouth",
+   "uses": 24,
+   "count_sum": 25,
+   "exact": true,
+   "note": "step anim in place, 4 frames; Pearl stores duration+1 (holds 5 frames), B2 stores 4 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x26": {
+   "pearl_name": "WALK_ON_SPOT_FAST_WEST",
+   "b2": 38,
+   "b2_name": "WalkOnSpotFastWest",
+   "uses": 8,
+   "count_sum": 8,
+   "exact": true,
+   "note": "step anim in place, 4 frames; Pearl stores duration+1 (holds 5 frames), B2 stores 4 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x27": {
+   "pearl_name": "WALK_ON_SPOT_FAST_EAST",
+   "b2": 39,
+   "b2_name": "WalkOnSpotFastEast",
+   "uses": 25,
+   "count_sum": 26,
+   "exact": true,
+   "note": "step anim in place, 4 frames; Pearl stores duration+1 (holds 5 frames), B2 stores 4 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x28": {
+   "pearl_name": "WALK_ON_SPOT_FASTER_NORTH",
+   "b2": 40,
+   "b2_name": "WalkOnSpotFasterNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 2 frames; Pearl stores duration+1 (holds 3 frames), B2 stores 2 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x29": {
+   "pearl_name": "WALK_ON_SPOT_FASTER_SOUTH",
+   "b2": 41,
+   "b2_name": "WalkOnSpotFasterSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 2 frames; Pearl stores duration+1 (holds 3 frames), B2 stores 2 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x2A": {
+   "pearl_name": "WALK_ON_SPOT_FASTER_WEST",
+   "b2": 42,
+   "b2_name": "WalkOnSpotFasterWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 2 frames; Pearl stores duration+1 (holds 3 frames), B2 stores 2 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x2B": {
+   "pearl_name": "WALK_ON_SPOT_FASTER_EAST",
+   "b2": 43,
+   "b2_name": "WalkOnSpotFasterEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "step anim in place, 2 frames; Pearl stores duration+1 (holds 3 frames), B2 stores 2 -> B2 is 1 frame shorter (negligible, no closer B2 code)"
+  },
+  "0x2C": {
+   "pearl_name": "JUMP_ON_SPOT_SLOW_NORTH",
+   "b2": 44,
+   "b2_name": "JumpOnSpotSlowNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 16-frame hop in place, but B2 uses jump-height table 1 (peak 6 units) where Pearl uses table 0 (peak 12): lower hop. No high-hop-in-place code in B2"
+  },
+  "0x2D": {
+   "pearl_name": "JUMP_ON_SPOT_SLOW_SOUTH",
+   "b2": 45,
+   "b2_name": "JumpOnSpotSlowSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 16-frame hop in place, but B2 uses jump-height table 1 (peak 6 units) where Pearl uses table 0 (peak 12): lower hop. No high-hop-in-place code in B2"
+  },
+  "0x2E": {
+   "pearl_name": "JUMP_ON_SPOT_SLOW_WEST",
+   "b2": 46,
+   "b2_name": "JumpOnSpotSlowWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 16-frame hop in place, but B2 uses jump-height table 1 (peak 6 units) where Pearl uses table 0 (peak 12): lower hop. No high-hop-in-place code in B2"
+  },
+  "0x2F": {
+   "pearl_name": "JUMP_ON_SPOT_SLOW_EAST",
+   "b2": 47,
+   "b2_name": "JumpOnSpotSlowEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 16-frame hop in place, but B2 uses jump-height table 1 (peak 6 units) where Pearl uses table 0 (peak 12): lower hop. No high-hop-in-place code in B2"
+  },
+  "0x30": {
+   "pearl_name": "JUMP_ON_SPOT_FAST_NORTH",
+   "b2": 48,
+   "b2_name": "JumpOnSpotFastNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 8-frame hop in place, but B2 uses jump-height table 1 (low, peak 6) vs Pearl table 0 (high, peak 12)"
+  },
+  "0x31": {
+   "pearl_name": "JUMP_ON_SPOT_FAST_SOUTH",
+   "b2": 49,
+   "b2_name": "JumpOnSpotFastSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 8-frame hop in place, but B2 uses jump-height table 1 (low, peak 6) vs Pearl table 0 (high, peak 12)"
+  },
+  "0x32": {
+   "pearl_name": "JUMP_ON_SPOT_FAST_WEST",
+   "b2": 50,
+   "b2_name": "JumpOnSpotFastWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 8-frame hop in place, but B2 uses jump-height table 1 (low, peak 6) vs Pearl table 0 (high, peak 12)"
+  },
+  "0x33": {
+   "pearl_name": "JUMP_ON_SPOT_FAST_EAST",
+   "b2": 51,
+   "b2_name": "JumpOnSpotFastEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "same 8-frame hop in place, but B2 uses jump-height table 1 (low, peak 6) vs Pearl table 0 (high, peak 12)"
+  },
+  "0x34": {
+   "pearl_name": "JUMP_NEAR_FAST_NORTH",
+   "b2": 52,
+   "b2_name": "JumpNearFastNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 1 tile in 8 frames, high arc, both"
+  },
+  "0x35": {
+   "pearl_name": "JUMP_NEAR_FAST_SOUTH",
+   "b2": 53,
+   "b2_name": "JumpNearFastSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 1 tile in 8 frames, high arc, both"
+  },
+  "0x36": {
+   "pearl_name": "JUMP_NEAR_FAST_WEST",
+   "b2": 54,
+   "b2_name": "JumpNearFastWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 1 tile in 8 frames, high arc, both"
+  },
+  "0x37": {
+   "pearl_name": "JUMP_NEAR_FAST_EAST",
+   "b2": 55,
+   "b2_name": "JumpNearFastEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 1 tile in 8 frames, high arc, both"
+  },
+  "0x38": {
+   "pearl_name": "JUMP_FAR_NORTH",
+   "b2": 56,
+   "b2_name": "JumpFarNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 2 tiles in 16 frames (ledge), both"
+  },
+  "0x39": {
+   "pearl_name": "JUMP_FAR_SOUTH",
+   "b2": 57,
+   "b2_name": "JumpFarSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 2 tiles in 16 frames (ledge), both"
+  },
+  "0x3A": {
+   "pearl_name": "JUMP_FAR_WEST",
+   "b2": 58,
+   "b2_name": "JumpFarWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 2 tiles in 16 frames (ledge), both"
+  },
+  "0x3B": {
+   "pearl_name": "JUMP_FAR_EAST",
+   "b2": 59,
+   "b2_name": "JumpFarEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "jump 2 tiles in 16 frames (ledge), both"
+  },
+  "0x3C": {
+   "pearl_name": "DELAY_1",
+   "b2": 60,
+   "b2_name": "Delay1",
+   "uses": 6,
+   "count_sum": 6,
+   "exact": true,
+   "note": "wait 1 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x3D": {
+   "pearl_name": "DELAY_2",
+   "b2": 61,
+   "b2_name": "Delay2",
+   "uses": 25,
+   "count_sum": 25,
+   "exact": true,
+   "note": "wait 2 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x3E": {
+   "pearl_name": "DELAY_4",
+   "b2": 62,
+   "b2_name": "Delay4",
+   "uses": 59,
+   "count_sum": 166,
+   "exact": true,
+   "note": "wait 4 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x3F": {
+   "pearl_name": "DELAY_8",
+   "b2": 63,
+   "b2_name": "Delay8",
+   "uses": 243,
+   "count_sum": 496,
+   "exact": true,
+   "note": "wait 8 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x40": {
+   "pearl_name": "DELAY_15",
+   "b2": 64,
+   "b2_name": "Delay15",
+   "uses": 21,
+   "count_sum": 21,
+   "exact": true,
+   "note": "wait 15 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x41": {
+   "pearl_name": "DELAY_16",
+   "b2": 65,
+   "b2_name": "Delay16",
+   "uses": 37,
+   "count_sum": 37,
+   "exact": true,
+   "note": "wait 16 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x42": {
+   "pearl_name": "DELAY_32",
+   "b2": 66,
+   "b2_name": "Delay32",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": true,
+   "note": "wait 32 field frames (30 fps) in both; identical handler (counter N, decrement while nonzero)"
+  },
+  "0x43": {
+   "pearl_name": "WARP_OUT",
+   "b2": 67,
+   "b2_name": "WarpOut",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": true,
+   "note": "rise 2 units/frame until 40*8 units, both"
+  },
+  "0x44": {
+   "pearl_name": "WARP_IN",
+   "b2": 68,
+   "b2_name": "WarpIn",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "descend; B2 also plays a sound effect at start (Pearl silent)"
+  },
+  "0x45": {
+   "pearl_name": "SET_INVISIBLE",
+   "b2": 69,
+   "b2_name": "SetInvisible",
+   "uses": 55,
+   "count_sum": 55,
+   "exact": true,
+   "note": "Pearl flag 0x200 / B2 actor flag 4 (hidden)"
+  },
+  "0x46": {
+   "pearl_name": "SET_VISIBLE",
+   "b2": 70,
+   "b2_name": "SetVisible",
+   "uses": 4,
+   "count_sum": 4,
+   "exact": true,
+   "note": "clears hidden flag"
+  },
+  "0x47": {
+   "pearl_name": "LOCK_DIR",
+   "b2": 71,
+   "b2_name": "LockDir",
+   "uses": 25,
+   "count_sum": 25,
+   "exact": true,
+   "note": "Pearl flag 0x80 / B2 actor flag 8 (CheckSetActorFaceDir ignores turns)"
+  },
+  "0x48": {
+   "pearl_name": "UNLOCK_DIR",
+   "b2": 72,
+   "b2_name": "UnlockDir",
+   "uses": 25,
+   "count_sum": 25,
+   "exact": true,
+   "note": ""
+  },
+  "0x49": {
+   "pearl_name": "PAUSE_ANIMATION",
+   "b2": 73,
+   "b2_name": "PauseAnimation",
+   "uses": 2,
+   "count_sum": 2,
+   "exact": true,
+   "note": "Pearl flag 0x100 / B2 actor flag 0x10"
+  },
+  "0x4A": {
+   "pearl_name": "RESUME_ANIMATION",
+   "b2": 74,
+   "b2_name": "ResumeAnimation",
+   "uses": 2,
+   "count_sum": 2,
+   "exact": true,
+   "note": ""
+  },
+  "0x4B": {
+   "pearl_name": "EMOTE_EXCLAMATION_MARK",
+   "b2": 75,
+   "b2_name": "Emote ! (type 0, with SE)",
+   "uses": 106,
+   "count_sum": 106,
+   "exact": true,
+   "note": "\"!\" balloon with sound in both (Pearl model sisen_ef)"
+  },
+  "0x4C": {
+   "pearl_name": "WALK_SLIGHTLY_FAST_NORTH",
+   "b2": 76,
+   "b2_name": "WalkSlightlyFastNorth",
+   "uses": 1,
+   "count_sum": 12,
+   "exact": true,
+   "note": "1 tile in 6 frames, uneven steps 2,3,3,2,3,3 units, both"
+  },
+  "0x4D": {
+   "pearl_name": "WALK_SLIGHTLY_FAST_SOUTH",
+   "b2": 77,
+   "b2_name": "WalkSlightlyFastSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 6 frames, uneven steps 2,3,3,2,3,3 units, both"
+  },
+  "0x4E": {
+   "pearl_name": "WALK_SLIGHTLY_FAST_WEST",
+   "b2": 78,
+   "b2_name": "WalkSlightlyFastWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 6 frames, uneven steps 2,3,3,2,3,3 units, both"
+  },
+  "0x4F": {
+   "pearl_name": "WALK_SLIGHTLY_FAST_EAST",
+   "b2": 79,
+   "b2_name": "WalkSlightlyFastEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 6 frames, uneven steps 2,3,3,2,3,3 units, both"
+  },
+  "0x50": {
+   "pearl_name": "WALK_SLIGHTLY_FASTER_NORTH",
+   "b2": 80,
+   "b2_name": "WalkSlightlyFasterNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 3 frames (5,6,5 units), both"
+  },
+  "0x51": {
+   "pearl_name": "WALK_SLIGHTLY_FASTER_SOUTH",
+   "b2": 81,
+   "b2_name": "WalkSlightlyFasterSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 3 frames (5,6,5 units), both"
+  },
+  "0x52": {
+   "pearl_name": "WALK_SLIGHTLY_FASTER_WEST",
+   "b2": 82,
+   "b2_name": "WalkSlightlyFasterWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 3 frames (5,6,5 units), both"
+  },
+  "0x53": {
+   "pearl_name": "WALK_SLIGHTLY_FASTER_EAST",
+   "b2": 83,
+   "b2_name": "WalkSlightlyFasterEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 3 frames (5,6,5 units), both"
+  },
+  "0x54": {
+   "pearl_name": "WALK_FASTEST_NORTH",
+   "b2": 84,
+   "b2_name": "WalkFastestNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 1 frame (16 units), both"
+  },
+  "0x55": {
+   "pearl_name": "WALK_FASTEST_SOUTH",
+   "b2": 85,
+   "b2_name": "WalkFastestSouth",
+   "uses": 1,
+   "count_sum": 2,
+   "exact": true,
+   "note": "1 tile in 1 frame (16 units), both"
+  },
+  "0x56": {
+   "pearl_name": "WALK_FASTEST_WEST",
+   "b2": 86,
+   "b2_name": "WalkFastestWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 1 frame (16 units), both"
+  },
+  "0x57": {
+   "pearl_name": "WALK_FASTEST_EAST",
+   "b2": 87,
+   "b2_name": "WalkFastestEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 1 frame (16 units), both"
+  },
+  "0x58": {
+   "pearl_name": "RUN_NORTH",
+   "b2": 88,
+   "b2_name": "RunNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "4 frames/tile with the run sprite anim (Pearl anim 9, B2 anim 10 = same role)"
+  },
+  "0x59": {
+   "pearl_name": "RUN_SOUTH",
+   "b2": 89,
+   "b2_name": "RunSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "4 frames/tile with the run sprite anim (Pearl anim 9, B2 anim 10 = same role)"
+  },
+  "0x5A": {
+   "pearl_name": "RUN_WEST",
+   "b2": 90,
+   "b2_name": "RunWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "4 frames/tile with the run sprite anim (Pearl anim 9, B2 anim 10 = same role)"
+  },
+  "0x5B": {
+   "pearl_name": "RUN_EAST",
+   "b2": 91,
+   "b2_name": "RunEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "4 frames/tile with the run sprite anim (Pearl anim 9, B2 anim 10 = same role)"
+  },
+  "0x5C": {
+   "pearl_name": "JUMP_NEAR_SLOW_WEST",
+   "b2": 92,
+   "b2_name": "JumpNearSlowWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 16 frames, 1 unit/frame, arc speed 0xF0; anim id differs (cosmetic). NB HoennB2 notes call 92-95 \"three tiles\": only 94/95 are"
+  },
+  "0x5D": {
+   "pearl_name": "JUMP_NEAR_SLOW_EAST",
+   "b2": 93,
+   "b2_name": "JumpNearSlowEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "as 0x5C, east"
+  },
+  "0x5E": {
+   "pearl_name": "JUMP_FARTHER_WEST",
+   "b2": 94,
+   "b2_name": "JumpFartherWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "3 tiles in 12 frames (4 units/frame), arc 0x140, both; west/east only"
+  },
+  "0x5F": {
+   "pearl_name": "JUMP_FARTHER_EAST",
+   "b2": 95,
+   "b2_name": "JumpFartherEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "as 0x5E, east"
+  },
+  "0x60": {
+   "pearl_name": "WALK_EVER_SO_SLIGHTLY_FAST_NORTH",
+   "b2": 96,
+   "b2_name": "WalkEverSoSlightlyFastNorth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 7 frames (0x2500 then 6x0x2480), both"
+  },
+  "0x61": {
+   "pearl_name": "WALK_EVER_SO_SLIGHTLY_FAST_SOUTH",
+   "b2": 97,
+   "b2_name": "WalkEverSoSlightlyFastSouth",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 7 frames (0x2500 then 6x0x2480), both"
+  },
+  "0x62": {
+   "pearl_name": "WALK_EVER_SO_SLIGHTLY_FAST_WEST",
+   "b2": 98,
+   "b2_name": "WalkEverSoSlightlyFastWest",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 7 frames (0x2500 then 6x0x2480), both"
+  },
+  "0x63": {
+   "pearl_name": "WALK_EVER_SO_SLIGHTLY_FAST_EAST",
+   "b2": 99,
+   "b2_name": "WalkEverSoSlightlyFastEast",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": true,
+   "note": "1 tile in 7 frames (0x2500 then 6x0x2480), both"
+  },
+  "0x64": {
+   "pearl_name": "POKECENTER_NURSE_BOW",
+   "b2": 100,
+   "b2_name": "PokecenterNurseBow",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": false,
+   "note": "Pearl: bow anim 8 frames then face south; B2: bow anim until it ends. Same role: B2 PC scripts use Move 100 + Move 62 exactly like Pearl 0x64 + 0x3E"
+  },
+  "0x65": {
+   "pearl_name": "REVEAL_TRAINER",
+   "b2": 101,
+   "b2_name": "RevealTrainer",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": true,
+   "note": "hidden trainer pops out (hop with jump table 0, clears hide effect), same structure in both"
+  },
+  "0x66": {
+   "pearl_name": "PLAYER_GIVE",
+   "b2": 102,
+   "b2_name": "PlayerGive",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": false,
+   "note": "Pearl: player anim 0 for 21 frames; B2: anim 1 for 40 frames. Same role (Pokemon Center hand-over); B2 PC scripts use 102"
+  },
+  "0x67": {
+   "pearl_name": "EMOTE_DOUBLE_EXCLAMATION_MARK",
+   "b2": 75,
+   "b2_name": "Emote ! (substitute)",
+   "uses": 0,
+   "count_sum": 0,
+   "exact": false,
+   "note": "Pearl \"!!\" balloon (model saisen_ef, rematch); B2 has no \"!!\" (its types: ! ? note ...); B2 103 is a plain \"!\" too. Use 75"
+  },
+  "0x68": {
+   "pearl_name": "PLAYER_RECEIVE",
+   "b2": 104,
+   "b2_name": "PlayerReceive",
+   "uses": 1,
+   "count_sum": 1,
+   "exact": false,
+   "note": "Pearl: player anim 1 for 21 frames; B2: anim 2 for 41 frames. Same role; B2 PC scripts use 104"
+  }
+ }
+}
