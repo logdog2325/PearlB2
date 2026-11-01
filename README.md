@@ -1,7 +1,7 @@
-# Pokémon Pearl NDS (PearlB2)
+# Pokémon Adamant Diamond & Lustrous Pearl
 
-Pokémon Pearl's Sinnoh rebuilt inside Pokémon Black 2, in the Gen 5 style, the way HoennB2 rebuilt Hoenn.
-Releases are `.bps` patches only (`Pokemon_Pearl_NDS_vNN.bps`); no ROMs are ever included.
+Sinnoh's Diamond and Pearl rebuilt inside Pokémon Black 2, in the Gen 5 style. Lustrous Pearl is out as an alpha;
+Adamant Diamond comes next. Releases are `.bps` patches only; no ROMs are ever included.
 
 ## Playing it
 1. Get a clean **Pokémon Black 2 (USA)** ROM from your own cartridge.
